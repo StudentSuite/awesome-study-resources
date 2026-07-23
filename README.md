@@ -2,18 +2,18 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./logo-lockup-dark.svg">
-  <img src="./logo-lockup.svg" alt="Awesome Student Resources" width="460">
+  <img src="./logo-lockup.svg" alt="Awesome Study Resources" width="460">
 </picture>
 
-# Awesome Student Resources
+# Awesome Study Resources
 
-**A curated list of the best software, tools, textbooks, channels, and resources for students.**
+**A curated list of the best exam prep, subject-study, and learning-tool resources for students.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-254-blue)
-![Sections](https://img.shields.io/badge/sections-22-purple)
-[![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
+![Resources](https://img.shields.io/badge/resources-193-blue)
+![Sections](https://img.shields.io/badge/sections-11-purple)
+[![Changelog](https://img.shields.io/badge/changelog-unreleased-lightgrey.svg)](CHANGELOG.md)
 
 </div>
 
@@ -23,7 +23,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 > Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
 >
-> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-student-resources/issues/new/choose) &middot; [Ask a question](https://github.com/StudentSuite/awesome-student-resources/discussions) &middot; [Changelog](CHANGELOG.md)
+> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-study-resources/issues/new/choose) &middot; [Ask a question](https://github.com/StudentSuite/awesome-study-resources/discussions) &middot; [Changelog](CHANGELOG.md)
 
 ---
 
@@ -40,6 +40,8 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | ⚖️ | [AI & Academic Integrity](#ai--academic-integrity) | 4 |
 | 📐 | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
 | 💻 | [Building Software / Learn to Code](#building-software--learn-to-code) | 9 |
+| ▶️ | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
+| 📕 | [Great Textbooks](#great-textbooks) | 6 |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
 
@@ -97,7 +99,7 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[Code.org](https://code.org/en-US/curriculum/computer-science-principles)** - Free, official AP CSP curriculum with lesson plans and practice (free).
-- **[CodeHS](https://codehs.com)** - College Board-endorsed AP CSA and CSP curriculum (paid; often free via school license).
+- **[CodeHS](https://codehs.com)** - College Board-endorsed AP CSA and CSP curriculum, usually licensed through schools (paid).
 - **[CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html)** - Free, open Java textbook and practice for the AP CSA exam (free).
 - **[Khan Academy AP Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)** - Free lessons and practice for the AP CSP exam (free).
 
@@ -600,6 +602,7 @@ Subject textbooks students and teachers keep coming back to.
 ## More from StudentSuite
 
 - **[Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)** - Curated AI coding-agent skills and plugins built for students (free).
+- **[Awesome Student Resources](https://github.com/StudentSuite/awesome-student-resources)** - Curated discounts, scholarships, career prep, and wellbeing resources for students (free).
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - A crowdsourced map of student-important places: exam centres, libraries, and more (free).
 
 ---
