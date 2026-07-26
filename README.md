@@ -64,7 +64,6 @@ Official and community prep for the big exams and curricula.
 - **[Study Haven](https://studyhaven.org/)** - Free Custom Past Papers for A-Levels and IGCSE (freemium).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific A-Level and GCSE revision content (free).
 
-
 </details>
 
 ### ACT
