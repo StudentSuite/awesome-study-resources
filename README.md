@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-194-blue)
+![Resources](https://img.shields.io/badge/resources-195-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-unreleased-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 60 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 61 |
 | 📚 | [By Subject](#by-subject) | 72 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
