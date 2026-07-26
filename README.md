@@ -61,7 +61,9 @@ Official and community prep for the big exams and curricula.
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects (free).
 - **[Revision Science](https://revisionscience.com)** - Free GCSE and A-Level science revision notes, videos, and past papers (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
+- **[Study Haven](https://studyhaven.org/)** - Free Custom Past Papers for A-Levels and IGCSE (freemium).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific A-Level and GCSE revision content (free).
+
 
 </details>
 
