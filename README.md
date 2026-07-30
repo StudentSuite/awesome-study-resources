@@ -433,7 +433,7 @@ Capture, link, and organize what you learn.
 
 - **[Logseq](https://logseq.com)** - Free, open-source outliner for networked notes (free).
 - **[LYT Kit](https://www.linkingyourthinking.com/myideaverse/enter)** - Free starter Obsidian vault for organizing notes and classes (free).
-- **[Notion](https://www.notion.com)** - All-in-one notes, databases, and docs (freemium, free for students).
+- **[Notion](https://www.notion.com)** - All-in-one notes, databases, and docs, free tier for students (freemium).
 - **[Notion Student Planner Templates](https://www.notion.com/templates/category/free-student-planner-templates)** - Free, official templates for tracking classes, assignments, and deadlines (free).
 - **[Obsidian](https://obsidian.md)** - Local-first linked notes with a large plugin ecosystem (free).
 - **[RemNote](https://www.remnote.com)** - Notes with built-in spaced-repetition flashcards (freemium).
