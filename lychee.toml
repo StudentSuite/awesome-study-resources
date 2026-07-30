@@ -1,4 +1,9 @@
 # Config for the dead-link-check workflow (.github/workflows/dead-link-check.yml).
+# base_url: SECURITY.md links back to this repo with a relative "../../issues/new/choose"
+# (the GitHub community-health-file convention). Without a base, lychee resolves that as a
+# local filesystem path (which never exists) instead of a GitHub URL. Setting base_url makes
+# it resolve the way it actually renders on GitHub.
+base_url = "https://github.com/StudentSuite/awesome-study-resources/blob/main/"
 # Several legitimate, working sites in README.md (getrevising.co.uk, leetcode.com,
 # mitpress.mit.edu, nailib.com, quizlet.com, smarthistory.org, feynmanlectures.caltech.edu,
 # ibdocuments.com, kaptest.com, sparknotes.com, inkscape.org, autodesk.com, ...) reject
