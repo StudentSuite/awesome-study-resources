@@ -21,3 +21,8 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
 ]
+
+# hyperphysics.phy-astr.gsu.edu (By Subject > Physics) is intentionally linked over plain
+# http://, not a bug to "fix" into https://. Manually verified with curl: the https:// host
+# fails the TLS handshake outright (curl error, no response at all), while http:// returns a
+# clean 200. Leave it on http:// unless the server starts serving valid TLS.
