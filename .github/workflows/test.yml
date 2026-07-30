@@ -12,6 +12,9 @@ on:
       - scripts/**
       - .github/workflows/test.yml
 
+permissions:
+  contents: read
+
 jobs:
   test:
     runs-on: ubuntu-latest

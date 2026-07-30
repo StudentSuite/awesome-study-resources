@@ -18,6 +18,9 @@ on:
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
 
+permissions:
+  contents: read
+
 jobs:
   check-list-format:
     runs-on: ubuntu-latest
