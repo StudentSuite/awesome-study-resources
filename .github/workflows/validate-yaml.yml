@@ -1,0 +1,35 @@
+name: Validate Template YAML
+
+on:
+  pull_request:
+    paths:
+      - ".github/ISSUE_TEMPLATE/*.yml"
+      - ".github/dependabot.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/ISSUE_TEMPLATE/*.yml"
+      - ".github/dependabot.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 20
+      # A syntax error here wouldn't fail any build; it would just make the issue
+      # form fail to render on GitHub, or Dependabot silently stop running. Catch
+      # it in CI instead of waiting for a contributor to hit a broken form.
+      - name: Parse issue templates and dependabot config as YAML
+        run: |
+          set -e
+          for f in .github/ISSUE_TEMPLATE/*.yml .github/dependabot.yml; do
+            echo "Checking $f"
+            npx --yes js-yaml@4 "$f" > /dev/null
+          done
