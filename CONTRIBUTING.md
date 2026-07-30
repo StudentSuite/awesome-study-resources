@@ -81,6 +81,8 @@ If your PR removes an entry (dead link, discontinued service, no longer meets th
 
 ## CI checks
 
+These scripts use Node's built-in test runner and need Node 18+; an `.nvmrc` pins the same version CI uses (`nvm use`, or match it manually).
+
 A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md or this file. It verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script), and that the "Where it goes" list above stays in sync with README's section headings (same names, same order). Run it yourself before opening a PR with:
 
 ```sh
