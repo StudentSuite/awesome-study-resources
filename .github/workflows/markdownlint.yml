@@ -22,3 +22,5 @@ jobs:
             CONTRIBUTING.md
             CODE_OF_CONDUCT.md
             CHANGELOG.md
+            CONTRIBUTORS.md
+            SECURITY.md
