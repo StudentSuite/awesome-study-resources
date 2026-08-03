@@ -43,7 +43,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | ▶️ | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | 📕 | [Great Textbooks](#great-textbooks) | 6 |
 
-[More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
+[More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
 ---
 
