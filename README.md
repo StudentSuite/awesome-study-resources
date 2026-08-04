@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-195-blue)
+![Resources](https://img.shields.io/badge/resources-196-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-unreleased-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 61 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 62 |
 | 📚 | [By Subject](#by-subject) | 72 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -151,8 +151,8 @@ Official and community prep for the big exams and curricula.
 - **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus (freemium).
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus (freemium).
-- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma.
-- **[SiriusRevions](https://www.siriusrevision.com)** -Sirius Revision is an educational platform founded by Mitch Campbell that provides online and in-person intensive revision courses and study resources to help International Baccalaureate (IB) Diploma students prepare for their exams and boost their scores..
+- **[Sirius Revision](https://www.siriusrevision.com)** - Intensive online and in-person revision courses for the IB Diploma (paid).
+- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus (freemium).
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects (free).
 
 </details>
