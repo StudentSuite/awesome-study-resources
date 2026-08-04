@@ -151,7 +151,8 @@ Official and community prep for the big exams and curricula.
 - **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus (freemium).
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus (freemium).
-- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus (freemium).
+- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma.
+- **[SiriusRevions](https://www.siriusrevision.com)** -Sirius Revision is an educational platform founded by Mitch Campbell that provides online and in-person intensive revision courses and study resources to help International Baccalaureate (IB) Diploma students prepare for their exams and boost their scores..
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects (free).
 
 </details>
