@@ -35,7 +35,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 📚 | [By Subject](#by-subject) | 72 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
-| ⏰ | [Task, Time & Planning](#task-time--planning) | 4 |
+| ⏰ | [Task, Time & Planning](#task-time--planning) | 5 |
 | ✍️ | [Writing, Citations & Reference](#writing-citations--reference) | 4 |
 | ⚖️ | [AI & Academic Integrity](#ai--academic-integrity) | 4 |
 | 📐 | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
@@ -466,6 +466,7 @@ Plan the week, protect the deadlines.
 <details open>
 <summary>Show resources</summary>
 
+- **[Dopastep](https://dopastep.com/)** - Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).
 - **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere (free).
 - **[Notion Calendar](https://www.notion.com/product/calendar)** - Free calendar that connects to your Notion workspace (free).
 - **[TickTick](https://ticktick.com)** - Tasks, calendar, and a built-in Pomodoro timer (freemium).
