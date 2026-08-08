@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-197-blue)
+![Resources](https://img.shields.io/badge/resources-198-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-unreleased-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 62 |
 | 📚 | [By Subject](#by-subject) | 72 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
-| 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
+| 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | ⏰ | [Task, Time & Planning](#task-time--planning) | 5 |
 | ✍️ | [Writing, Citations & Reference](#writing-citations--reference) | 4 |
 | ⚖️ | [AI & Academic Integrity](#ai--academic-integrity) | 4 |
@@ -454,6 +454,7 @@ Remember more with less rereading.
 - **[Brainscape](https://www.brainscape.com)** - Confidence-based repetition flashcards (freemium).
 - **[Mochi](https://mochi.cards)** - Markdown-friendly spaced-repetition flashcards (freemium).
 - **[Quizlet](https://quizlet.com)** - Fast flashcards and study games (freemium).
+- **[StudyLoop](https://studyloop-liard.vercel.app)** - Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).
 
 </details>
 
