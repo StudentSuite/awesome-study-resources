@@ -454,6 +454,7 @@ Remember more with less rereading.
 - **[Brainscape](https://www.brainscape.com)** - Confidence-based repetition flashcards (freemium).
 - **[Mochi](https://mochi.cards)** - Markdown-friendly spaced-repetition flashcards (freemium).
 - **[Quizlet](https://quizlet.com)** - Fast flashcards and study games (freemium).
+- **[StudyLoop](https://studyloop-liard.vercel.app)** - Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).
 
 </details>
 
