@@ -20,7 +20,15 @@ jobs:
           days-before-close: 14
           stale-issue-label: stale
           stale-pr-label: stale
-          exempt-issue-labels: pinned,security,keep
+          # pinned/security/keep are aspirational (no open issue uses them yet).
+          # good first issue/help wanted/maintainer are added because they're the
+          # labels this repo's actual long-lived roadmap issues carry: standing
+          # invitations to contribute, or work blocked on admin action rather than
+          # contributor inactivity, neither of which "no comments in 60 days" means
+          # abandoned. Purely topical labels (content, infra, growth, community,
+          # documentation) are left non-exempt since an issue can genuinely go
+          # stale regardless of which area it's about.
+          exempt-issue-labels: pinned,security,keep,good first issue,help wanted,maintainer
           exempt-pr-labels: pinned,security,keep
           stale-issue-message: >
             This issue has been inactive for 60 days and is now marked stale.
