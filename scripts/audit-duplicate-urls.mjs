@@ -11,7 +11,14 @@ import { readFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
 function normalize(url) {
-  return url.replace(/\/$/, '');
+  try {
+    const parsed = new URL(url);
+    const host = parsed.hostname.toLowerCase().replace(/^www\./, '');
+    return `${parsed.protocol.toLowerCase()}//${host}${parsed.pathname}${parsed.search}${parsed.hash}`.replace(/\/$/, '');
+  } catch {
+    // Not a strictly valid URL (rare in practice); fall back to the old behavior.
+    return url.replace(/\/$/, '');
+  }
 }
 
 // Pure: returns [{ url, occurrences: [{ name, line }] }] for URLs seen more than

@@ -30,6 +30,22 @@ test('trailing slashes are normalized so /x and /x/ count as the same URL', () =
   assert.equal(dups[0].occurrences.length, 2);
 });
 
+test('scheme and host case differences are normalized so they count as the same URL', () => {
+  const readme = `- **[One](https://Example.com/page)** - x (free).
+- **[Two](HTTPS://example.com/page)** - y (free).`;
+  const dups = findDuplicateUrls(readme);
+  assert.equal(dups.length, 1);
+  assert.equal(dups[0].occurrences.length, 2);
+});
+
+test('a www. prefix is normalized so it counts as the same URL as the bare domain', () => {
+  const readme = `- **[One](https://example.com/page)** - x (free).
+- **[Two](https://www.example.com/page)** - y (free).`;
+  const dups = findDuplicateUrls(readme);
+  assert.equal(dups.length, 1);
+  assert.equal(dups[0].occurrences.length, 2);
+});
+
 test('groups are sorted most-repeated first', () => {
   const readme = `- **[A1](https://a.example)** - x (free).
 - **[B1](https://b.example)** - x (free).
