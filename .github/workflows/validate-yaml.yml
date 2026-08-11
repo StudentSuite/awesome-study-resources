@@ -26,10 +26,16 @@ jobs:
       # A syntax error here wouldn't fail any build; it would just make the issue
       # form fail to render on GitHub, or Dependabot silently stop running. Catch
       # it in CI instead of waiting for a contributor to hit a broken form.
+      #
+      # js-yaml is pinned to an exact version (not floated on @4) so runs are
+      # reproducible. There's no package.json in this repo, so Dependabot's
+      # github-actions-only ecosystem config has no manifest to track this
+      # dependency against; it's intentionally outside Dependabot's coverage.
+      # Bump the pin by hand if a new js-yaml release is needed.
       - name: Parse issue templates and dependabot config as YAML
         run: |
           set -e
           for f in .github/ISSUE_TEMPLATE/*.yml .github/dependabot.yml; do
             echo "Checking $f"
-            npx --yes js-yaml@4 "$f" > /dev/null
+            npx --yes js-yaml@4.3.1 "$f" > /dev/null
           done
