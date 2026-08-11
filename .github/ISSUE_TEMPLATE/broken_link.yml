@@ -1,6 +1,6 @@
 name: Report a broken or outdated entry
 description: A link is dead, a tool shut down, or pricing/info in an entry is wrong
-labels: ["bug"]
+labels: ["bug", "quality"]
 body:
   - type: input
     id: entry

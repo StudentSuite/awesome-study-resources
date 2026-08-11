@@ -45,7 +45,7 @@ jobs:
         with:
           title: Dead link check failed
           content-filepath: lychee-report.md
-          labels: bug
+          labels: bug,quality
 
       - name: Close the existing issue now that links are healthy
         if: steps.lychee.outputs.exit_code == 0 && steps.existing.outputs.number != ''

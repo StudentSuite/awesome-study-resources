@@ -1,6 +1,6 @@
 name: Propose a new section
 description: Suggest a new top-level section that doesn't fit anywhere existing
-labels: ["enhancement"]
+labels: ["enhancement", "content"]
 body:
   - type: markdown
     attributes:

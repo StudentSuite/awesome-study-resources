@@ -24,4 +24,4 @@ jobs:
         with:
           title: "Monthly pricing re-review"
           content-filepath: pricing-review.md
-          labels: pricing-review
+          labels: pricing-review,quality
