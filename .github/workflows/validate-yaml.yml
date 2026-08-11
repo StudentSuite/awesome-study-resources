@@ -5,12 +5,14 @@ on:
     paths:
       - ".github/ISSUE_TEMPLATE/*.yml"
       - ".github/dependabot.yml"
+      - ".github/workflows/validate-yaml.yml"
   push:
     branches:
       - main
     paths:
       - ".github/ISSUE_TEMPLATE/*.yml"
       - ".github/dependabot.yml"
+      - ".github/workflows/validate-yaml.yml"
 
 permissions:
   contents: read

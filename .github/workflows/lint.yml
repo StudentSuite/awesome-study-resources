@@ -8,6 +8,7 @@ on:
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
+      - .github/workflows/lint.yml
   push:
     branches:
       - main
@@ -17,6 +18,7 @@ on:
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
+      - .github/workflows/lint.yml
 
 permissions:
   contents: read
