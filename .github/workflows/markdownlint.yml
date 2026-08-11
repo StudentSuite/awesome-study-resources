@@ -27,3 +27,4 @@ jobs:
             CHANGELOG.md
             CONTRIBUTORS.md
             SECURITY.md
+            .github/PULL_REQUEST_TEMPLATE.md
