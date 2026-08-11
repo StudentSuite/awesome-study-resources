@@ -8,6 +8,8 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-08-11
+
 ### Added
 
 - Split out of [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources)
@@ -40,4 +42,5 @@ software), but releases are still tagged so changes are easy to point to.
   pricing tags are still accurate.
 - Dependabot configuration to keep GitHub Actions versions current.
 
-[Unreleased]: https://github.com/StudentSuite/awesome-study-resources/commits/main
+[Unreleased]: https://github.com/StudentSuite/awesome-study-resources/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/StudentSuite/awesome-study-resources/commits/v1.0.0

@@ -13,7 +13,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Resources](https://img.shields.io/badge/resources-198-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
-[![Changelog](https://img.shields.io/badge/changelog-unreleased-lightgrey.svg)](CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
 </div>
 

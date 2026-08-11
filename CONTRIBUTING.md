@@ -79,6 +79,18 @@ If your PR removes an entry (dead link, discontinued service, no longer meets th
 
 ---
 
+## Versioning
+
+Tagged releases follow this convention:
+
+- **Minor** (`1.x.0`): a new top-level or subsection is added.
+- **Patch** (`1.0.x`): entry additions, fixes, or removals within existing sections.
+
+CHANGELOG entries go under `Unreleased` as you make them; a maintainer moves
+that section under a new version heading when tagging a release.
+
+---
+
 ## CI checks
 
 These scripts use Node's built-in test runner and need Node 18+; an `.nvmrc` pins the same version CI uses (`nvm use`, or match it manually).
