@@ -16,6 +16,8 @@ software), but releases are still tagged so changes are easy to point to.
   Religions, ITGS, Dance, Film, Theatre, Accounting, Sociology, Global
   Perspectives, and Physical Education have no subsection at all. These are
   the highest-value contribution targets.
+- Monthly pricing re-review for 2026-08 (see #36): all 15 sampled entries'
+  pricing tags confirmed accurate, no corrections needed.
 
 ## [1.0.0] - 2026-08-11
 
