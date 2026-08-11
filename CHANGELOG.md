@@ -44,7 +44,9 @@ software), but releases are still tagged so changes are easy to point to.
 - CI: `scripts/check-list-format.mjs` validates entry format, alphabetical
   order, and Table of Contents consistency on every PR.
 - CI: a scheduled dead-link checker (`lychee`, weekly) that opens an issue
-  when a link in README.md, CONTRIBUTING.md, or CODE_OF_CONDUCT.md breaks.
+  when a link breaks in any of the files it scans (README.md, CONTRIBUTING.md,
+  CODE_OF_CONDUCT.md, CHANGELOG.md, CONTRIBUTORS.md, SECURITY.md, or the PR
+  template).
 - CI: `markdownlint-cli2` with a repo-specific config that respects this
   list's intentional style (long single-line entries, collapsible sections).
 - CI: a non-blocking `scripts/audit-duplicate-urls.mjs` report that surfaces
