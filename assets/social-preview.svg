@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1A2E"/>
+      <stop offset="100%" stop-color="#232042"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+
+  <!-- subtle dot grid, echoes the checklist/study theme without competing with the text -->
+  <g fill="#818CF8" opacity="0.12">
+    <circle cx="60" cy="60" r="3"/><circle cx="120" cy="60" r="3"/><circle cx="180" cy="60" r="3"/>
+    <circle cx="1100" cy="580" r="3"/><circle cx="1160" cy="580" r="3"/><circle cx="1220" cy="580" r="3"/>
+    <circle cx="1220" cy="60" r="3"/><circle cx="60" cy="580" r="3"/>
+  </g>
+
+  <!-- StudentSuite mark, same geometry as logo-lockup-dark.svg -->
+  <g transform="translate(120,140) scale(1.7)">
+    <path d="M 48 106 L 23 69 A 30 30 0 1 1 73 69 Z" fill="#818CF8"/>
+    <rect x="11" y="12" width="74" height="13" rx="3.5" fill="#818CF8"/>
+    <circle cx="48" cy="12" r="4.5" fill="#818CF8"/>
+    <path d="M 58 34 C 58 26 33 26 33 37 C 33 48 63 48 63 57 C 63 68 36 68 36 59" stroke="#1A1A2E" stroke-width="5.5" stroke-linecap="round" fill="none"/>
+    <path d="M 48 7.5 Q 67 5 75 20" stroke="#14B8A6" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <circle cx="75" cy="23" r="3.5" fill="#14B8A6"/>
+  </g>
+
+  <text x="118" y="330" font-family="'Space Grotesk',system-ui,sans-serif" font-size="30" font-weight="600" letter-spacing="1.5" fill="rgba(255,255,255,0.5)">STUDENTSUITE</text>
+
+  <text x="115" y="410" font-family="'Space Grotesk',system-ui,sans-serif" font-size="72" font-weight="700" letter-spacing="-1.4" fill="#ffffff">Awesome Study</text>
+  <text x="115" y="480" font-family="'Space Grotesk',system-ui,sans-serif" font-size="72" font-weight="700" letter-spacing="-1.4" fill="#ffffff">Resources</text>
+
+  <g transform="translate(118,530)">
+    <rect x="0" y="0" width="230" height="46" rx="23" fill="#4F46E5"/>
+    <text x="115" y="23" font-family="'JetBrains Mono',monospace" font-size="20" font-weight="600" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">198 resources</text>
+  </g>
+
+  <text x="1160" y="600" font-family="'JetBrains Mono',monospace" font-size="16" letter-spacing="1.2" fill="rgba(255,255,255,0.38)" text-anchor="end">OPEN-SOURCE TOOLS FOR STUDENTS</text>
+</svg>
