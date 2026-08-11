@@ -31,17 +31,17 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 62 |
-| 📚 | [By Subject](#by-subject) | 72 |
-| 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
-| 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
-| ⏰ | [Task, Time & Planning](#task-time--planning) | 5 |
-| ✍️ | [Writing, Citations & Reference](#writing-citations--reference) | 4 |
-| ⚖️ | [AI & Academic Integrity](#ai--academic-integrity) | 4 |
-| 📐 | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
-| 💻 | [Building Software / Learn to Code](#building-software--learn-to-code) | 9 |
-| ▶️ | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
-| 📕 | [Great Textbooks](#great-textbooks) | 6 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 62 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 72 |
+| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
+| <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
+| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
+| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 4 |
+| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 4 |
+| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
+| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 9 |
+| <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
+| <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 6 |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 

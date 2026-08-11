@@ -11,8 +11,9 @@
   "MD024": { "siblings_only": true },
 
   // Only allow the inline HTML this repo actually uses on purpose: the collapsible
-  // per-section resource lists, and the light/dark logo picture in the header.
+  // per-section resource lists, the light/dark logo picture in the header, and the
+  // aria-labeled spans giving the Table of Contents emoji a screen-reader-friendly name.
   "MD033": {
-    "allowed_elements": ["div", "picture", "source", "img", "details", "summary"]
+    "allowed_elements": ["div", "picture", "source", "img", "details", "summary", "span"]
   }
 }
