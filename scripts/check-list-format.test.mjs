@@ -134,6 +134,15 @@ test('marketing adjective in a description is flagged', () => {
   assert.ok(errors.some((e) => /marketing adjective.*amazing/.test(e)));
 });
 
+test('em dash in a description is flagged', () => {
+  const readme = VALID_README.replace(
+    '- **[Apple](https://apple.example)** - A fruit tool (free).',
+    '- **[Apple](https://apple.example)** - A fruit tool — great for snacks (free).'
+  );
+  const errors = errorsFor(readme);
+  assert.ok(errors.some((e) => /em dash/.test(e)));
+});
+
 test('CONTRIBUTING missing a README section is flagged', () => {
   const contributing = VALID_CONTRIBUTING.replace('- Beta\n', '');
   const errors = errorsFor(VALID_README, contributing);

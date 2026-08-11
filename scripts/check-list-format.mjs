@@ -135,6 +135,9 @@ export function checkListFormat(readmeText, contributingText) {
       if (banned) {
         errors.push(`README.md:${i + 1}  Description uses a marketing adjective ("${banned}"): ${line}`);
       }
+      if (item[3].includes('—')) {
+        errors.push(`README.md:${i + 1}  Description uses an em dash, CONTRIBUTING.md says no em dashes: ${line}`);
+      }
     }
   }
   flushBlock();
