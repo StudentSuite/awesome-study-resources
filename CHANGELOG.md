@@ -8,6 +8,15 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Added
+
+- Subject coverage audit for `By Subject` (see #12): every existing subsection
+  has 3+ entries, but Design Technology, Sports Exercise & Health Science,
+  Global Politics, Philosophy, Social and Cultural Anthropology, World
+  Religions, ITGS, Dance, Film, Theatre, Accounting, Sociology, Global
+  Perspectives, and Physical Education have no subsection at all. These are
+  the highest-value contribution targets.
+
 ## [1.0.0] - 2026-08-11
 
 ### Added
