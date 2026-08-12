@@ -1,8 +1,11 @@
 # Code owners for awesome-study-resources.
 #
 # Owners listed here are automatically requested for review when someone
-# opens a PR that touches matching paths. Order matters: the last matching
-# pattern wins.
+# opens a PR that touches matching paths.
+#
+# Only one rule exists today, so it applies to everything. If a second,
+# more specific pattern is ever added below it: order matters, the last
+# matching pattern wins.
 #
 # Docs: https://docs.github.com/repositories/managing-your-repos-settings-and-features/customizing-your-repository/about-code-owners
 
