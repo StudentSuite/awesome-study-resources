@@ -17,6 +17,7 @@
 
 import { readFileSync, writeFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { NON_CONTENT_SECTIONS } from './check-list-format.mjs';
 
 function slugify(text) {
   return text
@@ -31,19 +32,25 @@ export function applyCounts(readmeText) {
   const lines = readmeText.split('\n');
 
   // --- Count entries per top-level (##) section, and the grand total ---
+  // The grand total excludes NON_CONTENT_SECTIONS (front-matter/footer headings
+  // like "More from StudentSuite") so the resources badge stays equal to the sum
+  // of the Table of Contents rows it sits next to, not just every bullet in the file.
   const sectionCounts = new Map(); // slug -> entry count
   let currentSlug = null;
+  let inContentSection = false;
   let total = 0;
 
   for (const line of lines) {
     const h2 = line.match(/^## (.+)/);
     if (h2) {
-      currentSlug = slugify(h2[1].trim());
+      const heading = h2[1].trim();
+      currentSlug = slugify(heading);
+      inContentSection = !NON_CONTENT_SECTIONS.has(heading);
       if (!sectionCounts.has(currentSlug)) sectionCounts.set(currentSlug, 0);
       continue;
     }
     if (/^- \*\*\[/.test(line)) {
-      total += 1;
+      if (inContentSection) total += 1;
       if (currentSlug) sectionCounts.set(currentSlug, sectionCounts.get(currentSlug) + 1);
     }
   }

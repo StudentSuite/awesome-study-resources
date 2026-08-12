@@ -61,6 +61,17 @@ test('multiple drifted counts are all corrected in one pass', () => {
   assert.equal(updated, VALID);
 });
 
+test('entries under a non-content section like "More from StudentSuite" are excluded from the total', () => {
+  const withFooter = `${VALID}
+## More from StudentSuite
+
+- **[Sibling Project](https://sibling.example)** - not counted (free).
+`;
+  const { updated, problems } = applyCounts(withFooter);
+  assert.deepEqual(problems, []);
+  assert.equal(updated, withFooter);
+});
+
 test('applyCounts is idempotent (fixing then re-checking is clean)', () => {
   const input = VALID.replace('resources-3-blue', 'resources-1-blue');
   const once = applyCounts(input).updated;
