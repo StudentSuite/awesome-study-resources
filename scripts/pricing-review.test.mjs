@@ -31,6 +31,15 @@ test('parseEntries extracts name, url, tag, and nearest heading', () => {
   );
 });
 
+test('parseEntries recognizes "free, open source" as an implicit free tag', () => {
+  const readme = `## Building Software
+
+- **[Epsilon](https://epsilon.example)** - a FOSS tool (free, open source).
+`;
+  const entries = parseEntries(readme);
+  assert.equal(entries[0].tag, 'free');
+});
+
 test('parseEntries records 1-based line numbers', () => {
   const entries = parseEntries(README);
   assert.equal(entries[0].name, 'Alpha');

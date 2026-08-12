@@ -32,7 +32,9 @@ export function parseEntries(readmeText) {
     const m = lines[i].match(/^- \*\*\[(.+?)\]\((.+?)\)\*\* - (.+)$/);
     if (!m) continue;
     const [, name, url, desc] = m;
-    const tag = desc.match(/\((free|freemium|paid)\)\.$/)?.[1] ?? null;
+    // Recognizes both the parenthetical tag and CONTRIBUTING.md's documented
+    // "free, open source" / "open source" FOSS phrasing as an implicit `free` tag.
+    const tag = desc.match(/\((free|freemium|paid)\)\.$/)?.[1] ?? (/\bopen source\b/i.test(desc) ? 'free' : null);
     entries.push({ name, url, tag, section, line: i + 1 });
   }
   return entries;
