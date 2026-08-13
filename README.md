@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-214-blue)
+![Resources](https://img.shields.io/badge/resources-215-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 6 |
-| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 4 |
+| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 5 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 9 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
@@ -568,6 +568,7 @@ Know what's allowed, and how to cite AI-assisted work, before you submit.
 <summary>Show resources</summary>
 
 - **[APA Style: Citing ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)** - Official APA guidance on citing AI-generated content (free).
+- **[Chicago Manual of Style: Citing ChatGPT](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html)** - Official Chicago Style Q&A on crediting generative AI output (free).
 - **[IB AI Guidance](https://ibo.org/programmes/artificial-intelligence-ai-in-learning-teaching-and-assessment/)** - The IB's official position on using AI in coursework (free).
 - **[International Center for Academic Integrity](https://www.academicintegrity.org)** - Nonprofit resources on what integrity and misconduct mean (free).
 - **[MLA Style Center: Citing Generative AI](https://style.mla.org/citing-generative-ai-updated-revised/)** - Official MLA guidance on citing generative AI (free).
