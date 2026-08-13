@@ -52,7 +52,7 @@ Keep the description to one line, roughly 10 words or fewer. Lead with a verb wh
 Add your single bullet to the closest matching section:
 
 - Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CAS, Extended Essay, GCSE, IB Diploma, IGCSE, PSAT, SAT, Theory of Knowledge)
-- By Subject (Mathematics, Statistics, Further Mathematics, Physics, Chemistry, Biology, Computer Science, Economics, Accounting, Business Studies, English Language and Literature, Foreign Languages, Philosophy, History, Geography, Environmental Systems & Societies, Sports, Exercise & Health Science, Psychology, Sociology, Physical Education, Art, Film, Music)
+- By Subject (Mathematics, Statistics, Further Mathematics, Physics, Chemistry, Biology, Computer Science, Design Technology, ITGS, Economics, Accounting, Business Studies, English Language and Literature, Foreign Languages, Latin, Philosophy, History, Classical Civilisation, Geography, Law, Environmental Systems & Societies, Sports, Exercise & Health Science, Health and Social Care, Psychology, Sociology, Physical Education, Art, Film, Photography, Media Studies, Music, Theatre, Dance)
 - Notes & Knowledge Management
 - Flashcards & Spaced Repetition
 - Task, Time & Planning
