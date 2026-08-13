@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-203-blue)
+![Resources](https://img.shields.io/badge/resources-206-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 64 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 78 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 81 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -420,6 +420,17 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Fiveable](https://fiveable.me)** - Free AP Psychology study guides, practice questions, and exam-day reviews (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive psychology revision (freemium).
 - **[Simply Psychology](https://www.simplypsychology.org)** - Clear notes on theories, studies, and exams (free).
+
+</details>
+
+### Sociology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory sociology video series (free).
+- **[OpenStax Introduction to Sociology](https://openstax.org/details/books/introduction-sociology-3e)** - Free, peer-reviewed introductory sociology textbook (free).
+- **[Simply Psychology](https://www.simplypsychology.org/theories/sociology/)** - Clear notes on core sociological theories and thinkers (free).
 
 </details>
 
