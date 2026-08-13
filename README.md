@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-206-blue)
+![Resources](https://img.shields.io/badge/resources-208-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 64 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 81 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 83 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -443,6 +443,16 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Proko](https://www.proko.com)** - Free figure drawing and anatomy fundamentals for artists (freemium).
 - **[Smarthistory](https://smarthistory.org)** - Free, peer-reviewed art history essays and videos, Khan Academy's official partner (free).
 - **[Tate](https://www.tate.org.uk/art/student-resource)** - Free GCSE and A-Level art exam help and student resources (free).
+
+</details>
+
+### Film
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Film Riot](https://www.youtube.com/@filmriot)** - Weekly tutorials on shooting, editing, and VFX for indie filmmakers (free).
+- **[No Film School](https://nofilmschool.com)** - News, tutorials, and gear guides covering the craft of filmmaking (free).
 
 </details>
 
