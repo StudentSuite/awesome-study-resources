@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-201-blue)
+![Resources](https://img.shields.io/badge/resources-203-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 64 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 76 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 78 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -314,6 +314,16 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Marginal Revolution University](https://mru.org)** - Free economics videos from working economists (free).
 - **[Primate economics](https://www.youtube.com/@Primateeconomics)** - Basics of Economic theories explained in a comedic manner (free).
 - **[tutor2u](https://www.tutor2u.net)** - Notes, revision, and exam support for economics and business (freemium).
+
+</details>
+
+### Accounting
+
+<details open>
+<summary>Show resources</summary>
+
+- **[AccountingCoach](https://www.accountingcoach.com)** - Free explanations, quizzes, and flashcards across core accounting topics (freemium).
+- **[Corporate Finance Institute](https://courses.corporatefinanceinstitute.com/bundles/free-finance-accounting-courses/)** - Free accounting and finance fundamentals courses, certificates cost extra (freemium).
 
 </details>
 
