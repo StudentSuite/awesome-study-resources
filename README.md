@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-240-blue)
+![Resources](https://img.shields.io/badge/resources-242-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 66 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 68 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 105 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
@@ -112,8 +112,10 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Show resources</summary>
 
+- **[CollegeVine](https://blog.collegevine.com/guide-to-ib-cas)** - Free guide to CAS strands, hours, and the reflection process (free).
 - **[IB Creativity, Activity, Service](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/creativity-activity-and-service/)** - The IB's official overview of CAS and its seven learning outcomes (free).
 - **[Lanterna Education](https://lanterna.com/resources/the-basics-of-ib-cas)** - Free guide to CAS experiences, the project, and reflections (free).
+- **[Nail IB](https://nailib.com/blog/ib-cas-hours-ideas)** - Free list of CAS hours ideas across the Creativity, Activity, and Service strands (free).
 - **[Rustic Pathways](https://rusticpathways.com/educational-travel/cas-project-ideas)** - Free list of 100+ CAS project ideas across all three strands (free).
 - **[TutorChase](https://www.tutorchase.com/blog/ib-cas-creativity-activity-service-a-complete-guide)** - Free end-to-end guide to planning and documenting CAS (free).
 
