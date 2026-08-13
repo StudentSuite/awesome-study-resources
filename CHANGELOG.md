@@ -24,12 +24,12 @@ v1.0.0 tag itself.
 - A "Versioning" section in CONTRIBUTING.md documenting the minor/patch
   convention behind tagged releases (#13).
 - Subject coverage audit for `By Subject` (see #12): every existing subsection
-  has 3+ entries, but Design Technology, Sports Exercise & Health Science,
-  Global Politics, Social and Cultural Anthropology, World Religions, ITGS,
-  Dance, Film, Theatre, Accounting, Sociology, Global Perspectives, and
-  Physical Education have no subsection at all. These are the highest-value
-  contribution targets. (Philosophy was also on this list; it got its own
-  subsection closing #44, so it's since been dropped from it.)
+  has 3+ entries, but Global Politics, Social and Cultural Anthropology,
+  World Religions, and Global Perspectives still have no subsection at all.
+  These are the highest-value contribution targets. (Design Technology,
+  Sports Exercise & Health Science, ITGS, Dance, Film, Theatre, Accounting,
+  Sociology, Physical Education, and Philosophy were also on this list; they
+  each got their own subsection since, so they've been dropped from it.)
 - Monthly pricing re-review for 2026-08 (see #36): all 15 sampled entries'
   pricing tags confirmed accurate, no corrections needed.
 
