@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-218-blue)
+![Resources](https://img.shields.io/badge/resources-220-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 66 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 87 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 89 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -303,6 +303,16 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Codedex](https://www.codedex.io)** - Gamified, beginner-friendly coding lessons (freemium).
 - **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms (free).
 - **[Firebase](https://firebase.google.com)** - Google backend for building apps quickly (freemium).
+
+</details>
+
+### Design Technology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Knowt](https://knowt.com/exams/IB/IB-Design-Technology-(HL))** - Free student-written study guides and flashcards for IB Design Technology, by unit (freemium).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-design-technology)** - Notes, flashcards, and a question bank for IB Design Technology (freemium).
 
 </details>
 
