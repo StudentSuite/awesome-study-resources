@@ -14,6 +14,8 @@ v1.0.0 tag itself.
 
 ### Added
 
+- [IELTS Writing Checker](https://ieltswritingchecker.org/) in Writing,
+  Citations & Reference for IELTS Task 1 and Task 2 criterion feedback (#105).
 - A `### Philosophy` subsection under By Subject, with 3 vetted entries
   (#44).
 - Screen-reader labels (`role="img"` + `aria-label`) on every Table of
