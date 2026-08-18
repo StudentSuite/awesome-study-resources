@@ -43,7 +43,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 6 |
 
-[More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
+[More from StudentSuite](#more-from-studentsuite) &middot; [Related Lists](#related-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
 ---
 
@@ -794,6 +794,12 @@ Subject textbooks students and teachers keep coming back to.
 - **[Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)** - Curated AI coding-agent skills and plugins built for students (free).
 - **[Awesome Student Resources](https://github.com/StudentSuite/awesome-student-resources)** - Curated discounts, scholarships, career prep, and wellbeing resources for students (free).
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - A crowdsourced map of student-important places: exam centres, libraries, and more (free).
+
+---
+
+## Related Lists
+
+- **[Awesome Study Tools](https://github.com/studyarena-com/awesome-study-tools#readme)** - Curated directory of 176 study and learning tools by category and region.
 
 ---
 
