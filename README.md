@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-298-blue)
+![Resources](https://img.shields.io/badge/resources-300-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 74 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 148 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 150 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -600,8 +600,10 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[BFI Education](https://www.bfi.org.uk/resources-events-teachers/resources-teachers)** - Film and media studies teaching resources from the British Film Institute (freemium).
+- **[media-studies.com](https://media-studies.com/aqa-a-level/)** - Free AQA A-Level Media Studies guides and exam revision content (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for Media Studies (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level Media Studies revision (freemium).
+- **[Study Rocket](https://studyrocket.co.uk/revision/a-level-media-studies-ocr)** - Free exam board-specific A-Level Media Studies revision content (free).
 
 </details>
 
