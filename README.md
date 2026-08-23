@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-263-blue)
+![Resources](https://img.shields.io/badge/resources-267-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 71 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 122 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 126 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -551,7 +551,11 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Film Riot](https://www.youtube.com/@filmriot)** - Weekly tutorials on shooting, editing, and VFX for indie filmmakers (free).
+- **[Into Film](https://www.intofilm.org)** - Free UK film education charity with lesson plans and student filmmaking resources (free).
+- **[Lessons from the Screenplay](https://www.youtube.com/@LessonsfromtheScreenplay)** - Video essays breaking down screenwriting and film craft choices (free).
 - **[No Film School](https://nofilmschool.com)** - News, tutorials, and gear guides covering the craft of filmmaking (free).
+- **[StudioBinder Blog](https://www.studiobinder.com/blog/)** - Free tutorials and guides on cinematography, directing, and screenwriting (free).
+- **[Study Rocket](https://studyrocket.co.uk/revision/a-level-film-studies-wjec)** - Free exam board-specific A-Level Film Studies revision content (free).
 
 </details>
 
