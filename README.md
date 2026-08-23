@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-255-blue)
+![Resources](https://img.shields.io/badge/resources-259-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 71 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 114 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 118 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -398,8 +398,12 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[Cambridge Latin Course](https://www.cambridgescp.com)** - Free companion resources for the widely used Cambridge Latin Course (free).
 - **[Dickinson College Commentaries](https://dcc.dickinson.edu)** - Free annotated Latin and Greek reading texts with vocabulary and notes (free).
+- **[Latinitium](https://latinitium.com)** - Free spoken Latin audio, readers, and grammar guides for learning Latin actively (freemium).
+- **[LatinTutorial](https://www.latintutorial.com)** - Free video lessons covering Latin grammar, vocabulary, and translation (free).
 - **[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)** - Free, searchable library of Latin and Greek texts with translations and word studies (free).
+- **[The Latin Library](https://www.thelatinlibrary.com)** - Free archive of Latin texts and grammar reference handouts (free).
 
 </details>
 
