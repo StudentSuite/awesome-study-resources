@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-277-blue)
+![Resources](https://img.shields.io/badge/resources-279-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 71 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 73 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 134 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
@@ -100,8 +100,10 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[AP Central: Computer Science A](https://apcentral.collegeboard.org/courses/ap-computer-science-a)** - The official College Board course, exam, and exam description for AP CSA (free).
+- **[APCSExamPrep](https://www.apcsexamprep.com/pages/ap-csa-free-textbook)** - Free online AP CSA unit textbook with built-in exercises and a Java editor (free).
 - **[Code.org](https://code.org/en-US/curriculum/computer-science-principles)** - Free, official AP CSP curriculum with lesson plans and practice (free).
 - **[CodeHS](https://codehs.com)** - College Board-endorsed AP CSA and CSP curriculum, usually licensed through schools (paid).
+- **[CodingBat](https://codingbat.com/java)** - Free Java practice problems, including a set based on past AP CSA free-response questions (free).
 - **[CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html)** - Free, open Java textbook and practice for the AP CSA exam (free).
 - **[Khan Academy AP Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)** - Free lessons and practice for the AP CSP exam (free).
 
