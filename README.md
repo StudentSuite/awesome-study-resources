@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-290-blue)
+![Resources](https://img.shields.io/badge/resources-293-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 74 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 140 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 143 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -497,6 +497,9 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BrianMac Sports Coach](https://www.brianmac.co.uk)** - Free reference on exercise physiology, training methods, and sports coaching (free).
 - **[Physiopedia](https://www.physio-pedia.com)** - Free, evidence-based knowledge base covering anatomy, injury, and rehabilitation (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-sports-exercise-and-health-science-sehs-new-syllabus)** - Notes, flashcards, and a question bank for IB Sports, Exercise and Health Science (freemium).
+- **[StudyIB](https://studyib.net/sehs)** - Concise revision notes and explanations across the SEHS syllabus (freemium).
+- **[TutorChase](https://www.tutorchase.com/notes/ib/sehs)** - Free IB Sports, Exercise and Health Science HL notes written by IB teachers (free).
 
 </details>
 
