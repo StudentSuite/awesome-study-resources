@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-279-blue)
+![Resources](https://img.shields.io/badge/resources-281-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 9 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 7 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
-| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 12 |
+| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 14 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 6 |
 
@@ -744,9 +744,11 @@ Go from first line to shipped project.
 <details open>
 <summary>Show resources</summary>
 
+- **[Codecademy](https://www.codecademy.com)** - Interactive coding lessons across many languages and career paths (freemium).
 - **[CS50](https://cs50.harvard.edu)** - Harvard's free, beginner-friendly computer science course (free).
 - **[freeCodeCamp](https://www.freecodecamp.org)** - Free, open-source coding curriculum with certifications (free).
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students (free).
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)** - Free, definitive reference and tutorials for HTML, CSS, and JavaScript (free).
 - **[The Odin Project](https://www.theodinproject.com)** - Free project-based path into web development (free).
 - **[Visual Studio Code](https://code.visualstudio.com)** - Free, extensible code editor from Microsoft (free).
 
