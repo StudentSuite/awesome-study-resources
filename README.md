@@ -585,7 +585,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
-- **[BFI Education](https://www.bfi.org.uk/education-research)** - Film and media studies teaching resources from the British Film Institute (freemium).
+- **[BFI Education](https://www.bfi.org.uk/resources-events-teachers/resources-teachers)** - Film and media studies teaching resources from the British Film Institute (freemium).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for Media Studies (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level Media Studies revision (freemium).
 

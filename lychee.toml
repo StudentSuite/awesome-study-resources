@@ -11,7 +11,9 @@ base_url = "https://github.com/StudentSuite/awesome-study-resources/blob/main/"
 # Accepting 403 avoids constant false-positive noise; a truly dead entry usually surfaces
 # as a timeout, DNS failure, TLS error, or 404/410 instead, all of which still fail the check.
 # 202 is also accepted: global.oup.com returns it for a valid, working product page.
-accept = [200, 202, 206, 403, 429]
+# 405 is also accepted: clastify.com intermittently rejects the automated request method
+# (HEAD) with a 405 even though the same URL returns 200 over GET in a real browser.
+accept = [200, 202, 206, 403, 405, 429]
 
 max_concurrency = 8
 timeout = 20
