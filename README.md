@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-267-blue)
+![Resources](https://img.shields.io/badge/resources-271-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 71 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 126 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 130 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -357,7 +357,11 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[AccountingCoach](https://www.accountingcoach.com)** - Free explanations, quizzes, and flashcards across core accounting topics (freemium).
+- **[AccountingVerse](https://www.accountingverse.com)** - Free tutorials covering bookkeeping, financial statements, and accounting theory (free).
 - **[Corporate Finance Institute](https://courses.corporatefinanceinstitute.com/bundles/free-finance-accounting-courses/)** - Free accounting and finance fundamentals courses, certificates cost extra (freemium).
+- **[IGCSE Accounts](https://www.igcseaccounts.com)** - Free Cambridge IGCSE Accounting past paper questions, mark schemes, and revision notes (free).
+- **[Khan Academy Accounting and Financial Statements](https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-statement)** - Free lessons on financial statements and core accounting concepts (free).
+- **[Save My Exams](https://www.savemyexams.com/subjects/accounting/)** - Revision notes, topic questions, and past papers for IGCSE and A-Level Accounting (freemium).
 
 </details>
 
