@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-282-blue)
+![Resources](https://img.shields.io/badge/resources-284-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -41,7 +41,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 14 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
-| <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 6 |
+| <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 8 |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -808,9 +808,11 @@ Subject textbooks students and teachers keep coming back to.
 <details open>
 <summary>Show resources</summary>
 
+- **[Campbell, Biology](https://www.pearson.com/en-us/subject-catalog/p/campbells-biology/P200000014184/9780135455890)** - The standard university-level biology textbook (paid).
 - **[Clayden, Organic Chemistry](https://global.oup.com/academic/product/organic-chemistry-9780198728719)** - Widely used undergraduate organic chemistry text (paid).
 - **[CLRS, Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** - The definitive algorithms reference (paid).
 - **[Haese Mathematics](https://www.haesemathematics.com)** - Standard IB Diploma mathematics textbooks (formerly Haese & Harris) (paid).
+- **[Halliday, Resnick & Walker, Fundamentals of Physics](https://www.wiley.com/en-us/Fundamentals+of+Physics,+12th+Edition-p-9781119801122)** - Widely used introductory university physics text (paid).
 - **[OpenStax](https://openstax.org)** - Free, peer-reviewed textbooks across math and science (free).
 - **[Stewart, Calculus](https://www.stewartcalculus.com)** - The standard first calculus textbook (paid).
 - **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - Landmark physics text, free to read online (free).
