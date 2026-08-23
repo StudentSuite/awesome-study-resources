@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-284-blue)
+![Resources](https://img.shields.io/badge/resources-287-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 74 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 134 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 137 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 5 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
@@ -447,6 +447,9 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/classical_civilization)** - Free class notes, flashcards, and quizzes for GCSE Classical Civilisation (free).
+- **[Primrose Kitten](https://www.youtube.com/@PrimroseKitten)** - Free video revision covering GCSE Classical Civilisation topics (free).
+- **[Revision World](https://revisionworld.com/content/classical-civilisation)** - Free OCR GCSE Classical Civilisation revision guides and resources (free).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Classical Civilisation revision content (free).
 - **[Warwick Classics Network](https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/stoa/classciv/gcse/)** - Free university-backed GCSE Classical Civilisation videos and resources (free).
 
