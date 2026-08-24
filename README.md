@@ -299,6 +299,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[BioNinja](https://www.bioninja.com.au)** - Visual notes, diagrams, and quizzes built for IB and A-Level biology (free).
 - **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across biology and the sciences (free).
 - **[Khan Academy Biology](https://www.khanacademy.org/science/biology)** - Free lessons and practice across the biology syllabus (free).
+- **[Random Animal Picker](https://randomanimalpicker.com/)** - Explore real animals with photos, facts, and source links (free).
 
 </details>
 
