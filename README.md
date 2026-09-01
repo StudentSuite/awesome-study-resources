@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-316-blue)
+![Resources](https://img.shields.io/badge/resources-318-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 76 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 156 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 158 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -631,8 +631,10 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zk6pyrd)** - Covers GCSE drama theory, acting skills, and stagecraft revision (free).
 - **[Digital Theatre+](https://www.digitaltheatreplus.com)** - Filmed productions and study resources for GCSE and A-Level Drama (freemium).
 - **[National Theatre](https://www.nationaltheatre.org.uk/learn-explore)** - Free lesson plans and filmed productions for A-Level Drama set texts (free).
+- **[RSC Shakespeare Learning Zone](https://www.rsc.org.uk/shakespeare-learning-zone)** - Explores Shakespeare plays through videos, scenes, and character notes (free).
 - **[StageMilk](https://www.stagemilk.com)** - Free acting tips, monologues, and technique guides (free).
 
 </details>
