@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-307-blue)
+![Resources](https://img.shields.io/badge/resources-309-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 9 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 7 |
-| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
+| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 7 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 14 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 8 |
@@ -753,6 +753,8 @@ Graph, compute, and sketch ideas.
 - **[diagrams.net](https://www.drawio.com)** - Free, open-source flowchart and diagram editor (free).
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source hand-drawn-style diagrams (free).
 - **[GeoGebra](https://www.geogebra.org)** - Free, open geometry, algebra, and calculus tools (free).
+- **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring physics, chemistry, biology, and math (free).
+- **[Tinkercad](https://www.tinkercad.com)** - Design and simulate 3D models, circuits, and code in the browser (freemium).
 - **[Wolfram Alpha](https://www.wolframalpha.com)** - Computational engine for step-by-step math and science (freemium).
 
 </details>
