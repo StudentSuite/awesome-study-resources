@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-325-blue)
+![Resources](https://img.shields.io/badge/resources-327-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 76 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 165 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 167 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -286,10 +286,12 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmf3cdm)** - Covers GCSE chemistry topics with revision guides and quizzes (free).
 - **[Chemguide](https://www.chemguide.co.uk)** - Focused explanations for UK A-Level and IGCSE chemistry (free).
 - **[Chemistry LibreTexts](https://chem.libretexts.org)** - Free, open chemistry textbooks and reference material (free).
 - **[Khan Academy Chemistry](https://www.khanacademy.org/science/chemistry)** - Free lessons and practice across the chemistry syllabus (free).
 - **[Master Organic Chemistry](https://www.masterorganicchemistry.com)** - Clear guides and cheat sheets for organic chemistry (freemium).
+- **[Royal Society of Chemistry](https://edu.rsc.org)** - Shares chemistry lesson resources, practicals, and exam support (free).
 - **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Step-by-step worked problems across chemistry and beyond (freemium).
 
 </details>
