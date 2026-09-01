@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-332-blue)
+![Resources](https://img.shields.io/badge/resources-335-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 76 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 172 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 175 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -464,6 +464,17 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses (free).
 - **[Mr Allsop History](https://www.mrallsophistory.com)** - Free podcasts, videos, and revision notes across GCSE, IGCSE, A-Level, and IB History (free).
 - **[Oversimplified](https://youtube.com/@oversimplified)** - Teaching important events in History in an oversimplified way (free).
+
+</details>
+
+### Global Perspectives
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Cambridge IGCSE Global Perspectives](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/)** - Provides the official syllabus and past papers for Global Perspectives (free).
+- **[Save My Exams](https://www.savemyexams.com/learning-hub/subject-guides/igcse-global-perspectives-topics/)** - Lists topics and revision notes for IGCSE Global Perspectives by exam board (freemium).
+- **[ZNotes](https://znotes.org/caie/igcse/global-perspectives-0457/)** - Summarizes syllabus topics and exam skills for Global Perspectives (freemium).
 
 </details>
 
