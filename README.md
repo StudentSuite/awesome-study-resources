@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-314-blue)
+![Resources](https://img.shields.io/badge/resources-315-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 75 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 76 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 155 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
@@ -143,6 +143,7 @@ Official and community prep for the big exams and curricula.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core GCSE subject (free).
 - **[Mr Bruff](https://www.youtube.com/@mrbruff)** - Free video walkthroughs for GCSE English Language and Literature (free).
+- **[Oak National Academy](https://www.thenational.academy)** - Free, government-backed GCSE lessons and revision across every exam board (free).
 - **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across GCSE subjects (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive revision across every core GCSE subject (freemium).
