@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-309-blue)
+![Resources](https://img.shields.io/badge/resources-311-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 155 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 6 |
-| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 5 |
+| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 9 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 7 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 7 |
@@ -694,6 +694,8 @@ Plan the week, protect the deadlines.
 
 - **[Dopastep](https://dopastep.com/)** - Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).
 - **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere (free).
+- **[Habitica](https://habitica.com)** - Turns habits and to-dos into a role-playing game with streaks (free).
+- **[Motion](https://www.usemotion.com)** - Uses AI to auto-schedule tasks and timeblock them on your calendar (paid).
 - **[Notion Calendar](https://www.notion.com/product/calendar)** - Free calendar that connects to your Notion workspace (free).
 - **[TickTick](https://ticktick.com)** - Tasks, calendar, and a built-in Pomodoro timer (freemium).
 - **[Todoist](https://todoist.com)** - Cross-platform task manager with natural-language dates (freemium).
