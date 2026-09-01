@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-335-blue)
+![Resources](https://img.shields.io/badge/resources-338-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 76 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 175 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 178 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -475,6 +475,17 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Cambridge IGCSE Global Perspectives](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/)** - Provides the official syllabus and past papers for Global Perspectives (free).
 - **[Save My Exams](https://www.savemyexams.com/learning-hub/subject-guides/igcse-global-perspectives-topics/)** - Lists topics and revision notes for IGCSE Global Perspectives by exam board (freemium).
 - **[ZNotes](https://znotes.org/caie/igcse/global-perspectives-0457/)** - Summarizes syllabus topics and exam skills for Global Perspectives (freemium).
+
+</details>
+
+### Global Politics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[GloPo IB](https://glopoib.wordpress.com)** - Shares revision booklets, case studies, and theory summaries (free).
+- **[IB Global Politics](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/global-politics/)** - Outlines the official IB syllabus and core concepts (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-global-politics)** - Provides notes, case studies, and a question bank (freemium).
 
 </details>
 
