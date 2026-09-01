@@ -31,25 +31,37 @@ Check the entry meets the [Quality Standards](README.md#quality-standards):
 
 ## Entry format
 
-```md
-- **[Name](https://homepage)** - Short description of what it does.
+README.md is generated, not hand-edited: it's built from `data/resources.json` by `scripts/generate-readme.mjs`. Add your resource as one record in that JSON array instead of editing README.md's markdown directly:
+
+```json
+{
+  "name": "Deep Work",
+  "url": "https://calnewport.com/books/deep-work/",
+  "description": "Build the ability to focus without distraction (free).",
+  "section": "Great Textbooks",
+  "subsection": null
+}
 ```
 
-For books and textbooks, use the title (add the author where it helps) and link to the official or publisher page:
+Field reference:
 
-```md
-- **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction.
-```
+- `name` - the link text.
+- `url` - the homepage, starting with `https://` (or `http://` for the rare site with no https variant).
+- `description` - the full description text exactly as it should render, trailing period and any pricing parenthetical included. This is the whole sentence, not just the prose part: don't split pricing into a separate field, it won't be re-appended.
+- `section` - the exact `##` heading text this entry belongs under (see "Where it goes" below), e.g. `"By Subject"`.
+- `subsection` - the exact `###` heading text within that section, e.g. `"Mathematics"`, or `null` if the section has no subsections (see "Where it goes" below for which sections do).
 
 Keep the description to one line, roughly 10 words or fewer. Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and note the pricing when it matters: `(free)`, `(freemium)`, `(paid)`, or "free, open source" for FOSS. No em dashes.
 
 "When it matters" means: tag it if a student could reasonably be surprised (a freemium tool that reads as free, a paid service, a free tier with real limits). You don't need to tag something whose free-ness is already obvious from the description itself (an official government site, an open-source project, a nonprofit's own guide).
 
+After editing `data/resources.json`, run `node scripts/generate-readme.mjs` to regenerate README.md (see [CI checks](#ci-checks) below) and commit both files.
+
 ---
 
 ## Where it goes
 
-Add your single bullet to the closest matching section:
+Set your record's `section` (and `subsection`, where listed) to the closest match:
 
 - Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CAS, Extended Essay, GCSE, IB Diploma, IGCSE, PSAT, SAT, Theory of Knowledge)
 - By Subject (Mathematics, Statistics, Further Mathematics, Physics, Chemistry, Biology, Computer Science, Design Technology, ITGS, Economics, Accounting, Business Studies, English Language and Literature, Foreign Languages, Latin, Philosophy, World Religions, History, Global Perspectives, Global Politics, Classical Civilisation, Geography, Law, Environmental Systems & Societies, Sports, Exercise & Health Science, Food & Nutrition, Health and Social Care, Social and Cultural Anthropology, Psychology, Sociology, Physical Education, Art, Film, Photography, Media Studies, Music, Theatre, Dance)
@@ -69,13 +81,14 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 
 ## Submitting
 
-1. Fork the repo, add your entries in the right section, in their correct alphabetical position.
-2. Open a PR titled `Add resource: Name`.
-3. In the PR description, link the resource and say in one sentence why it helps students.
+1. Fork the repo, add your record(s) to `data/resources.json` (see [Entry format](#entry-format) above), anywhere in the array; you don't need to place it alphabetically yourself.
+2. Run `node scripts/generate-readme.mjs` to regenerate README.md, and commit both files.
+3. Open a PR titled `Add resource: Name`.
+4. In the PR description, link the resource and say in one sentence why it helps students.
 
-Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
+The generator sorts every list alphabetically (case-insensitive) by entry name, so you don't need to find the right alphabetical position by hand, just run it after editing the data file.
 
-If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
+If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), delete its record from `data/resources.json`, regenerate README.md, and add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
 
 ---
 
@@ -95,19 +108,21 @@ that section under a new version heading when tagging a release.
 
 These scripts use Node's built-in test runner and need Node 18+; an `.nvmrc` pins the same version CI uses (`nvm use`, or match it manually).
 
-A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md or this file. It verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script), and that the "Where it goes" list above stays in sync with README's section headings (same names, same order). Run it yourself before opening a PR with:
+README.md is generated from `data/resources.json`; there's nothing there to hand-maintain, but a few checks keep the two in sync. Run all of these yourself before opening a PR:
 
 ```sh
+node scripts/validate-resources.mjs
+node scripts/generate-readme.mjs --check
 node scripts/check-list-format.mjs
+node scripts/update-counts.mjs --check
 ```
 
-The header badges (`resources-N`, `sections-N`) and the per-section counts in the Table of Contents are generated, not hand-maintained. After adding or removing an entry, regenerate them with:
+- `scripts/validate-resources.mjs` checks `data/resources.json` itself: every record has a non-empty `name`, `url`, `description`, and `section`; `url` starts with `https://` (or `http://`); `subsection` is a non-empty string or `null`; and no two records share the same `section` + `subsection` + `name`.
+- `scripts/generate-readme.mjs --check` fails if README.md doesn't match what `data/resources.json` currently generates, i.e. you edited README.md by hand instead of the data file, or forgot to regenerate after editing the data file. Fix it with `node scripts/generate-readme.mjs` (no `--check`), which rewrites README.md in place.
+- `scripts/check-list-format.mjs` runs on the generated README.md as a safety net: it verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script), and that the "Where it goes" list above stays in sync with README's section headings (same names, same order). The generator should always produce output that passes this, so a failure here on a generated README usually means a bug in the generator or the template, worth flagging.
+- `scripts/update-counts.mjs --check` fails if the header badges (`resources-N`, `sections-N`) or the per-section Table of Contents counts are out of date. These are also computed by the generator, so this is a second safety net rather than something you need to run separately in normal use.
 
-```sh
-node scripts/update-counts.mjs
-```
-
-CI runs `node scripts/update-counts.mjs --check` and fails the build if any of those numbers have drifted, so don't edit them by hand.
+All four run in CI on every PR that touches `data/resources.json`, README.md, or this file.
 
 A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks every link in every file listed in its `args` (currently README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, CHANGELOG.md, CONTRIBUTORS.md, SECURITY.md, and the PR template) weekly using [lychee](https://github.com/lycheeverse/lychee), configured via `lychee.toml`. Some legitimate sites reject automated requests with a 403, so that status is accepted rather than treated as broken; see the comments in `lychee.toml` for the current exceptions.
 

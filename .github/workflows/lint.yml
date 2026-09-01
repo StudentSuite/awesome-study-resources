@@ -5,9 +5,13 @@ on:
     paths:
       - README.md
       - CONTRIBUTING.md
+      - data/resources.json
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
+      - scripts/validate-resources.mjs
+      - scripts/generate-readme.mjs
+      - scripts/readme-template.mjs
       - .github/workflows/lint.yml
   push:
     branches:
@@ -15,9 +19,13 @@ on:
     paths:
       - README.md
       - CONTRIBUTING.md
+      - data/resources.json
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
+      - scripts/validate-resources.mjs
+      - scripts/generate-readme.mjs
+      - scripts/readme-template.mjs
       - .github/workflows/lint.yml
 
 permissions:
@@ -31,6 +39,15 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 20
+      # data/resources.json is the source of truth; validate it before anything
+      # that depends on it (the generator, then the checks below).
+      - run: node scripts/validate-resources.mjs
+      # Fails if README.md doesn't match what data/resources.json generates,
+      # i.e. someone edited README.md by hand instead of the data file, or
+      # forgot to run the generator after editing data/resources.json.
+      - run: node scripts/generate-readme.mjs --check
+      # Safety net on the generated output: still enforced even though the
+      # generator should always produce entries that pass these on its own.
       - run: node scripts/check-list-format.mjs
       # Fails if the resource-count badge, sections badge, or Table of Contents
       # counts have drifted; run `node scripts/update-counts.mjs` to regenerate.
