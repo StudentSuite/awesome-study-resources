@@ -14,6 +14,8 @@ v1.0.0 tag itself.
 
 ### Added
 
+- [1600.now](https://1600.now/) in Exam & Curriculum Prep / SAT for free
+  practice questions, timed tests, and answer explanations.
 - [IELTS Writing Checker](https://ieltswritingchecker.org/) in Writing,
   Citations & Reference for IELTS Task 1 and Task 2 criterion feedback (#105).
 - A `### Philosophy` subsection under By Subject, with 3 vetted entries

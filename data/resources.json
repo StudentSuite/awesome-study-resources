@@ -2413,5 +2413,12 @@
     "description": "Practise 0478/0984 pseudocode with original exercises and answers (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"
+  },
+  {
+    "name": "1600.now",
+    "url": "https://1600.now/",
+    "description": "Practice SAT questions and timed tests with answer explanations (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
   }
 ]

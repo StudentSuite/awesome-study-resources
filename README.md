@@ -201,6 +201,7 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores (paid).
+- **[1600.now](https://1600.now/)** - Practice SAT questions and timed tests with answer explanations (free).
 - **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests (free).
 - **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board (free).
 - **[Magoosh SAT](https://sat.magoosh.com)** - Video lessons and practice questions for the Digital SAT (freemium).
