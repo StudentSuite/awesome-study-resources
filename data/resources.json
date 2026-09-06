@@ -2406,5 +2406,12 @@
     "description": "Landmark physics text, free to read online (free).",
     "section": "Great Textbooks",
     "subsection": null
+  },
+  {
+    "name": "1600.now",
+    "url": "https://1600.now/",
+    "description": "Practice SAT questions and timed tests with answer explanations (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
   }
 ]
