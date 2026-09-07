@@ -2420,5 +2420,12 @@
     "description": "Practice SAT questions and timed tests with answer explanations (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "SAT"
+  },
+  {
+    "name": "IELTS Writing Practice",
+    "url": "https://ieltswritingpractice.app/",
+    "description": "Practise timed IELTS writing; AI feedback costs extra (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
   }
 ]
