@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-346-blue)
+![Resources](https://img.shields.io/badge/resources-347-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
-| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 9 |
+| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 10 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 7 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 7 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 14 |
@@ -790,6 +790,7 @@ Draft, cite, and polish papers.
 - **[Grammarly](https://www.grammarly.com)** - Grammar and clarity suggestions as you write (freemium).
 - **[Hemingway Editor](https://hemingwayapp.com)** - Free readability checker that flags dense sentences and passive voice (freemium).
 - **[IELTS Writing Checker](https://ieltswritingchecker.org/)** - Get IELTS Task 1 and Task 2 criterion feedback (freemium).
+- **[IELTS Writing Practice](https://ieltswritingpractice.app/)** - Practise timed IELTS writing; AI feedback costs extra (freemium).
 - **[LanguageTool](https://languagetool.org)** - Free, open-source grammar and style checker (freemium).
 - **[Overleaf](https://www.overleaf.com)** - Collaborative online LaTeX editor for formatted papers (freemium).
 - **[Purdue OWL](https://owl.purdue.edu)** - Free reference for writing, grammar, and citation styles (free).
