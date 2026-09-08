@@ -2427,5 +2427,12 @@
     "description": "Practise timed IELTS writing; AI feedback costs extra (freemium).",
     "section": "Writing, Citations & Reference",
     "subsection": null
+  },
+  {
+    "name": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu",
+    "description": "Free, peer-reviewed reference articles on philosophical topics and thinkers (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
   }
 ]

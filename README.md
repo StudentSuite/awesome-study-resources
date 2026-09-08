@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-347-blue)
+![Resources](https://img.shields.io/badge/resources-348-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 184 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 185 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -442,6 +442,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[1000-Word Philosophy](https://1000wordphilosophy.com)** - Free, short introductory essays on philosophical concepts and thinkers (free).
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory philosophy video series (free).
 - **[Philosophy Now](https://philosophynow.org)** - Magazine covering philosophical ideas and debates, four articles free per month (freemium).
+- **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu)** - Free, peer-reviewed reference articles on philosophical topics and thinkers (free).
 
 </details>
 
