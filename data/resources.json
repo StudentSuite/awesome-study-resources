@@ -2483,5 +2483,12 @@
     "description": "Free geography lesson plans, maps, and interactive classroom resources (free).",
     "section": "By Subject",
     "subsection": "Geography"
+  },
+  {
+    "name": "Our World in Data",
+    "url": "https://ourworldindata.org",
+    "description": "Free data and research on environmental, climate, and global issues (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
   }
 ]
