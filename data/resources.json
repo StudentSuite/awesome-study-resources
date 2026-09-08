@@ -2448,5 +2448,12 @@
     "description": "Free tool for mapping structured pro and con debates (free).",
     "section": "By Subject",
     "subsection": "Global Perspectives"
+  },
+  {
+    "name": "World101",
+    "url": "https://world101.cfr.org",
+    "description": "Free CFR modules explaining international relations and foreign policy (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
   }
 ]

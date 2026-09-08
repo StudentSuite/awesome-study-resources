@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-350-blue)
+![Resources](https://img.shields.io/badge/resources-351-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 187 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 188 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -491,6 +491,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[GloPo IB](https://glopoib.wordpress.com)** - Shares revision booklets, case studies, and theory summaries (free).
 - **[IB Global Politics](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/global-politics/)** - Outlines the official IB syllabus and core concepts (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-global-politics)** - Provides notes, case studies, and a question bank (freemium).
+- **[World101](https://world101.cfr.org)** - Free CFR modules explaining international relations and foreign policy (free).
 
 </details>
 
