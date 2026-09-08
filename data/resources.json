@@ -2504,5 +2504,12 @@
     "description": "Download free public-domain sheet music for nearly any instrument (free).",
     "section": "By Subject",
     "subsection": "Music"
+  },
+  {
+    "name": "Scribbr AI Detector",
+    "url": "https://www.scribbr.com/ai-detector/",
+    "description": "Checks writing for AI-generated text, free up to 1,200 words (freemium).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
   }
 ]
