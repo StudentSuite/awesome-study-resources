@@ -2469,5 +2469,12 @@
     "description": "Free AAA magazine covering current anthropological research and teaching (free).",
     "section": "By Subject",
     "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "LitCharts",
+    "url": "https://www.litcharts.com",
+    "description": "Study guides with summaries, themes, and quotes for literature texts (freemium).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
   }
 ]
