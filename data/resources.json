@@ -2434,5 +2434,12 @@
     "description": "Free, peer-reviewed reference articles on philosophical topics and thinkers (free).",
     "section": "By Subject",
     "subsection": "Philosophy"
+  },
+  {
+    "name": "Religion and Public Life",
+    "url": "https://rpl.hds.harvard.edu",
+    "description": "Free HarvardX courses and research on world religious traditions (freemium).",
+    "section": "By Subject",
+    "subsection": "World Religions"
   }
 ]
