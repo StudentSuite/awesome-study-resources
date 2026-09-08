@@ -2511,5 +2511,12 @@
     "description": "Checks writing for AI-generated text, free up to 1,200 words (freemium).",
     "section": "AI & Academic Integrity",
     "subsection": null
+  },
+  {
+    "name": "Toggl Track",
+    "url": "https://toggl.com/track/",
+    "description": "Track study time across devices with simple reports (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
   }
 ]
