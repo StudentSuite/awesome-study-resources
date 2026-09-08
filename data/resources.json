@@ -2462,5 +2462,12 @@
     "description": "Harvard's free, evidence-based guide to nutrition science and healthy eating (free).",
     "section": "By Subject",
     "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Anthropology News",
+    "url": "https://www.anthropology-news.org",
+    "description": "Free AAA magazine covering current anthropological research and teaching (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
   }
 ]
