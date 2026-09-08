@@ -2455,5 +2455,12 @@
     "description": "Free CFR modules explaining international relations and foreign policy (free).",
     "section": "By Subject",
     "subsection": "Global Politics"
+  },
+  {
+    "name": "The Nutrition Source",
+    "url": "https://nutritionsource.hsph.harvard.edu",
+    "description": "Harvard's free, evidence-based guide to nutrition science and healthy eating (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
   }
 ]

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-351-blue)
+![Resources](https://img.shields.io/badge/resources-352-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 188 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 189 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -566,6 +566,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdn9jhv)** - Covers GCSE food preparation and nutrition topics with revision guides and quizzes (free).
 - **[Food – A Fact of Life](https://www.foodafactoflife.org.uk)** - Teaches nutrition, cooking skills, and food science for GCSE level (free).
 - **[Seneca Learning](https://senecalearning.com/en-gb/blog/gcse-food-preparation-nutrition-revision/)** - Delivers interactive GCSE food and nutrition revision with spaced repetition (freemium).
+- **[The Nutrition Source](https://nutritionsource.hsph.harvard.edu)** - Harvard's free, evidence-based guide to nutrition science and healthy eating (free).
 
 </details>
 
