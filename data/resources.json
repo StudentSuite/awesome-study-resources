@@ -2441,5 +2441,12 @@
     "description": "Free HarvardX courses and research on world religious traditions (freemium).",
     "section": "By Subject",
     "subsection": "World Religions"
+  },
+  {
+    "name": "Kialo Edu",
+    "url": "https://www.kialo-edu.com",
+    "description": "Free tool for mapping structured pro and con debates (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
   }
 ]
