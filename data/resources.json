@@ -2525,5 +2525,12 @@
     "description": "Create flashcards with spaced repetition, notes, and study plans (freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "Mathigon",
+    "url": "https://mathigon.org",
+    "description": "Explore interactive math lessons and manipulatives in the browser (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
   }
 ]
