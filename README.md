@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-357-blue)
+![Resources](https://img.shields.io/badge/resources-358-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 194 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 195 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 7 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 7 |
@@ -698,6 +698,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[8notes](https://www.8notes.com)** - Free sheet music across 25+ instruments (freemium).
+- **[IMSLP](https://imslp.org)** - Download free public-domain sheet music for nearly any instrument (free).
 - **[musictheory.net](https://www.musictheory.net)** - Free, interactive lessons and ear-training exercises for music theory basics (free).
 - **[Rick Beato](https://www.youtube.com/@RickBeato)** - In-depth music theory, ear training, and song analysis (free).
 - **[teoria](https://teoria.com)** - Free ear-training drills and music theory reference (free).

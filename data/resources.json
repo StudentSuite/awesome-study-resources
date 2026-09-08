@@ -2497,5 +2497,12 @@
     "description": "Free, exercise-based course for learning drawing fundamentals step by step (free).",
     "section": "By Subject",
     "subsection": "Art"
+  },
+  {
+    "name": "IMSLP",
+    "url": "https://imslp.org",
+    "description": "Download free public-domain sheet music for nearly any instrument (free).",
+    "section": "By Subject",
+    "subsection": "Music"
   }
 ]
