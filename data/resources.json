@@ -2476,5 +2476,12 @@
     "description": "Study guides with summaries, themes, and quotes for literature texts (freemium).",
     "section": "By Subject",
     "subsection": "English Language and Literature"
+  },
+  {
+    "name": "National Geographic Education",
+    "url": "https://www.nationalgeographic.org/education/",
+    "description": "Free geography lesson plans, maps, and interactive classroom resources (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
   }
 ]
