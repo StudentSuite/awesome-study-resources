@@ -2539,5 +2539,12 @@
     "description": "Explore interactive math lessons and manipulatives in the browser (free).",
     "section": "Diagramming & STEM Tools",
     "subsection": null
+  },
+  {
+    "name": "Flag Drill",
+    "url": "https://flagdrill.com/",
+    "description": "Practice flag quizzes for 193 UN members and similar flags (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
   }
 ]
