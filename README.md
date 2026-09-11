@@ -21,6 +21,8 @@
 
 This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else, not to something hosted here. IB, IGCSE, SAT, and any student anywhere: add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
+This list covers exam, curriculum, and subject-specific study material. [Awesome Student Resources](https://github.com/StudentSuite/awesome-student-resources) covers life around school instead: discounts, money, career prep, and wellbeing. They stay separate because the coursework itself and the logistics of being a student call for different resources, and splitting keeps each list focused enough to be useful.
+
 > Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
 >
 > Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-study-resources/issues/new/choose) &middot; [Ask a question](https://github.com/StudentSuite/awesome-study-resources/discussions) &middot; [Changelog](CHANGELOG.md)
