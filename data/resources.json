@@ -2588,5 +2588,12 @@
     "description": "Free history encyclopedia covering British, American, and world history topics (free).",
     "section": "By Subject",
     "subsection": "History"
+  },
+  {
+    "name": "Economics Help",
+    "url": "https://www.economicshelp.org",
+    "description": "Revision notes and blog posts covering micro and macroeconomics topics (freemium).",
+    "section": "By Subject",
+    "subsection": "Economics"
   }
 ]
