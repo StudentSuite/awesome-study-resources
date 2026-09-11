@@ -2602,5 +2602,12 @@
     "description": "Short animated videos explaining physics concepts clearly and concisely (free).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com/maths-revision/further-core-pure/",
+    "description": "Free past papers, worksheets, and topic notes for A-Level Further Maths (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
   }
 ]
