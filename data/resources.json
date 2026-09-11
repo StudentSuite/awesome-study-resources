@@ -2567,5 +2567,12 @@
     "description": "Free exercise and kinesiology reference library covering training and prescription (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "e-lawresources.co.uk",
+    "url": "https://e-lawresources.co.uk",
+    "description": "Free lecture outlines, case summaries, and quizzes across UK law topics (free).",
+    "section": "By Subject",
+    "subsection": "Law"
   }
 ]
