@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-366-blue)
+![Resources](https://img.shields.io/badge/resources-367-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 199 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 200 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -556,6 +556,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[BrianMac Sports Coach](https://www.brianmac.co.uk)** - Free reference on exercise physiology, training methods, and sports coaching (free).
+- **[ExRx.net](https://exrx.net)** - Free exercise and kinesiology reference library covering training and prescription (freemium).
 - **[Physiopedia](https://www.physio-pedia.com)** - Free, evidence-based knowledge base covering anatomy, injury, and rehabilitation (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-sports-exercise-and-health-science-sehs-new-syllabus)** - Notes, flashcards, and a question bank for IB Sports, Exercise and Health Science (freemium).
 - **[StudyIB](https://studyib.net/sehs)** - Concise revision notes and explanations across the SEHS syllabus (freemium).

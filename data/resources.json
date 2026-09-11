@@ -2560,5 +2560,12 @@
     "description": "AI tutor with free practice questions for GCSE Health and Social Care (freemium).",
     "section": "By Subject",
     "subsection": "Health and Social Care"
+  },
+  {
+    "name": "ExRx.net",
+    "url": "https://exrx.net",
+    "description": "Free exercise and kinesiology reference library covering training and prescription (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
   }
 ]
