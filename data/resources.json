@@ -2581,5 +2581,12 @@
     "description": "Free searchable library of classical Greek and Latin texts and tools (free).",
     "section": "By Subject",
     "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Spartacus Educational",
+    "url": "https://spartacus-educational.com",
+    "description": "Free history encyclopedia covering British, American, and world history topics (free).",
+    "section": "By Subject",
+    "subsection": "History"
   }
 ]
