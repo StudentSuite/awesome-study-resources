@@ -2539,5 +2539,12 @@
     "description": "Explore interactive math lessons and manipulatives in the browser (free).",
     "section": "Diagramming & STEM Tools",
     "subsection": null
+  },
+  {
+    "name": "Into Film",
+    "url": "https://www.intofilm.org",
+    "description": "UK charity providing free film education resources and streaming for schools (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
   }
 ]
