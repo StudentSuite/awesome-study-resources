@@ -2630,5 +2630,12 @@
     "description": "Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Extended Essay"
+  },
+  {
+    "name": "SimpleStudy UK",
+    "url": "https://simplestudy.com/gb/a-level/aqa/dance/revision-notes",
+    "description": "Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).",
+    "section": "By Subject",
+    "subsection": "Dance"
   }
 ]
