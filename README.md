@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-375-blue)
+![Resources](https://img.shields.io/badge/resources-376-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 208 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
@@ -134,6 +134,7 @@ Official and community prep for the big exams and curricula.
 - **[IB Extended Essay](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/)** - The IB's official overview of the Extended Essay requirements and process (free).
 - **[Lanterna Education](https://lanterna.com/resources/ib-extended-essay-ee-guide)** - Free guide to choosing a topic and structuring an Extended Essay (free).
 - **[PrepScholar EE](https://blog.prepscholar.com/complete-guide-to-ib-extended-essay-tips-grading-guideline-and-sample-essays)** - Free guide covering EE grading, structure, and sample essays (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ee-guides)** - Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).
 - **[TutorChase](https://www.tutorchase.com/blog/ib-extended-essay-a-complete-guide)** - Free guide to topic selection, research, and structuring the Extended Essay (free).
 
 </details>

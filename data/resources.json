@@ -2623,5 +2623,12 @@
     "description": "Free video lessons and practice exercises across all math levels (free).",
     "section": "By Subject",
     "subsection": "Mathematics"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ee-guides",
+    "description": "Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
   }
 ]
