@@ -2546,5 +2546,12 @@
     "description": "UK charity providing free film education resources and streaming for schools (free).",
     "section": "By Subject",
     "subsection": "Media Studies"
+  },
+  {
+    "name": "ReviseSociology",
+    "url": "https://revisesociology.com/a-level-sociology/",
+    "description": "Free A-Level Sociology revision notes, mind maps, and model answers (freemium).",
+    "section": "By Subject",
+    "subsection": "Sociology"
   }
 ]
