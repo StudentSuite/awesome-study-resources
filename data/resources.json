@@ -2616,5 +2616,12 @@
     "description": "Free explanations, formulas, and calculators for statistics terms and tests (free).",
     "section": "By Subject",
     "subsection": "Statistics"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/math",
+    "description": "Free video lessons and practice exercises across all math levels (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
   }
 ]
