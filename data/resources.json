@@ -2595,5 +2595,12 @@
     "description": "Revision notes and blog posts covering micro and macroeconomics topics (freemium).",
     "section": "By Subject",
     "subsection": "Economics"
+  },
+  {
+    "name": "MinutePhysics",
+    "url": "https://www.youtube.com/@minutephysics",
+    "description": "Short animated videos explaining physics concepts clearly and concisely (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
   }
 ]
