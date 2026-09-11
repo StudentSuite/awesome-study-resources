@@ -2609,5 +2609,12 @@
     "description": "Free past papers, worksheets, and topic notes for A-Level Further Maths (free).",
     "section": "By Subject",
     "subsection": "Further Mathematics"
+  },
+  {
+    "name": "StatisticsHowTo",
+    "url": "https://www.statisticshowto.com",
+    "description": "Free explanations, formulas, and calculators for statistics terms and tests (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
   }
 ]

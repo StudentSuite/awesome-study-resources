@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-373-blue)
+![Resources](https://img.shields.io/badge/resources-374-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 206 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 207 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -255,6 +255,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[OpenIntro Statistics](https://www.openintro.org/book/os/)** - Free, open-source statistics textbook used by universities worldwide (free).
 - **[Stat Trek](https://stattrek.com)** - Free tutorials, calculators, and video lessons for AP Statistics (free).
 - **[Statistics Calculator](https://nutilz.com/statistics-calculator)** - Free calculator for mean, median, mode, standard deviation, and quartiles (free).
+- **[StatisticsHowTo](https://www.statisticshowto.com)** - Free explanations, formulas, and calculators for statistics terms and tests (free).
 - **[StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)** - Clear, visual explanations of statistics and machine learning concepts (free).
 
 </details>
