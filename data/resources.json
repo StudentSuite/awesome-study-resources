@@ -2574,5 +2574,12 @@
     "description": "Free lecture outlines, case summaries, and quizzes across UK law topics (free).",
     "section": "By Subject",
     "subsection": "Law"
+  },
+  {
+    "name": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu",
+    "description": "Free searchable library of classical Greek and Latin texts and tools (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
   }
 ]
