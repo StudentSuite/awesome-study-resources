@@ -2546,5 +2546,103 @@
     "description": "Practice flag quizzes for 193 UN members and similar flags (free).",
     "section": "By Subject",
     "subsection": "Geography"
+  },
+  {
+    "name": "Into Film",
+    "url": "https://www.intofilm.org",
+    "description": "UK charity providing free film education resources and streaming for schools (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "ReviseSociology",
+    "url": "https://revisesociology.com/a-level-sociology/",
+    "description": "Free A-Level Sociology revision notes, mind maps, and model answers (freemium).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "Revision Genie",
+    "url": "https://www.revisiongenie.com/subject/gcse/health-and-social-care",
+    "description": "AI tutor with free practice questions for GCSE Health and Social Care (freemium).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "ExRx.net",
+    "url": "https://exrx.net",
+    "description": "Free exercise and kinesiology reference library covering training and prescription (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "e-lawresources.co.uk",
+    "url": "https://e-lawresources.co.uk",
+    "description": "Free lecture outlines, case summaries, and quizzes across UK law topics (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu",
+    "description": "Free searchable library of classical Greek and Latin texts and tools (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Spartacus Educational",
+    "url": "https://spartacus-educational.com",
+    "description": "Free history encyclopedia covering British, American, and world history topics (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Economics Help",
+    "url": "https://www.economicshelp.org",
+    "description": "Revision notes and blog posts covering micro and macroeconomics topics (freemium).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "MinutePhysics",
+    "url": "https://www.youtube.com/@minutephysics",
+    "description": "Short animated videos explaining physics concepts clearly and concisely (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com/maths-revision/further-core-pure/",
+    "description": "Free past papers, worksheets, and topic notes for A-Level Further Maths (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "StatisticsHowTo",
+    "url": "https://www.statisticshowto.com",
+    "description": "Free explanations, formulas, and calculators for statistics terms and tests (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/math",
+    "description": "Free video lessons and practice exercises across all math levels (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ee-guides",
+    "description": "Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "SimpleStudy UK",
+    "url": "https://simplestudy.com/gb/a-level/aqa/dance/revision-notes",
+    "description": "Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).",
+    "section": "By Subject",
+    "subsection": "Dance"
   }
 ]

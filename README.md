@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-364-blue)
+![Resources](https://img.shields.io/badge/resources-378-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -20,6 +20,8 @@
 ---
 
 This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else, not to something hosted here. IB, IGCSE, SAT, and any student anywhere: add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+This list covers exam, curriculum, and subject-specific study material. [Awesome Student Resources](https://github.com/StudentSuite/awesome-student-resources) covers life around school instead: discounts, money, career prep, and wellbeing. They stay separate because the coursework itself and the logistics of being a student call for different resources, and splitting keeps each list focused enough to be useful.
 
 > Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
 >
@@ -31,8 +33,8 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 78 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 197 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 80 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 209 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -132,6 +134,7 @@ Official and community prep for the big exams and curricula.
 - **[IB Extended Essay](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/)** - The IB's official overview of the Extended Essay requirements and process (free).
 - **[Lanterna Education](https://lanterna.com/resources/ib-extended-essay-ee-guide)** - Free guide to choosing a topic and structuring an Extended Essay (free).
 - **[PrepScholar EE](https://blog.prepscholar.com/complete-guide-to-ib-extended-essay-tips-grading-guideline-and-sample-essays)** - Free guide covering EE grading, structure, and sample essays (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ee-guides)** - Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).
 - **[TutorChase](https://www.tutorchase.com/blog/ib-extended-essay-a-complete-guide)** - Free guide to topic selection, research, and structuring the Extended Essay (free).
 
 </details>
@@ -240,6 +243,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Brilliant](https://brilliant.org)** - Interactive courses that build intuition through problem solving (freemium).
 - **[Calculator Campus](https://www.calculatorcampus.com/)** - Use free practical calculators with formulas, examples, and named sources.
 - **[Desmos](https://www.desmos.com)** - Free graphing and geometry calculators for exploring functions (free).
+- **[Khan Academy](https://www.khanacademy.org/math)** - Free video lessons and practice exercises across all math levels (free).
 - **[Paul's Online Math Notes](https://tutorial.math.lamar.edu)** - Free, thorough notes and examples from algebra to differential equations (free).
 
 </details>
@@ -253,6 +257,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[OpenIntro Statistics](https://www.openintro.org/book/os/)** - Free, open-source statistics textbook used by universities worldwide (free).
 - **[Stat Trek](https://stattrek.com)** - Free tutorials, calculators, and video lessons for AP Statistics (free).
 - **[Statistics Calculator](https://nutilz.com/statistics-calculator)** - Free calculator for mean, median, mode, standard deviation, and quartiles (free).
+- **[StatisticsHowTo](https://www.statisticshowto.com)** - Free explanations, formulas, and calculators for statistics terms and tests (free).
 - **[StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)** - Clear, visual explanations of statistics and machine learning concepts (free).
 
 </details>
@@ -266,6 +271,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[ExamSolutions](https://www.examsolutions.net)** - Video tutorials covering A-Level Maths and Further Maths topics (free).
 - **[Further Mathematics Support Programme](https://furthermaths.org.uk)** - Resources and videos supporting A-Level Further Maths students (free).
 - **[MEI](https://mei.org.uk)** - UK charity with free courses and problem sets supporting Further Maths students (free).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com/maths-revision/further-core-pure/)** - Free past papers, worksheets, and topic notes for A-Level Further Maths (free).
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and past papers for IB Math AA/AI HL (freemium).
 
 </details>
@@ -278,6 +284,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics (free).
 - **[HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
 - **[Isaac Physics](https://isaacscience.org)** - Free, problem-based physics learning platform built by the University of Cambridge (free).
+- **[MinutePhysics](https://www.youtube.com/@minutephysics)** - Short animated videos explaining physics concepts clearly and concisely (free).
 - **[PhET Simulations](https://phet.colorado.edu)** - Free interactive sims for physics, chemistry, and math (free).
 - **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - The classic lectures, free to read online (free).
 
@@ -359,6 +366,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[CORE Econ](https://www.core-econ.org)** - Free, modern economics textbook used worldwide (free).
+- **[Economics Help](https://www.economicshelp.org)** - Revision notes and blog posts covering micro and macroeconomics topics (freemium).
 - **[EconplusDal](https://www.youtube.com/@EconplusDal)** - Exam-focused economics tutorials for A-Level and IB (free).
 - **[Marginal Revolution University](https://mru.org)** - Free economics videos from working economists (free).
 - **[Primate economics](https://www.youtube.com/@Primateeconomics)** - Basics of Economic theories explained in a comedic manner (free).
@@ -469,6 +477,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses (free).
 - **[Mr Allsop History](https://www.mrallsophistory.com)** - Free podcasts, videos, and revision notes across GCSE, IGCSE, A-Level, and IB History (free).
 - **[Oversimplified](https://youtube.com/@oversimplified)** - Teaching important events in History in an oversimplified way (free).
+- **[Spartacus Educational](https://spartacus-educational.com)** - Free history encyclopedia covering British, American, and world history topics (free).
 
 </details>
 
@@ -502,6 +511,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/classical_civilization)** - Free class notes, flashcards, and quizzes for GCSE Classical Civilisation (free).
+- **[Perseus Digital Library](https://www.perseus.tufts.edu)** - Free searchable library of classical Greek and Latin texts and tools (free).
 - **[Primrose Kitten](https://www.youtube.com/@PrimroseKitten)** - Free video revision covering GCSE Classical Civilisation topics (free).
 - **[Revision World](https://revisionworld.com/content/classical-civilisation)** - Free OCR GCSE Classical Civilisation revision guides and resources (free).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Classical Civilisation revision content (free).
@@ -530,6 +540,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[A-LevelLaw.com](https://a-levellaw.com)** - Free student-run notes, case summaries, and past papers for A-Level Law (free).
 - **[BAILII](https://www.bailii.org)** - Free searchable database of British and Irish case law and legislation (free).
+- **[e-lawresources.co.uk](https://e-lawresources.co.uk)** - Free lecture outlines, case summaries, and quizzes across UK law topics (free).
 - **[legislation.gov.uk](https://www.legislation.gov.uk)** - The official, free database of UK legislation (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for A-Level Law (freemium).
 - **[tutor2u](https://www.tutor2u.net/free/law)** - Free revision notes and teaching resources for A-Level Law (freemium).
@@ -555,6 +566,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[BrianMac Sports Coach](https://www.brianmac.co.uk)** - Free reference on exercise physiology, training methods, and sports coaching (free).
+- **[ExRx.net](https://exrx.net)** - Free exercise and kinesiology reference library covering training and prescription (freemium).
 - **[Physiopedia](https://www.physio-pedia.com)** - Free, evidence-based knowledge base covering anatomy, injury, and rehabilitation (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-sports-exercise-and-health-science-sehs-new-syllabus)** - Notes, flashcards, and a question bank for IB Sports, Exercise and Health Science (freemium).
 - **[StudyIB](https://studyib.net/sehs)** - Concise revision notes and explanations across the SEHS syllabus (freemium).
@@ -581,6 +593,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned Health and Social Care revision (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/health_and_social_care)** - Free class notes, flashcards, and quizzes for GCSE Health and Social Care (free).
+- **[Revision Genie](https://www.revisiongenie.com/subject/gcse/health-and-social-care)** - AI tutor with free practice questions for GCSE Health and Social Care (freemium).
 - **[Revision World](https://revisionworld.com/exam-subjects/health-and-social-care)** - Free revision guides and resources for Health and Social Care (free).
 - **[Study Rocket](https://studyrocket.co.uk/revision/gcse-health-and-social-care-ccea)** - Free exam board-specific GCSE Health and Social Care revision content (free).
 - **[tutor2u](https://www.tutor2u.net/free/hsc)** - Free revision notes and teaching resources for Health and Social Care (freemium).
@@ -620,6 +633,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory sociology video series (free).
 - **[OpenStax Introduction to Sociology](https://openstax.org/details/books/introduction-sociology-3e)** - Free, peer-reviewed introductory sociology textbook (free).
+- **[ReviseSociology](https://revisesociology.com/a-level-sociology/)** - Free A-Level Sociology revision notes, mind maps, and model answers (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive A-Level Sociology revision (freemium).
 - **[Simply Psychology](https://www.simplypsychology.org/theories/sociology/)** - Clear notes on core sociological theories and thinkers (free).
 - **[tutor2u](https://www.tutor2u.net/free/sociology)** - Free revision notes and teaching resources for A-Level Sociology (freemium).
@@ -687,6 +701,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[BFI Education](https://www.bfi.org.uk/resources-events-teachers/resources-teachers)** - Film and media studies teaching resources from the British Film Institute (freemium).
+- **[Into Film](https://www.intofilm.org)** - UK charity providing free film education resources and streaming for schools (free).
 - **[media-studies.com](https://media-studies.com/aqa-a-level/)** - Free AQA A-Level Media Studies guides and exam revision content (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for Media Studies (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level Media Studies revision (freemium).
@@ -727,6 +742,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zg9jtfr)** - Covers GCSE dance revision notes, videos, and practice questions (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for GCSE and A-Level Dance (freemium).
+- **[SimpleStudy UK](https://simplestudy.com/gb/a-level/aqa/dance/revision-notes)** - Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).
 - **[STEEZY Studio](https://www.steezy.co)** - Online dance classes and technique tutorials across styles (freemium).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE and A-Level Dance revision content (free).
 
