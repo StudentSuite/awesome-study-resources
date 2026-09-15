@@ -65,6 +65,11 @@ v1.0.0 tag itself.
   corrected to match what it actually scans (#45), and a CODEOWNERS comment
   corrected to match its actual (single-rule) content (#50).
 
+### Removed
+
+- Photography Revision from By Subject / Photography: the domain has expired
+  and now serves a Namecheap parking page (#183).
+
 ## [1.0.0] - 2026-08-11
 
 ### Added
