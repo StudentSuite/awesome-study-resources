@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-391-blue)
+![Resources](https://img.shields.io/badge/resources-392-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 223 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 224 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -356,6 +356,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Clastify](https://www.clastify.com/notes/itgs)** - Searchable IB ITGS notes filtered by grade, level, and exam session (freemium).
 - **[IB Guides](https://ibguides.com/itgs/home/)** - Free ITGS syllabus objectives, unit guides, and videos (free).
 - **[Nail IB](https://nailib.com/blog/ib-itgs)** - Free overview of the ITGS course, its IA, and whether it fits you (free).
+- **[Pew Research Center](https://www.pewresearch.org/internet/)** - Free, nonpartisan research and data on technology's impact on society (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-itgs)** - Notes, flashcards, and a question bank for IB ITGS (freemium).
 - **[StudyIB](https://studyib.net/itgs)** - Concise revision notes and explanations across the ITGS syllabus (freemium).
 
