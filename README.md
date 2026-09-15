@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-377-blue)
+![Resources](https://img.shields.io/badge/resources-378-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 209 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 210 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -339,6 +339,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Clastify](https://www.clastify.com/notes/design-technology)** - Searchable IB Design Technology notes filtered by grade and level (freemium).
+- **[DTBase](https://designandtechbase.com/)** - Free GCSE and A-Level Design and Technology notes and past papers (freemium).
 - **[IB Guides](https://ibguides.com/design-technology/home/)** - Free Design Technology syllabus objectives, unit guides, and videos (free).
 - **[Knowt](https://knowt.com/exams/IB/IB-Design-Technology-(HL))** - Free student-written study guides and flashcards for IB Design Technology, by unit (freemium).
 - **[Nail IB](https://nailib.com/blog/ib-design-technology-ia)** - Free guide to the IB Design Technology internal assessment (free).
