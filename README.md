@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-404-blue)
+![Resources](https://img.shields.io/badge/resources-405-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 236 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 237 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -709,6 +709,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[Cambridge in Colour](https://www.cambridgeincolour.com/)** - Free tutorials on camera exposure, composition, and editing fundamentals (free).
 - **[Digital Photography School](https://digital-photography-school.com)** - Free photography tutorials covering camera basics, composition, and lighting (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/photography)** - Free class notes, flashcards, and quizzes for GCSE Photography (free).
 - **[iPhotography](https://www.iphotography.com/blog/gcse-photography-a-student-revision-guide/)** - Free guide to camera settings, composition, and exam-board expectations for GCSE Photography (free).
