@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-398-blue)
+![Resources](https://img.shields.io/badge/resources-399-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 230 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 231 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -425,6 +425,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[Clozemaster](https://www.clozemaster.com)** - Builds vocabulary through fill-in-the-blank sentences across 50+ languages (freemium).
 - **[Duolingo](https://www.duolingo.com)** - Free, gamified lessons across dozens of languages (freemium).
+- **[HelloTalk](https://www.hellotalk.com/)** - Practice real conversations by chatting with native speakers worldwide (freemium).
 - **[italki](https://www.italki.com)** - Book 1-on-1 sessions with language tutors worldwide (paid).
 - **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
 - **[LingQ](https://www.lingq.com)** - Teaches vocabulary in context by reading and listening to real texts (freemium).

@@ -1064,6 +1064,13 @@
     "subsection": "Foreign Languages"
   },
   {
+    "name": "HelloTalk",
+    "url": "https://www.hellotalk.com/",
+    "description": "Practice real conversations by chatting with native speakers worldwide (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
     "name": "italki",
     "url": "https://www.italki.com",
     "description": "Book 1-on-1 sessions with language tutors worldwide (paid).",
