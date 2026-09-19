@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-399-blue)
+![Resources](https://img.shields.io/badge/resources-400-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 231 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 232 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -526,6 +526,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Revision World](https://revisionworld.com/content/classical-civilisation)** - Free OCR GCSE Classical Civilisation revision guides and resources (free).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Classical Civilisation revision content (free).
 - **[Warwick Classics Network](https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/stoa/classciv/gcse/)** - Free university-backed GCSE Classical Civilisation videos and resources (free).
+- **[World History Encyclopedia](https://www.worldhistory.org/)** - Free, fact-checked reference articles on ancient Greek and Roman civilisation (free).
 
 </details>
 
