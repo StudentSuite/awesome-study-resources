@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-403-blue)
+![Resources](https://img.shields.io/badge/resources-404-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 235 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 236 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 8 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -628,6 +628,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[IB Social and Cultural Anthropology](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/social-and-cultural-anthropology/)** - Outlines the official IB syllabus and assessment structure (free).
 - **[Knowt](https://knowt.com/exams/IB/IB-Social-and-cultural-anthropology-(SL))** - Offers student-written notes and flashcards by unit (free).
 - **[OpenStax Introduction to Anthropology](https://openstax.org/details/books/introduction-anthropology)** - Free, peer-reviewed introductory anthropology textbook (free).
+- **[Perspectives: An Open Invitation to Cultural Anthropology](https://pressbooks.pub/perspectives/)** - Free, peer-reviewed open textbook introducing cultural anthropology topics (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-social-and-cultural-anthropology)** - Provides study notes, flashcards, and a question bank (freemium).
 
 </details>
