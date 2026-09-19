@@ -728,6 +728,13 @@
     "subsection": "Biology"
   },
   {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Accessible introductory biology video series (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
     "name": "Biology LibreTexts",
     "url": "https://bio.libretexts.org",
     "description": "Free, open biology textbooks and references (free).",
