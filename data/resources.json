@@ -2854,5 +2854,12 @@
     "description": "Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).",
     "section": "By Subject",
     "subsection": "Dance"
+  },
+  {
+    "name": "BrioVocab",
+    "url": "https://briovocab.com/",
+    "description": "Practice French vocabulary with spaced repetition, spelling, and pronunciation (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
   }
 ]
