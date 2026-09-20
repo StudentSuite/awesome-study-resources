@@ -728,6 +728,13 @@
     "subsection": "Biology"
   },
   {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Accessible introductory biology video series (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
     "name": "Biology LibreTexts",
     "url": "https://bio.libretexts.org",
     "description": "Free, open biology textbooks and references (free).",
@@ -812,6 +819,13 @@
     "subsection": "Design Technology"
   },
   {
+    "name": "DTBase",
+    "url": "https://designandtechbase.com/",
+    "description": "Free GCSE and A-Level Design and Technology notes and past papers (freemium).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
     "name": "IB Guides",
     "url": "https://ibguides.com/design-technology/home/",
     "description": "Free Design Technology syllabus objectives, unit guides, and videos (free).",
@@ -868,6 +882,13 @@
     "subsection": "ITGS"
   },
   {
+    "name": "Pew Research Center",
+    "url": "https://www.pewresearch.org/internet/",
+    "description": "Free, nonpartisan research and data on technology's impact on society (free).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
     "name": "RevisionDojo",
     "url": "https://www.revisiondojo.com/ib/ib-itgs",
     "description": "Notes, flashcards, and a question bank for IB ITGS (freemium).",
@@ -920,6 +941,13 @@
     "name": "AccountingCoach",
     "url": "https://www.accountingcoach.com",
     "description": "Free explanations, quizzes, and flashcards across core accounting topics (freemium).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "Double Entry Bookkeeping",
+    "url": "https://www.double-entry-bookkeeping.com/",
+    "description": "Free tutorials, examples, and quizzes on bookkeeping and accounting basics (free).",
     "section": "By Subject",
     "subsection": "Accounting"
   },
@@ -1015,6 +1043,13 @@
     "subsection": "English Language and Literature"
   },
   {
+    "name": "Poetry Foundation",
+    "url": "https://www.poetryfoundation.org/learn",
+    "description": "Free poem archive, glossary of poetic terms, and analysis guides (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
     "name": "Purdue OWL",
     "url": "https://owl.purdue.edu",
     "description": "Free reference for writing, grammar, and citation styles (free).",
@@ -1039,6 +1074,13 @@
     "name": "Duolingo",
     "url": "https://www.duolingo.com",
     "description": "Free, gamified lessons across dozens of languages (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "HelloTalk",
+    "url": "https://www.hellotalk.com/",
+    "description": "Practice real conversations by chatting with native speakers worldwide (freemium).",
     "section": "By Subject",
     "subsection": "Foreign Languages"
   },
@@ -1074,6 +1116,13 @@
     "name": "Cambridge Latin Course",
     "url": "https://www.cambridgescp.com",
     "description": "Free companion resources for the widely used Cambridge Latin Course (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Latin is Simple",
+    "url": "https://www.latin-is-simple.com/",
+    "description": "Free Latin dictionary, vocabulary trainer, and sentence analysis tool (free).",
     "section": "By Subject",
     "subsection": "Latin"
   },
@@ -1127,6 +1176,20 @@
     "subsection": "Philosophy"
   },
   {
+    "name": "Internet Encyclopedia of Philosophy",
+    "url": "https://iep.utm.edu/",
+    "description": "Free, peer-reviewed articles on philosophical topics and thinkers (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Philosophize This!",
+    "url": "https://www.philosophizethis.org/",
+    "description": "Free podcast walking through the history of philosophy for beginners (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
     "name": "Philosophy Now",
     "url": "https://philosophynow.org",
     "description": "Magazine covering philosophical ideas and debates, four articles free per month (freemium).",
@@ -1134,9 +1197,23 @@
     "subsection": "Philosophy"
   },
   {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zmyb4wx",
+    "description": "Free curriculum-aligned GCSE Religious Studies revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
     "name": "IB World Religions",
     "url": "https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/world-religions/",
     "description": "Outlines the official IB syllabus covering nine major religions (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-world-religions",
+    "description": "Bite-sized topic summaries and IA exemplars for IB World Religions (freemium).",
     "section": "By Subject",
     "subsection": "World Religions"
   },
@@ -1197,6 +1274,20 @@
     "subsection": "Global Perspectives"
   },
   {
+    "name": "ProCon.org",
+    "url": "https://www.britannica.com/procon",
+    "description": "Free, nonpartisan pro and con research on controversial global issues (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "IGCSE Global Perspectives .net",
+    "url": "https://igcseglobalperspectives.net/",
+    "description": "Free student resources, IR templates, and team project guidance (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
     "name": "Save My Exams",
     "url": "https://www.savemyexams.com/learning-hub/subject-guides/igcse-global-perspectives-topics/",
     "description": "Lists topics and revision notes for IGCSE Global Perspectives by exam board (freemium).",
@@ -1218,6 +1309,13 @@
     "subsection": "Global Politics"
   },
   {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/IB/IB-Global-Politics-(SL)",
+    "description": "Free student-written IB Global Politics notes and flashcards by unit (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
     "name": "IB Global Politics",
     "url": "https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/global-politics/",
     "description": "Outlines the official IB syllabus and core concepts (free).",
@@ -1232,9 +1330,23 @@
     "subsection": "Global Politics"
   },
   {
+    "name": "TutorChase",
+    "url": "https://www.tutorchase.com/notes/ib/global-politics",
+    "description": "Free IB Global Politics HL notes across core and extension topics (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
     "name": "Get Revising",
     "url": "https://getrevising.co.uk/resources/level/gcse/subjects/classical_civilization",
     "description": "Free class notes, flashcards, and quizzes for GCSE Classical Civilisation (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "World History Encyclopedia",
+    "url": "https://www.worldhistory.org/",
+    "description": "Free, fact-checked reference articles on ancient Greek and Roman civilisation (free).",
     "section": "By Subject",
     "subsection": "Classical Civilisation"
   },
@@ -1270,6 +1382,13 @@
     "name": "BBC Bitesize",
     "url": "https://www.bbc.co.uk/bitesize",
     "description": "Free curriculum-aligned geography revision (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Geography All The Way",
+    "url": "https://www.geographyalltheway.com/",
+    "description": "IB DP Geography case studies, exam prep, and geographic skills (freemium).",
     "section": "By Subject",
     "subsection": "Geography"
   },
@@ -1358,6 +1477,13 @@
     "subsection": "Environmental Systems & Societies"
   },
   {
+    "name": "Science Sauce",
+    "url": "https://sciencesauceonline.com/ibess/",
+    "description": "IB ESS topic summaries, case studies, and IA support from a teacher (freemium).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
     "name": "BrianMac Sports Coach",
     "url": "https://www.brianmac.co.uk",
     "description": "Free reference on exercise physiology, training methods, and sports coaching (free).",
@@ -1400,9 +1526,23 @@
     "subsection": "Food & Nutrition"
   },
   {
+    "name": "NHS Eatwell Guide",
+    "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/",
+    "description": "Official NHS guide to balanced diets and food groups (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
     "name": "Food – A Fact of Life",
     "url": "https://www.foodafactoflife.org.uk",
     "description": "Teaches nutrition, cooking skills, and food science for GCSE level (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/gcse/food-and-nutrition/",
+    "description": "Revision notes, exam questions, flashcards, and past papers for GCSE Food & Nutrition (freemium).",
     "section": "By Subject",
     "subsection": "Food & Nutrition"
   },
@@ -1417,6 +1557,13 @@
     "name": "BBC Bitesize",
     "url": "https://www.bbc.co.uk/bitesize",
     "description": "Free curriculum-aligned Health and Social Care revision (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "OpenLearn Health and Social Care",
+    "url": "https://www.open.edu/openlearn/health-sports-psychology/health-and-social-care-pathway",
+    "description": "Free Open University introductory courses on social care, nursing, and mental health (free).",
     "section": "By Subject",
     "subsection": "Health and Social Care"
   },
@@ -1456,9 +1603,23 @@
     "subsection": "Social and Cultural Anthropology"
   },
   {
+    "name": "Perspectives: An Open Invitation to Cultural Anthropology",
+    "url": "https://pressbooks.pub/perspectives/",
+    "description": "Free, peer-reviewed open textbook introducing cultural anthropology topics (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
     "name": "Knowt",
     "url": "https://knowt.com/exams/IB/IB-Social-and-cultural-anthropology-(SL)",
     "description": "Offers student-written notes and flashcards by unit (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "OpenStax Introduction to Anthropology",
+    "url": "https://openstax.org/details/books/introduction-anthropology",
+    "description": "Free, peer-reviewed introductory anthropology textbook (free).",
     "section": "By Subject",
     "subsection": "Social and Cultural Anthropology"
   },
@@ -1547,6 +1708,13 @@
     "subsection": "Sociology"
   },
   {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zdhs34j",
+    "description": "Free curriculum-aligned GCSE Physical Education revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
     "name": "Revision World",
     "url": "https://revisionworld.com/gcse-revision/pe-physical-education",
     "description": "Free GCSE PE revision guides, quizzes, and past papers (free).",
@@ -1610,6 +1778,13 @@
     "subsection": "Art"
   },
   {
+    "name": "Student Art Guide",
+    "url": "https://www.studentartguide.com/",
+    "description": "Free guides on critical studies, artist research, and sketchbook annotation (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
     "name": "Tate",
     "url": "https://www.tate.org.uk/art/student-resource",
     "description": "Free GCSE and A-Level art exam help and student resources (free).",
@@ -1666,6 +1841,13 @@
     "subsection": "Photography"
   },
   {
+    "name": "Cambridge in Colour",
+    "url": "https://www.cambridgeincolour.com/",
+    "description": "Free tutorials on camera exposure, composition, and editing fundamentals (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
     "name": "Digital Photography School",
     "url": "https://digital-photography-school.com",
     "description": "Free photography tutorials covering camera basics, composition, and lighting (free).",
@@ -1676,13 +1858,6 @@
     "name": "iPhotography",
     "url": "https://www.iphotography.com/blog/gcse-photography-a-student-revision-guide/",
     "description": "Free guide to camera settings, composition, and exam-board expectations for GCSE Photography (free).",
-    "section": "By Subject",
-    "subsection": "Photography"
-  },
-  {
-    "name": "Photography Revision",
-    "url": "https://photographyrevision.com",
-    "description": "Free tutorials and guides on cameras, composition, and editing for Photography students (free).",
     "section": "By Subject",
     "subsection": "Photography"
   },
@@ -1699,6 +1874,13 @@
     "description": "Free tutorials on camera settings, composition, and editing for GCSE and A-Level Photography (freemium).",
     "section": "By Subject",
     "subsection": "Photography"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zwpfb9q",
+    "description": "Free curriculum-aligned GCSE Media Studies revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
   },
   {
     "name": "BFI Education",
@@ -1746,6 +1928,13 @@
     "name": "musictheory.net",
     "url": "https://www.musictheory.net",
     "description": "Free, interactive lessons and ear-training exercises for music theory basics (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "MyMusicTheory",
+    "url": "https://mymusictheory.com/",
+    "description": "Free music theory lessons and grade quizzes for ABRSM and Trinity exams (freemium).",
     "section": "By Subject",
     "subsection": "Music"
   },
@@ -1799,9 +1988,23 @@
     "subsection": "Theatre"
   },
   {
+    "name": "Theatrefolk",
+    "url": "https://www.theatrefolk.com/free-resources",
+    "description": "Free monologues, scenes, playwriting exercises, and study guides for drama students (freemium).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
     "name": "BBC Bitesize",
     "url": "https://www.bbc.co.uk/bitesize/subjects/zg9jtfr",
     "description": "Covers GCSE dance revision notes, videos, and practice questions (free).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Rambert Classroom",
+    "url": "https://rambert.org.uk/participation/schools-and-colleges/rambert-classroom/",
+    "description": "Videos and guides on GCSE and A-Level Dance set works from a professional company (freemium).",
     "section": "By Subject",
     "subsection": "Dance"
   },
@@ -2572,6 +2775,13 @@
     "name": "ExRx.net",
     "url": "https://exrx.net",
     "description": "Free exercise and kinesiology reference library covering training and prescription (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/IB/IB-Sports,-Exercise,-and-Health-Science-(SL)",
+    "description": "Free student-written IB Sports, Exercise and Health Science notes and flashcards by unit (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
   },

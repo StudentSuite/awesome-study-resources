@@ -14,6 +14,23 @@ v1.0.0 tag itself.
 
 ### Added
 
+- One vetted entry to each of 15 thin `By Subject` subsections, closing #184,
+  #185, #186, #188, #189, #190, #191, #192, #193, #194, #195, #196, #197,
+  #198, #199: [Knowt](https://knowt.com) (Sports, Exercise & Health Science
+  and Global Politics), [BBC Bitesize](https://www.bbc.co.uk/bitesize)
+  (Physical Education, Media Studies, and World Religions),
+  [Latin is Simple](https://www.latin-is-simple.com/) (Latin),
+  [OpenLearn Health and Social Care](https://www.open.edu/openlearn/health-sports-psychology/health-and-social-care-pathway)
+  (Health and Social Care), [HelloTalk](https://www.hellotalk.com/) (Foreign
+  Languages), [World History Encyclopedia](https://www.worldhistory.org/)
+  (Classical Civilisation), [CrashCourse](https://www.youtube.com/@crashcourse)
+  (Biology), [Double Entry Bookkeeping](https://www.double-entry-bookkeeping.com/)
+  (Accounting), [Perspectives: An Open Invitation to Cultural
+  Anthropology](https://pressbooks.pub/perspectives/) (Social and Cultural
+  Anthropology), [Cambridge in Colour](https://www.cambridgeincolour.com/)
+  (Photography), [ProCon.org](https://www.britannica.com/procon) (Global
+  Perspectives), and the [NHS Eatwell Guide](https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/)
+  (Food & Nutrition).
 - [1600.now](https://1600.now/) in Exam & Curriculum Prep / SAT for free
   practice questions, timed tests, and answer explanations.
 - [IELTS Writing Checker](https://ieltswritingchecker.org/) in Writing,
@@ -64,6 +81,11 @@ v1.0.0 tag itself.
 - Two stale doc references to the dead-link-check workflow's file list
   corrected to match what it actually scans (#45), and a CODEOWNERS comment
   corrected to match its actual (single-rule) content (#50).
+
+### Removed
+
+- Photography Revision from By Subject / Photography: the domain has expired
+  and now serves a Namecheap parking page (#183).
 
 ## [1.0.0] - 2026-08-11
 
