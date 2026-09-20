@@ -2861,5 +2861,12 @@
     "description": "Practice French vocabulary with spaced repetition, spelling, and pronunciation (freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "SummarizAI",
+    "url": "https://summarizai.ink",
+    "description": "Summarize YouTube lectures into chapters, chat, and flashcards (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
   }
 ]

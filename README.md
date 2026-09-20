@@ -814,6 +814,7 @@ Remember more with less rereading.
 - **[Mochi](https://mochi.cards)** - Markdown-friendly spaced-repetition flashcards (freemium).
 - **[Quizlet](https://quizlet.com)** - Fast flashcards and study games (freemium).
 - **[StudyLoop](https://studyloop-liard.vercel.app)** - Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).
+- **[SummarizAI](https://summarizai.ink)** - Summarize YouTube lectures into chapters, chat, and flashcards (freemium).
 - **[SuperMemo](https://www.super-memory.com)** - The original spaced-repetition software for building long-term memory (freemium).
 - **[Vaia](https://www.vaia.com)** - Create flashcards with spaced repetition, notes, and study plans (freemium).
 
