@@ -539,6 +539,13 @@
     "subsection": "Mathematics"
   },
   {
+    "name": "Art of Problem Solving",
+    "url": "https://artofproblemsolving.com/",
+    "description": "Free adaptive practice, wiki, and forums for competition and advanced math (freemium).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
     "name": "Brilliant",
     "url": "https://brilliant.org",
     "description": "Interactive courses that build intuition through problem solving (freemium).",
