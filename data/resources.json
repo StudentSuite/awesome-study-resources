@@ -1946,6 +1946,13 @@
     "subsection": "Music"
   },
   {
+    "name": "MuseScore",
+    "url": "https://musescore.org/en",
+    "description": "Notate and play back compositions for coursework (free, open source).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
     "name": "MyMusicTheory",
     "url": "https://mymusictheory.com/",
     "description": "Free music theory lessons and grade quizzes for ABRSM and Trinity exams (freemium).",
