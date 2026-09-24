@@ -3057,5 +3057,12 @@
     "description": "Free PSAT practice tests, study guides, and flashcards by subject (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
+  },
+  {
+    "name": "SimpleStudy",
+    "url": "https://simplestudy.com/gb/gcse",
+    "description": "Covers GCSE notes, flashcards, quizzes, and past papers by subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
   }
 ]
