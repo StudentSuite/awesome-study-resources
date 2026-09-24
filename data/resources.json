@@ -2994,5 +2994,12 @@
     "description": "Shares photography teaching concepts, assignments, and analysis resources (free).",
     "section": "By Subject",
     "subsection": "Photography"
+  },
+  {
+    "name": "Discover Anthropology",
+    "url": "https://discoveranthropology.org.uk/",
+    "description": "Introduces anthropology as a field with study and career guidance (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
   }
 ]
