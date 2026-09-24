@@ -3015,5 +3015,12 @@
     "description": "Offers a free downloadable IB Global Politics study guide (free).",
     "section": "By Subject",
     "subsection": "Global Politics"
+  },
+  {
+    "name": "PapaCambridge",
+    "url": "https://notes.papacambridge.com/notes/caie/cambridge-upper-secondarycambridge-igcse-global-perspectives-0457",
+    "description": "Offers past papers, topical notes, and revision materials for this course (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
   }
 ]
