@@ -2980,5 +2980,12 @@
     "description": "Summarize YouTube lectures into chapters, chat, and flashcards (freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "Masterclass Theatre Trust",
+    "url": "https://www.masterclass.org.uk/educational-resources---drama",
+    "description": "Provides free GCSE and A-Level Drama resource packs and activities (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
   }
 ]
