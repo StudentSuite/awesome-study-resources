@@ -3036,5 +3036,12 @@
     "description": "Shares philosophy briefings, lectures, podcasts, and A-Level study guides (free).",
     "section": "By Subject",
     "subsection": "Philosophy"
+  },
+  {
+    "name": "Crash Course Statistics",
+    "url": "https://thecrashcourse.com/courses/statistics/",
+    "description": "A 44-episode video series covering statistics from basics to modeling (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
   }
 ]
