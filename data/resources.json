@@ -3078,5 +3078,12 @@
     "description": "Offers 30 CAS project ideas by strand plus a free planner (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "CAS"
+  },
+  {
+    "name": "AP Practice Exams",
+    "url": "https://www.appracticeexams.com/",
+    "description": "Directory of free AP practice exams, notes, and study guides by subject (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
   }
 ]

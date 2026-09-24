@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-440-blue)
+![Resources](https://img.shields.io/badge/resources-441-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 84 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 85 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 265 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
@@ -89,6 +89,7 @@ Official and community prep for the big exams and curricula.
 
 - **[Albert.io](https://www.albert.io)** - Standards-aligned practice questions across every AP subject (freemium).
 - **[AP Classroom](https://apclassroom.collegeboard.org)** - The official College Board platform for AP progress checks and practice (free).
+- **[AP Practice Exams](https://www.appracticeexams.com/)** - Directory of free AP practice exams, notes, and study guides by subject (free).
 - **[AP Students](https://apstudents.collegeboard.org)** - The official College Board hub for AP course info and exam details (free).
 - **[Brainscape AP](https://www.brainscape.com/subjects/entrance-exams/ap-exams)** - Adaptive flashcards for every AP subject (freemium).
 - **[Fiveable](https://fiveable.me)** - Free study guides, practice questions, and exam-day reviews for all 38 AP subjects (freemium).
