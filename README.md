@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-439-blue)
+![Resources](https://img.shields.io/badge/resources-440-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 83 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 84 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 265 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
@@ -121,6 +121,7 @@ Official and community prep for the big exams and curricula.
 - **[Lanterna Education](https://lanterna.com/resources/the-basics-of-ib-cas)** - Free guide to CAS experiences, the project, and reflections (free).
 - **[Nail IB](https://nailib.com/blog/ib-cas-hours-ideas)** - Free list of CAS hours ideas across the Creativity, Activity, and Service strands (free).
 - **[Rustic Pathways](https://rusticpathways.com/educational-travel/cas-project-ideas)** - Free list of 100+ CAS project ideas across all three strands (free).
+- **[Structural Learning](https://www.structural-learning.com/post/ib-cas-ideas-and-examples)** - Offers 30 CAS project ideas by strand plus a free planner (freemium).
 - **[TutorChase](https://www.tutorchase.com/blog/ib-cas-creativity-activity-service-a-complete-guide)** - Free end-to-end guide to planning and documenting CAS (free).
 
 </details>
