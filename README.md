@@ -33,8 +33,8 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 266 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 80 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 265 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -224,6 +224,7 @@ Official and community prep for the big exams and curricula.
 - **[Nail IB](https://nailib.com/ib-resources/theory-of-knowledge)** - Free videos and notes covering TOK knowledge questions and themes (free).
 - **[Theory of Knowledge](https://theoryofknowledge.net)** - Free video explainers and guides for the TOK essay and exhibition (freemium).
 - **[TOK Resource](https://www.tokresource.org)** - Free, non-commercial TOK concepts, prompts, and lesson ideas (free).
+- **[ToK Today](https://www.toktoday.com/)** - Offers TOK essay and exhibition guidance, videos, and coaching (freemium).
 - **[TutorChase](https://www.tutorchase.com/notes/ib/tok)** - Free notes covering TOK themes, knowledge questions, and areas of knowledge (free).
 
 </details>
@@ -800,15 +801,6 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[SimpleStudy UK](https://simplestudy.com/gb/a-level/aqa/dance/revision-notes)** - Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).
 - **[STEEZY Studio](https://www.steezy.co)** - Online dance classes and technique tutorials across styles (freemium).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE and A-Level Dance revision content (free).
-
-</details>
-
-### Theory of Knowledge
-
-<details open>
-<summary>Show resources</summary>
-
-- **[ToK Today](https://www.toktoday.com/)** - Offers TOK essay and exhibition guidance, videos, and coaching (freemium).
 
 </details>
 
