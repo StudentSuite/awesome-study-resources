@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-436-blue)
+![Resources](https://img.shields.io/badge/resources-437-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 80 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 81 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 265 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
@@ -193,6 +193,7 @@ Official and community prep for the big exams and curricula.
 - **[College Board PSAT/NMSQT](https://satsuite.collegeboard.org/psat-nmsqt)** - The official overview, dates, and score info for the PSAT/NMSQT (free).
 - **[Kaplan PSAT](https://www.kaptest.com/psat/free/psat-practice)** - Free PSAT practice quizzes and live cram sessions from a major test-prep company (free).
 - **[Khan Academy PSAT Practice](https://www.khanacademy.org/digital-sat)** - Free official practice built with College Board, aligned to the PSAT (free).
+- **[Mometrix PSAT](https://www.mometrix.com/academy/psat-practice-test/)** - Free PSAT practice tests, study guides, and flashcards by subject (freemium).
 - **[PrepScholar PSAT](https://www.prepscholar.com/psat-test-prep/)** - Free study guides, practice tests, and score strategies for the PSAT (free).
 - **[The Princeton Review PSAT](https://www.princetonreview.com/college/free-digitalpsat-practice-test)** - Free full-length Digital PSAT practice test with a score report (freemium).
 

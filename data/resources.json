@@ -3050,5 +3050,12 @@
     "description": "Offers TOK essay and exhibition guidance, videos, and coaching (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "Mometrix PSAT",
+    "url": "https://www.mometrix.com/academy/psat-practice-test/",
+    "description": "Free PSAT practice tests, study guides, and flashcards by subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
   }
 ]
