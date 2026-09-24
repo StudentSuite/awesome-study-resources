@@ -3022,5 +3022,12 @@
     "description": "Offers past papers, topical notes, and revision materials for this course (freemium).",
     "section": "By Subject",
     "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Crash Course Religions",
+    "url": "https://thecrashcourse.com/courses/religions/",
+    "description": "A 24-episode video series exploring world religions and belief systems (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
   }
 ]
