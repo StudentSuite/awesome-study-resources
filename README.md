@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-435-blue)
+![Resources](https://img.shields.io/badge/resources-436-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 265 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 266 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -800,6 +800,15 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[SimpleStudy UK](https://simplestudy.com/gb/a-level/aqa/dance/revision-notes)** - Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).
 - **[STEEZY Studio](https://www.steezy.co)** - Online dance classes and technique tutorials across styles (freemium).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE and A-Level Dance revision content (free).
+
+</details>
+
+### Theory of Knowledge
+
+<details open>
+<summary>Show resources</summary>
+
+- **[ToK Today](https://www.toktoday.com/)** - Offers TOK essay and exhibition guidance, videos, and coaching (freemium).
 
 </details>
 

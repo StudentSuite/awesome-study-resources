@@ -3043,5 +3043,12 @@
     "description": "A 44-episode video series covering statistics from basics to modeling (free).",
     "section": "By Subject",
     "subsection": "Statistics"
+  },
+  {
+    "name": "ToK Today",
+    "url": "https://www.toktoday.com/",
+    "description": "Offers TOK essay and exhibition guidance, videos, and coaching (freemium).",
+    "section": "By Subject",
+    "subsection": "Theory of Knowledge"
   }
 ]
