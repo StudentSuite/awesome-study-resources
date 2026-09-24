@@ -3064,5 +3064,12 @@
     "description": "Covers GCSE notes, flashcards, quizzes, and past papers by subject (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "GCSE"
+  },
+  {
+    "name": "Nail IB",
+    "url": "https://nailib.com/ee-sample",
+    "description": "Shares 70+ real IB Extended Essay examples for reference (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
   }
 ]
