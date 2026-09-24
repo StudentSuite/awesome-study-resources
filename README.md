@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-433-blue)
+![Resources](https://img.shields.io/badge/resources-434-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 263 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 264 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -467,6 +467,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Internet Encyclopedia of Philosophy](https://iep.utm.edu/)** - Free, peer-reviewed articles on philosophical topics and thinkers (free).
 - **[Philosophize This!](https://www.philosophizethis.org/)** - Free podcast walking through the history of philosophy for beginners (free).
 - **[Philosophy Now](https://philosophynow.org)** - Magazine covering philosophical ideas and debates, four articles free per month (freemium).
+- **[Royal Institute of Philosophy](https://royalinstitutephilosophy.org/education/online-learning/)** - Shares philosophy briefings, lectures, podcasts, and A-Level study guides (free).
 - **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu)** - Free, peer-reviewed reference articles on philosophical topics and thinkers (free).
 
 </details>

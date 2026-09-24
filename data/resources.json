@@ -3029,5 +3029,12 @@
     "description": "A 24-episode video series exploring world religions and belief systems (free).",
     "section": "By Subject",
     "subsection": "World Religions"
+  },
+  {
+    "name": "Royal Institute of Philosophy",
+    "url": "https://royalinstitutephilosophy.org/education/online-learning/",
+    "description": "Shares philosophy briefings, lectures, podcasts, and A-Level study guides (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
   }
 ]
