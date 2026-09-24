@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-429-blue)
+![Resources](https://img.shields.io/badge/resources-430-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 79 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 259 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 260 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -611,6 +611,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdn9jhv)** - Covers GCSE food preparation and nutrition topics with revision guides and quizzes (free).
 - **[Food – A Fact of Life](https://www.foodafactoflife.org.uk)** - Teaches nutrition, cooking skills, and food science for GCSE level (free).
 - **[NHS Eatwell Guide](https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/)** - Official NHS guide to balanced diets and food groups (free).
+- **[Revision World](https://revisionworld.com/gcse-revision/food-preparation-and-nutrition-gcse-revision)** - Covers GCSE food science, safety, choice, and preparation skills (free).
 - **[Save My Exams](https://www.savemyexams.com/gcse/food-and-nutrition/)** - Revision notes, exam questions, flashcards, and past papers for GCSE Food & Nutrition (freemium).
 - **[Seneca Learning](https://senecalearning.com/en-gb/blog/gcse-food-preparation-nutrition-revision/)** - Delivers interactive GCSE food and nutrition revision with spaced repetition (freemium).
 - **[The Nutrition Source](https://nutritionsource.hsph.harvard.edu)** - Harvard's free, evidence-based guide to nutrition science and healthy eating (free).
