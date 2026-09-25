@@ -728,6 +728,13 @@
     "subsection": "Chemistry"
   },
   {
+    "name": "PhET Simulations",
+    "url": "https://phet.colorado.edu",
+    "description": "Free interactive simulations for exploring reactions, atoms, and molecules (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
     "name": "Royal Society of Chemistry",
     "url": "https://edu.rsc.org",
     "description": "Shares chemistry lesson resources, practicals, and exam support (free).",

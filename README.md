@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-452-blue)
+![Resources](https://img.shields.io/badge/resources-453-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 86 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 275 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 276 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -311,6 +311,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Chemistry LibreTexts](https://chem.libretexts.org)** - Free, open chemistry textbooks and reference material (free).
 - **[Khan Academy Chemistry](https://www.khanacademy.org/science/chemistry)** - Free lessons and practice across the chemistry syllabus (free).
 - **[Master Organic Chemistry](https://www.masterorganicchemistry.com)** - Clear guides and cheat sheets for organic chemistry (freemium).
+- **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring reactions, atoms, and molecules (free).
 - **[Royal Society of Chemistry](https://edu.rsc.org)** - Shares chemistry lesson resources, practicals, and exam support (free).
 - **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Step-by-step worked problems across chemistry and beyond (freemium).
 
