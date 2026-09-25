@@ -371,6 +371,13 @@
     "subsection": "IGCSE"
   },
   {
+    "name": "PapaCambridge",
+    "url": "https://pastpapers.papacambridge.com/",
+    "description": "Free Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
     "name": "Physics & Maths Tutor",
     "url": "https://www.physicsandmathstutor.com",
     "description": "Free past papers, mark schemes, and notes across subjects (free).",
