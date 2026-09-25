@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-446-blue)
+![Resources](https://img.shields.io/badge/resources-447-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 86 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 269 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 270 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -412,6 +412,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zjnygk7)** - Covers GCSE business studies topics with revision guides and quizzes (free).
 - **[BusinessStudies.net](https://www.businessstudies.net/)** - Free, simplified GCSE Business Studies notes and quizzes by topic (free).
+- **[Dinesh Bakshi](https://dineshbakshi.com/)** - Free notes, quizzes, and worksheets for GCSE, A-Level, and IB Business Studies (free).
 - **[Economics Help](https://www.economicshelp.org)** - Explains business and economics concepts through revision notes and guides (free).
 - **[IGCSE Business](https://www.igcsebusiness.co.uk)** - Free Cambridge IGCSE Business notes and past papers by topic (free).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive business revision (freemium).
