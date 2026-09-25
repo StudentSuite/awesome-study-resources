@@ -833,6 +833,13 @@
     "subsection": "Computer Science"
   },
   {
+    "name": "The Algorithms",
+    "url": "https://the-algorithms.com/",
+    "description": "Open-source, documented algorithm implementations across many languages (free, open source).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
     "name": "VisuAlgo",
     "url": "https://visualgo.net",
     "description": "Visualizes data structures and algorithms through interactive animations (free).",

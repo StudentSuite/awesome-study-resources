@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-450-blue)
+![Resources](https://img.shields.io/badge/resources-451-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 86 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 273 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 274 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
@@ -342,6 +342,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Craig 'n' Dave](https://craigndave.org/)** - Ad-free videos covering the full GCSE and A-Level Computer Science specs (freemium).
 - **[Firebase](https://firebase.google.com)** - Google backend for building apps quickly (freemium).
 - **[GeeksforGeeks](https://www.geeksforgeeks.org)** - Explains CS fundamentals, data structures, and algorithms with practice problems (freemium).
+- **[The Algorithms](https://the-algorithms.com/)** - Open-source, documented algorithm implementations across many languages (free, open source).
 - **[VisuAlgo](https://visualgo.net)** - Visualizes data structures and algorithms through interactive animations (free).
 
 </details>
