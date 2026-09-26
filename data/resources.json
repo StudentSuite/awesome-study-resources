@@ -56,6 +56,13 @@
     "subsection": "A-Level"
   },
   {
+    "name": "A Level Physics Online",
+    "url": "https://www.alevelphysicsonline.com/",
+    "description": "Free A-Level Physics revision notes with worked explanations and past paper guidance (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
     "name": "ACT.org",
     "url": "https://www.act.org",
     "description": "The official test maker's free study guide and full-length practice test (free).",
@@ -990,6 +997,13 @@
     "name": "StudyIB",
     "url": "https://studyib.net/itgs",
     "description": "Concise revision notes and explanations across the ITGS syllabus (freemium).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "DataReportal",
+    "url": "https://datareportal.com/",
+    "description": "Free country reports on internet, social media, and technology use (free).",
     "section": "By Subject",
     "subsection": "ITGS"
   },
@@ -2303,6 +2317,13 @@
     "subsection": null
   },
   {
+    "name": "Zettlr",
+    "url": "https://www.zettlr.com/",
+    "description": "Open-source Markdown editor built for long academic writing (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
     "name": "Anki",
     "url": "https://apps.ankiweb.net",
     "description": "Free, open-source spaced-repetition flashcards with huge shared decks (free).",
@@ -2611,6 +2632,13 @@
     "subsection": "Learn to Code"
   },
   {
+    "name": "Automate the Boring Stuff with Python",
+    "url": "https://automatetheboringstuff.com/",
+    "description": "Free online Python book with hands-on file, spreadsheet, and web automation projects (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
     "name": "Advent of Code",
     "url": "https://adventofcode.com",
     "description": "Free annual puzzle set, one bite-sized challenge per day each December (free).",
@@ -2856,6 +2884,13 @@
     "subsection": null
   },
   {
+    "name": "Scite",
+    "url": "https://scite.ai/",
+    "description": "Searches citations to show whether later studies support or contrast a paper (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
     "name": "Stanford Encyclopedia of Philosophy",
     "url": "https://plato.stanford.edu",
     "description": "Free, peer-reviewed reference articles on philosophical topics and thinkers (free).",
@@ -2947,6 +2982,13 @@
     "subsection": null
   },
   {
+    "name": "MyStudyLife",
+    "url": "https://mystudylife.com/",
+    "description": "Student planner for timetables, assignments, and deadlines, premium tier costs extra (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
     "name": "Vaia",
     "url": "https://www.vaia.com",
     "description": "Create flashcards with spaced repetition, notes, and study plans (freemium).",
@@ -2957,6 +2999,13 @@
     "name": "Mathigon",
     "url": "https://mathigon.org",
     "description": "Explore interactive math lessons and manipulatives in the browser (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "MolView",
+    "url": "https://molview.org/",
+    "description": "Explore molecules in 3D and build reaction diagrams in the browser (free).",
     "section": "Diagramming & STEM Tools",
     "subsection": null
   },
@@ -3017,6 +3066,13 @@
     "subsection": "Law"
   },
   {
+    "name": "LawTeacher.net",
+    "url": "https://www.lawteacher.net/",
+    "description": "Free UK law revision notes, case summaries, and essay guides (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
     "name": "Perseus Digital Library",
     "url": "https://www.perseus.tufts.edu",
     "description": "Free searchable library of classical Greek and Latin texts and tools (free).",
@@ -3069,6 +3125,13 @@
     "name": "Khan Academy",
     "url": "https://www.khanacademy.org/math",
     "description": "Free video lessons and practice exercises across all math levels (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Corbettmaths",
+    "url": "https://corbettmaths.com/",
+    "description": "Free Maths questions, worksheets, and videos by GCSE and A-Level topic (free).",
     "section": "By Subject",
     "subsection": "Mathematics"
   },
@@ -3160,6 +3223,13 @@
     "name": "Crash Course Statistics",
     "url": "https://thecrashcourse.com/courses/statistics/",
     "description": "A 44-episode video series covering statistics from basics to modeling (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Seeing Theory",
+    "url": "https://seeing-theory.brown.edu/",
+    "description": "Interactive visualisations of probability, distributions, and hypothesis tests (free).",
     "section": "By Subject",
     "subsection": "Statistics"
   },

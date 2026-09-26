@@ -53,6 +53,18 @@ v1.0.0 tag itself.
   each got their own subsection since, so they've been dropped from it.)
 - Monthly pricing re-review for 2026-08 (see #36): all 15 sampled entries'
   pricing tags confirmed accurate, no corrections needed.
+- 10 new entries, one per under-filled section or subsection:
+  [DataReportal](https://datareportal.com/) (By Subject / ITGS),
+  [Seeing Theory](https://seeing-theory.brown.edu/) (Statistics),
+  [Corbettmaths](https://corbettmaths.com/) (Mathematics),
+  [LawTeacher.net](https://www.lawteacher.net/) (Law),
+  [A Level Physics Online](https://www.alevelphysicsonline.com/) (Exam &
+  Curriculum Prep / A-Level), [Zettlr](https://www.zettlr.com/) (Notes &
+  Knowledge Management), [MyStudyLife](https://mystudylife.com/) (Task, Time &
+  Planning), [Scite](https://scite.ai/) (Writing, Citations & Reference),
+  [MolView](https://molview.org/) (Diagramming & STEM Tools), and [Automate
+  the Boring Stuff with Python](https://automatetheboringstuff.com/) (Building
+  Software / Learn to Code).
 
 ### Fixed
 
