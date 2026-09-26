@@ -3281,5 +3281,20 @@
     "description": "Free ACT practice tests, study plans, and answer explanations (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "ACT"
+  },
+  {
+    "name": "iBacalao",
+    "url": "https://www.ibacalao.com",
+    "description": "Reviews IA, EE, and TOK drafts criterion by criterion (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  }
+,
+  {
+    "name": "ACT Score Calculator",
+    "url": "https://actscorecalculators.com/",
+    "description": "Convert ACT practice-test answers into scores and percentiles (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
   }
 ]
