@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-459-blue)
+![Resources](https://img.shields.io/badge/resources-469-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,15 +33,15 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 89 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 279 |
-| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 8 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 90 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 283 |
+| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 9 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
-| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 8 |
-| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 10 |
+| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
+| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 8 |
-| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 8 |
-| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 14 |
+| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 9 |
+| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 15 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 8 |
 
@@ -58,6 +58,7 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Show resources</summary>
 
+- **[A Level Physics Online](https://www.alevelphysicsonline.com/)** - Free A-Level Physics revision notes with worked explanations and past paper guidance (free).
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core A-Level subject (free).
 - **[Get Revising](https://getrevising.co.uk)** - Free revision timetables, flashcards, and a shared notes library (free).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects (free).
@@ -253,6 +254,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Art of Problem Solving](https://artofproblemsolving.com/)** - Free adaptive practice, wiki, and forums for competition and advanced math (freemium).
 - **[Brilliant](https://brilliant.org)** - Interactive courses that build intuition through problem solving (freemium).
 - **[Calculator Campus](https://www.calculatorcampus.com/)** - Use free practical calculators with formulas, examples, and named sources.
+- **[Corbettmaths](https://corbettmaths.com/)** - Free Maths questions, worksheets, and videos by GCSE and A-Level topic (free).
 - **[Desmos](https://www.desmos.com)** - Free graphing and geometry calculators for exploring functions (free).
 - **[Khan Academy](https://www.khanacademy.org/math)** - Free video lessons and practice exercises across all math levels (free).
 - **[MathsGenie](https://mathsgenie.co.uk/)** - Free GCSE and A-Level Maths videos, worksheets, and past papers by topic (freemium).
@@ -268,6 +270,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Crash Course Statistics](https://thecrashcourse.com/courses/statistics/)** - A 44-episode video series covering statistics from basics to modeling (free).
 - **[Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)** - Free lessons and practice across statistics and probability (free).
 - **[OpenIntro Statistics](https://www.openintro.org/book/os/)** - Free, open-source statistics textbook used by universities worldwide (free).
+- **[Seeing Theory](https://seeing-theory.brown.edu/)** - Interactive visualisations of probability, distributions, and hypothesis tests (free).
 - **[Stat Trek](https://stattrek.com)** - Free tutorials, calculators, and video lessons for AP Statistics (free).
 - **[Statistics Calculator](https://nutilz.com/statistics-calculator)** - Free calculator for mean, median, mode, standard deviation, and quartiles (free).
 - **[StatisticsHowTo](https://www.statisticshowto.com)** - Free explanations, formulas, and calculators for statistics terms and tests (free).
@@ -377,6 +380,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Clastify](https://www.clastify.com/notes/itgs)** - Searchable IB ITGS notes filtered by grade, level, and exam session (freemium).
+- **[DataReportal](https://datareportal.com/)** - Free country reports on internet, social media, and technology use (free).
 - **[IB Guides](https://ibguides.com/itgs/home/)** - Free ITGS syllabus objectives, unit guides, and videos (free).
 - **[Nail IB](https://nailib.com/blog/ib-itgs)** - Free overview of the ITGS course, its IA, and whether it fits you (free).
 - **[Pew Research Center](https://www.pewresearch.org/internet/)** - Free, nonpartisan research and data on technology's impact on society (free).
@@ -595,6 +599,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[A-LevelLaw.com](https://a-levellaw.com)** - Free student-run notes, case summaries, and past papers for A-Level Law (free).
 - **[BAILII](https://www.bailii.org)** - Free searchable database of British and Irish case law and legislation (free).
 - **[e-lawresources.co.uk](https://e-lawresources.co.uk)** - Free lecture outlines, case summaries, and quizzes across UK law topics (free).
+- **[LawTeacher.net](https://www.lawteacher.net/)** - Free UK law revision notes, case summaries, and essay guides (free).
 - **[legislation.gov.uk](https://www.legislation.gov.uk)** - The official, free database of UK legislation (free).
 - **[Revision World](https://revisionworld.com/a2-level-level-revision/law-level-revision)** - Free A-Level Law revision guides, notes, and past papers (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for A-Level Law (freemium).
@@ -844,6 +849,7 @@ Capture, link, and organize what you learn.
 - **[Obsidian](https://obsidian.md)** - Local-first linked notes with a large plugin ecosystem (free).
 - **[RemNote](https://www.remnote.com)** - Notes with built-in spaced-repetition flashcards (freemium).
 - **[Roam Research](https://roamresearch.com)** - Links notes bidirectionally to build a networked knowledge base (paid).
+- **[Zettlr](https://www.zettlr.com/)** - Open-source Markdown editor built for long academic writing (free).
 
 </details>
 
@@ -882,6 +888,7 @@ Plan the week, protect the deadlines.
 - **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere (free).
 - **[Habitica](https://habitica.com)** - Turns habits and to-dos into a role-playing game with streaks (free).
 - **[Motion](https://www.usemotion.com)** - Uses AI to auto-schedule tasks and timeblock them on your calendar (paid).
+- **[MyStudyLife](https://mystudylife.com/)** - Student planner for timetables, assignments, and deadlines, premium tier costs extra (freemium).
 - **[Notion Calendar](https://www.notion.com/product/calendar)** - Free calendar that connects to your Notion workspace (free).
 - **[TickTick](https://ticktick.com)** - Tasks, calendar, and a built-in Pomodoro timer (freemium).
 - **[Todoist](https://todoist.com)** - Cross-platform task manager with natural-language dates (freemium).
@@ -907,6 +914,7 @@ Draft, cite, and polish papers.
 - **[Overleaf](https://www.overleaf.com)** - Collaborative online LaTeX editor for formatted papers (freemium).
 - **[Purdue OWL](https://owl.purdue.edu)** - Free reference for writing, grammar, and citation styles (free).
 - **[Quetext](https://www.quetext.com)** - Plagiarism checker with a citation generator, limited free checks (freemium).
+- **[Scite](https://scite.ai/)** - Searches citations to show whether later studies support or contrast a paper (freemium).
 - **[Zotero](https://www.zotero.org)** - Free, open-source reference manager with one-click citations (free).
 
 </details>
@@ -945,6 +953,7 @@ Graph, compute, and sketch ideas.
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source hand-drawn-style diagrams (free).
 - **[GeoGebra](https://www.geogebra.org)** - Free, open geometry, algebra, and calculus tools (free).
 - **[Mathigon](https://mathigon.org)** - Explore interactive math lessons and manipulatives in the browser (free).
+- **[MolView](https://molview.org/)** - Explore molecules in 3D and build reaction diagrams in the browser (free).
 - **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring physics, chemistry, biology, and math (free).
 - **[Tinkercad](https://www.tinkercad.com)** - Design and simulate 3D models, circuits, and code in the browser (freemium).
 - **[Wolfram Alpha](https://www.wolframalpha.com)** - Computational engine for step-by-step math and science (freemium).
@@ -962,6 +971,7 @@ Go from first line to shipped project.
 <details open>
 <summary>Show resources</summary>
 
+- **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)** - Free online Python book with hands-on file, spreadsheet, and web automation projects (free).
 - **[Codecademy](https://www.codecademy.com)** - Interactive coding lessons across many languages and career paths (freemium).
 - **[CS50](https://cs50.harvard.edu)** - Harvard's free, beginner-friendly computer science course (free).
 - **[freeCodeCamp](https://www.freecodecamp.org)** - Free, open-source coding curriculum with certifications (free).
