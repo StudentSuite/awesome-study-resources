@@ -167,6 +167,7 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources (free).
+- **[iBacalao](https://www.ibacalao.com)** - Reviews IA, EE, and TOK drafts criterion by criterion (freemium).
 - **[MyRevisionAgent](https://myrevisionagent.com)** - Grades TOK essays, Extended Essays, and IAs against official IB rubrics (freemium).
 - **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus (freemium).
