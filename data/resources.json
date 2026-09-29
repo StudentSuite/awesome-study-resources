@@ -2436,6 +2436,13 @@
     "subsection": null
   },
   {
+    "name": "Memly",
+    "url": "https://memly.ai/en",
+    "description": "Turn PDFs, slides, and YouTube videos into AI flashcards with spaced-repetition reviews (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
     "name": "Mochi",
     "url": "https://mochi.cards",
     "description": "Markdown-friendly spaced-repetition flashcards (freemium).",
