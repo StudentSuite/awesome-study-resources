@@ -3638,5 +3638,12 @@
     "description": "Free ACT practice tests, study guides, and flashcards (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "ACT"
+  },
+  {
+    "name": "Subskills",
+    "url": "https://subskills.xyz",
+    "description": "Learn sports techniques from videos sorted by skill level (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
   }
 ]
