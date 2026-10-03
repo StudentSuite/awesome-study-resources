@@ -3897,5 +3897,12 @@
     "description": "Find youth service actions to log as CAS service hours (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "CAS"
+  },
+  {
+    "name": "True Recall",
+    "url": "https://www.truerecall.app",
+    "description": "Turn Obsidian notes into spaced-repetition flashcards on desktop and mobile (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
   }
 ]
