@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-557-blue)
+![Resources](https://img.shields.io/badge/resources-558-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 340 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 341 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
@@ -373,6 +373,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures (free).
+- **[Aulify](https://aulify.pt/recursos)** - Notes, solved worksheets and slides for vocational IT units, in Portuguese (free).
 - **[Codedex](https://www.codedex.io)** - Gamified, beginner-friendly coding lessons (freemium).
 - **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms (free).
 - **[Craig 'n' Dave](https://craigndave.org/)** - Ad-free videos covering the full GCSE and A-Level Computer Science specs (freemium).
