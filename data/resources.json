@@ -1,1 +1,4055 @@
-see local /tmp/json_content.txt - content too large for this simulation, but in real would include full
+[
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize",
+    "description": "Free curriculum-aligned revision across every core A-Level subject (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Get Revising",
+    "url": "https://getrevising.co.uk",
+    "description": "Free revision timetables, flashcards, and a shared notes library (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com",
+    "description": "Free past papers, mark schemes, and notes across subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Revision Science",
+    "url": "https://revisionscience.com",
+    "description": "Free GCSE and A-Level science revision notes, videos, and past papers (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com/a2-level-level-revision",
+    "description": "Free A-Level revision guides, past papers, and quizzes across many subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com",
+    "description": "Revision notes, topic questions, and past papers by exam board (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Study Haven",
+    "url": "https://studyhaven.org/",
+    "description": "Free Custom Past Papers for A-Levels and IGCSE (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk",
+    "description": "Free exam board-specific A-Level and GCSE revision content (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "A Level Physics Online",
+    "url": "https://www.alevelphysicsonline.com/",
+    "description": "Free A-Level Physics revision notes with worked explanations and past paper guidance (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "ACT.org",
+    "url": "https://www.act.org",
+    "description": "The official test maker's free study guide and full-length practice test (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "Kaplan ACT",
+    "url": "https://www.kaptest.com/act/free/act-free-practice-test",
+    "description": "Free official-question practice test with a score report (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "Magoosh ACT",
+    "url": "https://act.magoosh.com",
+    "description": "Video lessons and practice questions for every ACT section (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "PrepScholar ACT",
+    "url": "https://www.prepscholar.com",
+    "description": "Free study guides, score strategies, and section-by-section practice for the ACT (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "The Princeton Review ACT",
+    "url": "https://www.princetonreview.com/college/act-test-prep",
+    "description": "Free practice test with a detailed score report and strategy sessions (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "UWorld ACT",
+    "url": "https://collegeprep.uworld.com/act/",
+    "description": "Large question bank with detailed explanations (paid).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "Albert.io",
+    "url": "https://www.albert.io",
+    "description": "Standards-aligned practice questions across every AP subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "AP Classroom",
+    "url": "https://apclassroom.collegeboard.org",
+    "description": "The official College Board platform for AP progress checks and practice (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "AP Students",
+    "url": "https://apstudents.collegeboard.org",
+    "description": "The official College Board hub for AP course info and exam details (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "Brainscape AP",
+    "url": "https://www.brainscape.com/subjects/entrance-exams/ap-exams",
+    "description": "Adaptive flashcards for every AP subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "Fiveable",
+    "url": "https://fiveable.me",
+    "description": "Free study guides, practice questions, and exam-day reviews for all 38 AP subjects (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/AP",
+    "description": "Free student-written study guides and flashcards by AP subject and unit (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "AP Central: Computer Science A",
+    "url": "https://apcentral.collegeboard.org/courses/ap-computer-science-a",
+    "description": "The official College Board course, exam, and exam description for AP CSA (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "APCSExamPrep",
+    "url": "https://www.apcsexamprep.com/pages/ap-csa-free-textbook",
+    "description": "Free online AP CSA unit textbook with built-in exercises and a Java editor (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "Code.org",
+    "url": "https://code.org/en-US/curriculum/computer-science-principles",
+    "description": "Free, official AP CSP curriculum with lesson plans and practice (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "CodeHS",
+    "url": "https://codehs.com",
+    "description": "College Board-endorsed AP CSA and CSP curriculum, usually licensed through schools (paid).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "CodingBat",
+    "url": "https://codingbat.com/java",
+    "description": "Free Java practice problems, including a set based on past AP CSA free-response questions (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "CSAwesome",
+    "url": "https://runestone.academy/ns/books/published/csawesome/index.html",
+    "description": "Free, open Java textbook and practice for the AP CSA exam (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "Khan Academy AP Computer Science Principles",
+    "url": "https://www.khanacademy.org/computing/ap-computer-science-principles",
+    "description": "Free lessons and practice for the AP CSP exam (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/AP/AP-Computer-Science-A",
+    "description": "Free student-written study guides, flashcards, and FRQ practice for AP CSA (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "CollegeVine",
+    "url": "https://blog.collegevine.com/guide-to-ib-cas",
+    "description": "Free guide to CAS strands, hours, and the reflection process (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "IB Creativity, Activity, Service",
+    "url": "https://ibo.org/programmes/diploma-programme/curriculum/dp-core/creativity-activity-and-service/",
+    "description": "The IB's official overview of CAS and its seven learning outcomes (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "Lanterna Education",
+    "url": "https://lanterna.com/resources/the-basics-of-ib-cas",
+    "description": "Free guide to CAS experiences, the project, and reflections (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "Nail IB",
+    "url": "https://nailib.com/blog/ib-cas-hours-ideas",
+    "description": "Free list of CAS hours ideas across the Creativity, Activity, and Service strands (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "Rustic Pathways",
+    "url": "https://rusticpathways.com/educational-travel/cas-project-ideas",
+    "description": "Free list of 100+ CAS project ideas across all three strands (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "TutorChase",
+    "url": "https://www.tutorchase.com/blog/ib-cas-creativity-activity-service-a-complete-guide",
+    "description": "Free end-to-end guide to planning and documenting CAS (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "Clastify",
+    "url": "https://www.clastify.com/blog/ib-extended-essay-guide",
+    "description": "Searchable bank of grade-A Extended Essay exemplars across subjects (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "IB Extended Essay",
+    "url": "https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/",
+    "description": "The IB's official overview of the Extended Essay requirements and process (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "Lanterna Education",
+    "url": "https://lanterna.com/resources/ib-extended-essay-ee-guide",
+    "description": "Free guide to choosing a topic and structuring an Extended Essay (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "PrepScholar EE",
+    "url": "https://blog.prepscholar.com/complete-guide-to-ib-extended-essay-tips-grading-guideline-and-sample-essays",
+    "description": "Free guide covering EE grading, structure, and sample essays (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "TutorChase",
+    "url": "https://www.tutorchase.com/blog/ib-extended-essay-a-complete-guide",
+    "description": "Free guide to topic selection, research, and structuring the Extended Essay (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize",
+    "description": "Free curriculum-aligned revision across every core GCSE subject (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "Mr Bruff",
+    "url": "https://www.youtube.com/@mrbruff",
+    "description": "Free video walkthroughs for GCSE English Language and Literature (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "Oak National Academy",
+    "url": "https://www.thenational.academy",
+    "description": "Free, government-backed GCSE lessons and revision across every exam board (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com",
+    "description": "Free revision guides, quizzes, and past papers across GCSE subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com",
+    "description": "Revision notes, topic questions, and past papers by exam board (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive revision across every core GCSE subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "IB Documents",
+    "url": "https://www.ibdocuments.com/",
+    "description": "Free archive of IB past papers and resources (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "MyRevisionAgent",
+    "url": "https://myrevisionagent.com",
+    "description": "Grades TOK essays, Extended Essays, and IAs against official IB rubrics (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "Nail IB",
+    "url": "https://nailib.com",
+    "description": "Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "Revision Village",
+    "url": "https://www.revisionvillage.com",
+    "description": "Video lessons and worked past papers built around the IB Math syllabus (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com",
+    "description": "Practice questions and study tools built around the IB syllabus (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "Sirius Revision",
+    "url": "https://www.siriusrevision.com",
+    "description": "Intensive online and in-person revision courses for the IB Diploma (paid).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "StudyIB",
+    "url": "https://studyib.net",
+    "description": "Concise revision notes and step-by-step explanations across the IB Diploma syllabus (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "ZNotes IB",
+    "url": "https://znotes.org",
+    "description": "Free syllabus-aligned notes for IB subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "CIE Notes",
+    "url": "https://www.cienotes.com",
+    "description": "Free Cambridge IGCSE and A-Level notes and past papers (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "GCE Guide",
+    "url": "https://gceguide.com",
+    "description": "Searchable archive of Cambridge past papers and mark schemes (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "PapaCambridge",
+    "url": "https://pastpapers.papacambridge.com/",
+    "description": "Free Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com",
+    "description": "Free past papers, mark schemes, and notes across subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com",
+    "description": "Free revision guides, quizzes, and past papers across IGCSE and GCSE subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com",
+    "description": "Revision notes, topic questions, and past papers by exam board (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "ZNotes",
+    "url": "https://znotes.org",
+    "description": "Free community-written summary notes for Cambridge and Edexcel (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "College Board Bluebook",
+    "url": "https://bluebook.collegeboard.org",
+    "description": "The official app that delivers full-length adaptive practice tests (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "College Board PSAT/NMSQT",
+    "url": "https://satsuite.collegeboard.org/psat-nmsqt",
+    "description": "The official overview, dates, and score info for the PSAT/NMSQT (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "Kaplan PSAT",
+    "url": "https://www.kaptest.com/psat/free/psat-practice",
+    "description": "Free PSAT practice quizzes and live cram sessions from a major test-prep company (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "Khan Academy PSAT Practice",
+    "url": "https://www.khanacademy.org/digital-sat",
+    "description": "Free official practice built with College Board, aligned to the PSAT (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "PrepScholar PSAT",
+    "url": "https://www.prepscholar.com/psat-test-prep/",
+    "description": "Free study guides, practice tests, and score strategies for the PSAT (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "The Princeton Review PSAT",
+    "url": "https://www.princetonreview.com/college/free-digitalpsat-practice-test",
+    "description": "Free full-length Digital PSAT practice test with a score report (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "1600.io",
+    "url": "https://1600.io",
+    "description": "Deep video courses and problem sets for serious SAT scores (paid).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "College Board Bluebook",
+    "url": "https://bluebook.collegeboard.org",
+    "description": "The official app that delivers full-length adaptive practice tests (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "Khan Academy Official Digital SAT",
+    "url": "https://www.khanacademy.org/digital-sat",
+    "description": "Free official Digital SAT practice, made with College Board (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "Magoosh SAT",
+    "url": "https://sat.magoosh.com",
+    "description": "Video lessons and practice questions for the Digital SAT (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "PrepScholar",
+    "url": "https://www.prepscholar.com",
+    "description": "Free study guides, score strategies, and section-by-section practice for the SAT (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "The Princeton Review SAT",
+    "url": "https://www.princetonreview.com/college/free-digitalsat-practice-test",
+    "description": "Free full-length Digital SAT practice test with a score report (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "UWorld SAT",
+    "url": "https://collegeprep.uworld.com/sat/",
+    "description": "Large question bank with detailed explanations (paid).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "Clastify",
+    "url": "https://www.clastify.com/tok",
+    "description": "Searchable bank of grade-A TOK essay and exhibition exemplars (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "IB Theory of Knowledge",
+    "url": "https://ibo.org/programmes/diploma-programme/curriculum/dp-core/theory-of-knowledge/",
+    "description": "The IB's official overview of the TOK course, essay, and exhibition (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "Nail IB",
+    "url": "https://nailib.com/ib-resources/theory-of-knowledge",
+    "description": "Free videos and notes covering TOK knowledge questions and themes (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "Theory of Knowledge",
+    "url": "https://theoryofknowledge.net",
+    "description": "Free video explainers and guides for the TOK essay and exhibition (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "TOK Resource",
+    "url": "https://www.tokresource.org",
+    "description": "Free, non-commercial TOK concepts, prompts, and lesson ideas (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "TutorChase",
+    "url": "https://www.tutorchase.com/notes/ib/tok",
+    "description": "Free notes covering TOK themes, knowledge questions, and areas of knowledge (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "3Blue1Brown",
+    "url": "https://www.3blue1brown.com",
+    "description": "Visual, intuition-first explanations of hard math ideas (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Art of Problem Solving",
+    "url": "https://artofproblemsolving.com/",
+    "description": "Free adaptive practice, wiki, and forums for competition and advanced math (freemium).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Brilliant",
+    "url": "https://brilliant.org",
+    "description": "Interactive courses that build intuition through problem solving (freemium).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Calculator Campus",
+    "url": "https://www.calculatorcampus.com/",
+    "description": "Use free practical calculators with formulas, examples, and named sources.",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Desmos",
+    "url": "https://www.desmos.com",
+    "description": "Free graphing and geometry calculators for exploring functions (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "MathsGenie",
+    "url": "https://mathsgenie.co.uk/",
+    "description": "Free GCSE and A-Level Maths videos, worksheets, and past papers by topic (freemium).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Paul's Online Math Notes",
+    "url": "https://tutorial.math.lamar.edu",
+    "description": "Free, thorough notes and examples from algebra to differential equations (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Khan Academy Statistics and Probability",
+    "url": "https://www.khanacademy.org/math/statistics-probability",
+    "description": "Free lessons and practice across statistics and probability (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "OpenIntro Statistics",
+    "url": "https://www.openintro.org/book/os/",
+    "description": "Free, open-source statistics textbook used by universities worldwide (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Stat Trek",
+    "url": "https://stattrek.com",
+    "description": "Free tutorials, calculators, and video lessons for AP Statistics (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Statistics Calculator",
+    "url": "https://nutilz.com/statistics-calculator",
+    "description": "Free calculator for mean, median, mode, standard deviation, and quartiles (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "StatQuest with Josh Starmer",
+    "url": "https://www.youtube.com/c/joshstarmer",
+    "description": "Clear, visual explanations of statistics and machine learning concepts (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Dr Frost Maths",
+    "url": "https://www.drfrost.org",
+    "description": "Provides further maths questions, videos, and auto-marked worksheets (freemium).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "ExamSolutions",
+    "url": "https://www.examsolutions.net",
+    "description": "Video tutorials covering A-Level Maths and Further Maths topics (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Further Mathematics Support Programme",
+    "url": "https://furthermaths.org.uk",
+    "description": "Resources and videos supporting A-Level Further Maths students (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "MathsGenie",
+    "url": "https://mathsgenie.co.uk/a-level/further-maths",
+    "description": "Free A-Level Further Maths past papers, mark schemes, and video solutions by exam board (freemium).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "MEI",
+    "url": "https://mei.org.uk",
+    "description": "UK charity with free courses and problem sets supporting Further Maths students (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Revision Village",
+    "url": "https://www.revisionvillage.com",
+    "description": "Video lessons and past papers for IB Math AA/AI HL (freemium).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Underground Mathematics",
+    "url": "https://undergroundmathematics.org/",
+    "description": "Free, University of Cambridge resources linking A-Level and Further Maths topics (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Flipping Physics",
+    "url": "https://www.flippingphysics.com",
+    "description": "Free video lessons aligned to AP and intro physics (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "HyperPhysics",
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+    "description": "Free concept map linking every core physics topic (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "Isaac Physics",
+    "url": "https://isaacscience.org",
+    "description": "Free, problem-based physics learning platform built by the University of Cambridge (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com/physics-revision/",
+    "description": "Free revision notes, topic questions, and past papers by exam board (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "PhET Simulations",
+    "url": "https://phet.colorado.edu",
+    "description": "Free interactive sims for physics, chemistry, and math (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "The Feynman Lectures on Physics",
+    "url": "https://www.feynmanlectures.caltech.edu",
+    "description": "The classic lectures, free to read online (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zmf3cdm",
+    "description": "Covers GCSE chemistry topics with revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "Chemguide",
+    "url": "https://www.chemguide.co.uk",
+    "description": "Focused explanations for UK A-Level and IGCSE chemistry (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "Chemistry LibreTexts",
+    "url": "https://chem.libretexts.org",
+    "description": "Free, open chemistry textbooks and reference material (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "Khan Academy Chemistry",
+    "url": "https://www.khanacademy.org/science/chemistry",
+    "description": "Free lessons and practice across the chemistry syllabus (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "Master Organic Chemistry",
+    "url": "https://www.masterorganicchemistry.com",
+    "description": "Clear guides and cheat sheets for organic chemistry (freemium).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "PhET Simulations",
+    "url": "https://phet.colorado.edu",
+    "description": "Free interactive simulations for exploring reactions, atoms, and molecules (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "Royal Society of Chemistry",
+    "url": "https://edu.rsc.org",
+    "description": "Shares chemistry lesson resources, practicals, and exam support (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "The Organic Chemistry Tutor",
+    "url": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "description": "Step-by-step worked problems across chemistry and beyond (freemium).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "Amoeba Sisters",
+    "url": "https://www.amoebasisters.com",
+    "description": "Friendly animations and handouts for core biology topics (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Accessible introductory biology video series (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "HHMI BioInteractive",
+    "url": "https://www.biointeractive.org/",
+    "description": "Free videos, animations, and interactives on genetics, evolution, and ecology (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "Biology LibreTexts",
+    "url": "https://bio.libretexts.org",
+    "description": "Free, open biology textbooks and references (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "BioNinja",
+    "url": "https://www.bioninja.com.au",
+    "description": "Visual notes, diagrams, and quizzes built for IB and A-Level biology (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "Bozeman Science",
+    "url": "https://www.bozemanscience.com",
+    "description": "Concept videos across biology and the sciences (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "Khan Academy Biology",
+    "url": "https://www.khanacademy.org/science/biology",
+    "description": "Free lessons and practice across the biology syllabus (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "Random Animal Picker",
+    "url": "https://randomanimalpicker.com/",
+    "description": "Explore real animals with photos, facts, and source links (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "Abdul Bari",
+    "url": "https://www.youtube.com/@abdul_bari",
+    "description": "Clear lectures on algorithms and data structures (free).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "Craig 'n' Dave",
+    "url": "https://craigndave.org/",
+    "description": "Ad-free videos covering the full GCSE and A-Level Computer Science specs (freemium).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "Codedex",
+    "url": "https://www.codedex.io",
+    "description": "Gamified, beginner-friendly coding lessons (freemium).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "cp-algorithms",
+    "url": "https://cp-algorithms.com",
+    "description": "Free reference for competitive programming algorithms (free).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "Firebase",
+    "url": "https://firebase.google.com",
+    "description": "Google backend for building apps quickly (freemium).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org",
+    "description": "Explains CS fundamentals, data structures, and algorithms with practice problems (freemium).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "The Algorithms",
+    "url": "https://the-algorithms.com/",
+    "description": "Open-source, documented algorithm implementations across many languages (free, open source).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "VisuAlgo",
+    "url": "https://visualgo.net",
+    "description": "Visualizes data structures and algorithms through interactive animations (free).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zykw2hv",
+    "description": "Free curriculum-aligned revision guides for GCSE Design and Technology (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "Clastify",
+    "url": "https://www.clastify.com/notes/design-technology",
+    "description": "Searchable IB Design Technology notes filtered by grade and level (freemium).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "DTBase",
+    "url": "https://designandtechbase.com/",
+    "description": "Free GCSE and A-Level Design and Technology notes and past papers (freemium).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "IB Guides",
+    "url": "https://ibguides.com/design-technology/home/",
+    "description": "Free Design Technology syllabus objectives, unit guides, and videos (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/IB/IB-Design-Technology-(HL)",
+    "description": "Free student-written study guides and flashcards for IB Design Technology, by unit (freemium).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "Nail IB",
+    "url": "https://nailib.com/blog/ib-design-technology-ia",
+    "description": "Free guide to the IB Design Technology internal assessment (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-design-technology",
+    "description": "Notes, flashcards, and a question bank for IB Design Technology (freemium).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "StudyIB",
+    "url": "https://studyib.net/designtechnology",
+    "description": "Concise revision notes and explanations across the Design Technology syllabus (freemium).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "Clastify",
+    "url": "https://www.clastify.com/notes/itgs",
+    "description": "Searchable IB ITGS notes filtered by grade, level, and exam session (freemium).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "IB Guides",
+    "url": "https://ibguides.com/itgs/home/",
+    "description": "Free ITGS syllabus objectives, unit guides, and videos (free).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "Nail IB",
+    "url": "https://nailib.com/blog/ib-itgs",
+    "description": "Free overview of the ITGS course, its IA, and whether it fits you (free).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "Pew Research Center",
+    "url": "https://www.pewresearch.org/internet/",
+    "description": "Free, nonpartisan research and data on technology's impact on society (free).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-itgs",
+    "description": "Notes, flashcards, and a question bank for IB ITGS (freemium).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "StudyIB",
+    "url": "https://studyib.net/itgs",
+    "description": "Concise revision notes and explanations across the ITGS syllabus (freemium).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "DataReportal",
+    "url": "https://datareportal.com/",
+    "description": "Free country reports on internet, social media, and technology use (free).",
+    "section": "By Subject",
+    "subsection": "ITGS"
+  },
+  {
+    "name": "CORE Econ",
+    "url": "https://www.core-econ.org",
+    "description": "Free, modern economics textbook used worldwide (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "EconEdLink",
+    "url": "https://econedlink.org/",
+    "description": "Free lessons, videos, and interactive tools on economics and personal finance (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "Economics Academy",
+    "url": "https://economicsacademy.co.uk/",
+    "description": "Free A-Level economics notes, flashcards, practice questions, and past papers (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "EconplusDal",
+    "url": "https://www.youtube.com/@EconplusDal",
+    "description": "Exam-focused economics tutorials for A-Level and IB (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/economics-finance-domain",
+    "description": "Free video lessons and practice exercises on micro and macroeconomics (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "Marginal Revolution University",
+    "url": "https://mru.org",
+    "description": "Free economics videos from working economists (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "Primate economics",
+    "url": "https://www.youtube.com/@Primateeconomics",
+    "description": "Basics of Economic theories explained in a comedic manner (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "tutor2u",
+    "url": "https://www.tutor2u.net",
+    "description": "Notes, revision, and exam support for economics and business (freemium).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "AccountingCoach",
+    "url": "https://www.accountingcoach.com",
+    "description": "Free explanations, quizzes, and flashcards across core accounting topics (freemium).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "Double Entry Bookkeeping",
+    "url": "https://www.double-entry-bookkeeping.com/",
+    "description": "Free tutorials, examples, and quizzes on bookkeeping and accounting basics (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "AccountingVerse",
+    "url": "https://www.accountingverse.com",
+    "description": "Free tutorials covering bookkeeping, financial statements, and accounting theory (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "Bean Counter",
+    "url": "https://www.dwmbeancounter.com/",
+    "description": "Free bookkeeping and accounting courses, tutorials, and videos for beginners (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "Corporate Finance Institute",
+    "url": "https://courses.corporatefinanceinstitute.com/bundles/free-finance-accounting-courses/",
+    "description": "Free accounting and finance fundamentals courses, certificates cost extra (freemium).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "IGCSE Accounts",
+    "url": "https://www.igcseaccounts.com",
+    "description": "Free Cambridge IGCSE Accounting past paper questions, mark schemes, and revision notes (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "Khan Academy Accounting and Financial Statements",
+    "url": "https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-statement",
+    "description": "Free lessons on financial statements and core accounting concepts (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "My Accounting Course",
+    "url": "https://www.myaccountingcourse.com/",
+    "description": "Free accounting dictionary, tutorials, and quizzes covering core concepts (freemium).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/subjects/accounting/",
+    "description": "Revision notes, topic questions, and past papers for IGCSE and A-Level Accounting (freemium).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zjnygk7",
+    "description": "Covers GCSE business studies topics with revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "BusinessStudies.net",
+    "url": "https://www.businessstudies.net/",
+    "description": "Free, simplified GCSE Business Studies notes and quizzes by topic (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "Dinesh Bakshi",
+    "url": "https://dineshbakshi.com/",
+    "description": "Free notes, quizzes, and worksheets for GCSE, A-Level, and IB Business Studies (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "Economics Help",
+    "url": "https://www.economicshelp.org",
+    "description": "Explains business and economics concepts through revision notes and guides (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "IGCSE Business",
+    "url": "https://www.igcsebusiness.co.uk",
+    "description": "Free Cambridge IGCSE Business notes and past papers by topic (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive business revision (freemium).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "Sense Business",
+    "url": "https://sensebusiness.co.uk/",
+    "description": "Free GCSE business studies revision notes and topic quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "TakingTheBiz",
+    "url": "https://www.youtube.com/TakingTheBiz",
+    "description": "Video revision lessons for GCSE, A-Level, and IB Business (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "tutor2u",
+    "url": "https://www.tutor2u.net/business",
+    "description": "Notes, revision, and exam support for Business Studies (freemium).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "CliffsNotes",
+    "url": "https://www.cliffsnotes.com/literature",
+    "description": "Free literature notes, summaries, and study guides for classic and contemporary texts (freemium).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Language Reactor",
+    "url": "https://www.languagereactor.com",
+    "description": "Learn languages from real video and subtitles (freemium).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "LanguageTool",
+    "url": "https://languagetool.org",
+    "description": "Free, open grammar and style checker in many languages (freemium).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Mr Bruff",
+    "url": "https://www.youtube.com/@mrbruff",
+    "description": "Free GCSE and A-Level English Language and Literature revision videos (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Poetry Foundation",
+    "url": "https://www.poetryfoundation.org/learn",
+    "description": "Free poem archive, glossary of poetic terms, and analysis guides (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com/english-revision/",
+    "description": "Free summary notes, character profiles, and past papers for A-Level texts (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Purdue OWL",
+    "url": "https://owl.purdue.edu",
+    "description": "Free reference for writing, grammar, and citation styles (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "SparkNotes",
+    "url": "https://www.sparknotes.com",
+    "description": "Study guides and analysis for set literature texts (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Busuu",
+    "url": "https://www.busuu.com/en",
+    "description": "Structured lessons with feedback from native speakers across 20+ languages (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Clozemaster",
+    "url": "https://www.clozemaster.com",
+    "description": "Builds vocabulary through fill-in-the-blank sentences across 50+ languages (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com",
+    "description": "Free, gamified lessons across dozens of languages (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Forvo",
+    "url": "https://forvo.com/",
+    "description": "Pronunciation dictionary with native-speaker audio across many languages (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "HelloTalk",
+    "url": "https://www.hellotalk.com/",
+    "description": "Practice real conversations by chatting with native speakers worldwide (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "italki",
+    "url": "https://www.italki.com",
+    "description": "Book 1-on-1 sessions with language tutors worldwide (paid).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Language Reactor",
+    "url": "https://www.languagereactor.com",
+    "description": "Learn languages from real video and subtitles (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "LingQ",
+    "url": "https://www.lingq.com",
+    "description": "Teaches vocabulary in context by reading and listening to real texts (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Memrise",
+    "url": "https://www.memrise.com",
+    "description": "Vocabulary and listening practice with native-speaker videos (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Cambridge Latin Course",
+    "url": "https://www.cambridgescp.com",
+    "description": "Free companion resources for the widely used Cambridge Latin Course (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Latin is Simple",
+    "url": "https://www.latin-is-simple.com/",
+    "description": "Free Latin dictionary, vocabulary trainer, and sentence analysis tool (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Dickinson College Commentaries",
+    "url": "https://dcc.dickinson.edu",
+    "description": "Free annotated Latin and Greek reading texts with vocabulary and notes (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Latinitium",
+    "url": "https://latinitium.com",
+    "description": "Free spoken Latin audio, readers, and grammar guides for learning Latin actively (freemium).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "LatinTutorial",
+    "url": "https://www.latintutorial.com",
+    "description": "Free video lessons covering Latin grammar, vocabulary, and translation (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Logeion",
+    "url": "https://logeion.uchicago.edu/",
+    "description": "Free Greek and Latin dictionary combining multiple scholarly lexicons (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu/hopper/",
+    "description": "Free, searchable library of Latin and Greek texts with translations and word studies (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Textkit",
+    "url": "https://www.textkit.com/",
+    "description": "Free downloadable Latin and Greek grammars, readers, and an active learners' forum (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "The Latin Library",
+    "url": "https://www.thelatinlibrary.com",
+    "description": "Free archive of Latin texts and grammar reference handouts (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "1000-Word Philosophy",
+    "url": "https://1000wordphilosophy.com",
+    "description": "Free, short introductory essays on philosophical concepts and thinkers (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Accessible introductory philosophy video series (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Internet Encyclopedia of Philosophy",
+    "url": "https://iep.utm.edu/",
+    "description": "Free, peer-reviewed articles on philosophical topics and thinkers (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Philosophize This!",
+    "url": "https://www.philosophizethis.org/",
+    "description": "Free podcast walking through the history of philosophy for beginners (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Philosophy Now",
+    "url": "https://philosophynow.org",
+    "description": "Magazine covering philosophical ideas and debates, four articles free per month (freemium).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Philosophy Tube",
+    "url": "https://www.youtube.com/@philosophytube",
+    "description": "Free video essays exploring philosophical ideas, thinkers, and debates (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zmyb4wx",
+    "description": "Free curriculum-aligned GCSE Religious Studies revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "IB World Religions",
+    "url": "https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/world-religions/",
+    "description": "Outlines the official IB syllabus covering nine major religions (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "Internet Sacred Text Archive",
+    "url": "https://sacred-texts.com/",
+    "description": "Free archive of religious and sacred texts from world traditions (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-world-religions",
+    "description": "Bite-sized topic summaries and IA exemplars for IB World Religions (freemium).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "The Pluralism Project",
+    "url": "https://pluralism.org",
+    "description": "Publishes essays and case studies on world religious traditions (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "The Religious Studies Project",
+    "url": "https://www.religiousstudiesproject.com",
+    "description": "Shares podcasts and essays on religions from scholars (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize",
+    "description": "Free curriculum-aligned history revision (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Fast overviews of world and US history (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Heimler's History",
+    "url": "https://www.youtube.com/@heimlershistory",
+    "description": "Exam-focused videos for AP History courses (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "History Skills",
+    "url": "https://www.historyskills.com/",
+    "description": "Teaches source analysis, essay writing, and research skills for history students (freemium).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Mr Allsop History",
+    "url": "https://www.mrallsophistory.com",
+    "description": "Free podcasts, videos, and revision notes across GCSE, IGCSE, A-Level, and IB History (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Oversimplified",
+    "url": "https://youtube.com/@oversimplified",
+    "description": "Teaching important events in History in an oversimplified way (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive GCSE and A-Level History revision (freemium).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Cambridge IGCSE Global Perspectives",
+    "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/",
+    "description": "Provides the official syllabus and past papers for Global Perspectives (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Global Issues",
+    "url": "https://www.globalissues.org/",
+    "description": "Free analysis of interconnected social, political, and economic global issues (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "ProCon.org",
+    "url": "https://www.britannica.com/procon",
+    "description": "Free, nonpartisan pro and con research on controversial global issues (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "IGCSE Global Perspectives .net",
+    "url": "https://igcseglobalperspectives.net/",
+    "description": "Free student resources, IR templates, and team project guidance (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/learning-hub/subject-guides/igcse-global-perspectives-topics/",
+    "description": "Lists topics and revision notes for IGCSE Global Perspectives by exam board (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "ZNotes",
+    "url": "https://znotes.org/caie/igcse/global-perspectives-0457/",
+    "description": "Summarizes syllabus topics and exam skills for Global Perspectives (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Chatham House",
+    "url": "https://www.chathamhouse.org/",
+    "description": "Free analysis and research on international relations and global politics (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "GloPo IB",
+    "url": "https://glopoib.wordpress.com",
+    "description": "Shares revision booklets, case studies, and theory summaries (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/IB/IB-Global-Politics-(SL)",
+    "description": "Free student-written IB Global Politics notes and flashcards by unit (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "IB Global Politics",
+    "url": "https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/global-politics/",
+    "description": "Outlines the official IB syllabus and core concepts (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-global-politics",
+    "description": "Provides notes, case studies, and a question bank (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "TutorChase",
+    "url": "https://www.tutorchase.com/notes/ib/global-politics",
+    "description": "Free IB Global Politics HL notes across core and extension topics (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "Get Revising",
+    "url": "https://getrevising.co.uk/resources/level/gcse/subjects/classical_civilization",
+    "description": "Free class notes, flashcards, and quizzes for GCSE Classical Civilisation (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "World History Encyclopedia",
+    "url": "https://www.worldhistory.org/",
+    "description": "Free, fact-checked reference articles on ancient Greek and Roman civilisation (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Primrose Kitten",
+    "url": "https://www.youtube.com/@PrimroseKitten",
+    "description": "Free video revision covering GCSE Classical Civilisation topics (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com/content/classical-civilisation",
+    "description": "Free OCR GCSE Classical Civilisation revision guides and resources (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk",
+    "description": "Free exam board-specific GCSE Classical Civilisation revision content (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Theoi Greek Mythology",
+    "url": "https://www.theoi.com/",
+    "description": "Free, primary-source encyclopedia of Greek mythology, art, and texts (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Warwick Classics Network",
+    "url": "https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/stoa/classciv/gcse/",
+    "description": "Free university-backed GCSE Classical Civilisation videos and resources (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize",
+    "description": "Free curriculum-aligned geography revision (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Geography All The Way",
+    "url": "https://www.geographyalltheway.com/",
+    "description": "IB DP Geography case studies, exam prep, and geographic skills (freemium).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Internet Geography",
+    "url": "https://www.internetgeography.net",
+    "description": "Free notes and case studies for GCSE geography (freemium).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive geography revision (freemium).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "The Geography Hub",
+    "url": "https://learngeographyonline.com",
+    "description": "Free GCSE geography past papers, explainer articles, and a glossary (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "A-LevelLaw.com",
+    "url": "https://a-levellaw.com",
+    "description": "Free student-run notes, case summaries, and past papers for A-Level Law (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "BAILII",
+    "url": "https://www.bailii.org",
+    "description": "Free searchable database of British and Irish case law and legislation (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "legislation.gov.uk",
+    "url": "https://www.legislation.gov.uk",
+    "description": "The official, free database of UK legislation (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com/a2-level-level-revision/law-level-revision",
+    "description": "Free A-Level Law revision guides, notes, and past papers (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com",
+    "description": "Revision notes, topic questions, and past papers for A-Level Law (freemium).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "The Supreme Court",
+    "url": "https://www.supremecourt.uk/",
+    "description": "Official free judgments, case summaries, and education resources from the UK's top court (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "tutor2u",
+    "url": "https://www.tutor2u.net/free/law",
+    "description": "Free revision notes and teaching resources for A-Level Law (freemium).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "Bozeman Science",
+    "url": "https://www.bozemanscience.com",
+    "description": "Concept videos across environmental systems and ecology (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com",
+    "description": "Free student-written study guides and flashcards for IB ESS (freemium).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "MinuteEarth",
+    "url": "https://www.youtube.com/@MinuteEarth",
+    "description": "Short, animated explainers on environmental science mysteries (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Mr Kremer's Science",
+    "url": "https://mrkremerscience.com/new-ess/",
+    "description": "Free IB ESS topic explanations, flashcards, and video lessons by a teacher (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/dp/environmental-systems-and-societies-ess/",
+    "description": "Revision notes, exam questions, and past papers for IB ESS (freemium).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Revision Village",
+    "url": "https://www.revisionvillage.com/ib-ess/sl-2026/",
+    "description": "Questionbank, past papers, and flashcards for IB ESS (freemium).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Science Sauce",
+    "url": "https://sciencesauceonline.com/ibess/",
+    "description": "IB ESS topic summaries, case studies, and IA support from a teacher (freemium).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "ACE Fitness",
+    "url": "https://www.acefitness.org/",
+    "description": "Free exercise science articles, an exercise library, and fitness calculators (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "BrianMac Sports Coach",
+    "url": "https://www.brianmac.co.uk",
+    "description": "Free reference on exercise physiology, training methods, and sports coaching (free).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "Physiopedia",
+    "url": "https://www.physio-pedia.com",
+    "description": "Free, evidence-based knowledge base covering anatomy, injury, and rehabilitation (free).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-sports-exercise-and-health-science-sehs-new-syllabus",
+    "description": "Notes, flashcards, and a question bank for IB Sports, Exercise and Health Science (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "StudyIB",
+    "url": "https://studyib.net/sehs",
+    "description": "Concise revision notes and explanations across the SEHS syllabus (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "TutorChase",
+    "url": "https://www.tutorchase.com/notes/ib/sehs",
+    "description": "Free IB Sports, Exercise and Health Science HL notes written by IB teachers (free).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "Academy of Nutrition and Dietetics",
+    "url": "https://www.eatright.org/",
+    "description": "Nutrition guidance and healthy-eating articles from registered dietitians (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "FoodUnfolded",
+    "url": "https://www.foodunfolded.com/",
+    "description": "Free articles and courses on food science, nutrition, and sustainability (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zdn9jhv",
+    "description": "Covers GCSE food preparation and nutrition topics with revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "NHS Eatwell Guide",
+    "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/",
+    "description": "Official NHS guide to balanced diets and food groups (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Food – A Fact of Life",
+    "url": "https://www.foodafactoflife.org.uk",
+    "description": "Teaches nutrition, cooking skills, and food science for GCSE level (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/gcse/food-and-nutrition/",
+    "description": "Revision notes, exam questions, flashcards, and past papers for GCSE Food & Nutrition (freemium).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com/en-gb/blog/gcse-food-preparation-nutrition-revision/",
+    "description": "Delivers interactive GCSE food and nutrition revision with spaced repetition (freemium).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize",
+    "description": "Free curriculum-aligned Health and Social Care revision (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "OpenLearn Health and Social Care",
+    "url": "https://www.open.edu/openlearn/health-sports-psychology/health-and-social-care-pathway",
+    "description": "Free Open University introductory courses on social care, nursing, and mental health (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "Get Revising",
+    "url": "https://getrevising.co.uk/resources/level/gcse/subjects/health_and_social_care",
+    "description": "Free class notes, flashcards, and quizzes for GCSE Health and Social Care (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com/exam-subjects/health-and-social-care",
+    "description": "Free revision guides and resources for Health and Social Care (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "Social Care Institute for Excellence",
+    "url": "https://www.scie.org.uk/",
+    "description": "Free guidance on social care practice, safeguarding, and policy (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk/revision/gcse-health-and-social-care-ccea",
+    "description": "Free exam board-specific GCSE Health and Social Care revision content (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "tutor2u",
+    "url": "https://www.tutor2u.net/free/hsc",
+    "description": "Free revision notes and teaching resources for Health and Social Care (freemium).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "IB Social and Cultural Anthropology",
+    "url": "https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/social-and-cultural-anthropology/",
+    "description": "Outlines the official IB syllabus and assessment structure (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "Perspectives: An Open Invitation to Cultural Anthropology",
+    "url": "https://pressbooks.pub/perspectives/",
+    "description": "Free, peer-reviewed open textbook introducing cultural anthropology topics (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/IB/IB-Social-and-cultural-anthropology-(SL)",
+    "description": "Offers student-written notes and flashcards by unit (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "LibreTexts Cultural Anthropology",
+    "url": "https://socialsci.libretexts.org/Bookshelves/Anthropology/Cultural_Anthropology",
+    "description": "Free peer-reviewed open-access cultural anthropology textbooks and readings (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "OpenStax Introduction to Anthropology",
+    "url": "https://openstax.org/details/books/introduction-anthropology",
+    "description": "Free, peer-reviewed introductory anthropology textbook (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-social-and-cultural-anthropology",
+    "description": "Provides study notes, flashcards, and a question bank (freemium).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Accessible introductory psychology video series (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "Fiveable",
+    "url": "https://fiveable.me",
+    "description": "Free AP Psychology study guides, practice questions, and exam-day reviews (freemium).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e",
+    "description": "Free, peer-reviewed psychology textbook covering the full introductory curriculum (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/a-level/psychology/",
+    "description": "Revision notes, exam questions, and past papers for A-Level Psychology (freemium).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive psychology revision (freemium).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "Simply Psychology",
+    "url": "https://www.simplypsychology.org",
+    "description": "Clear notes on theories, studies, and exams (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "tutor2u Psychology",
+    "url": "https://www.tutor2u.net/psychology",
+    "description": "Offers A-Level psychology study notes, quizzes, and topic videos (freemium).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Accessible introductory sociology video series (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "Discover Sociology",
+    "url": "https://www.discoversociology.co.uk/",
+    "description": "Free A-Level sociology teaching resources from the British Sociological Association (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "OpenStax Introduction to Sociology",
+    "url": "https://openstax.org/details/books/introduction-sociology-3e",
+    "description": "Free, peer-reviewed introductory sociology textbook (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive A-Level Sociology revision (freemium).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "Simply Psychology",
+    "url": "https://www.simplypsychology.org/theories/sociology/",
+    "description": "Clear notes on core sociological theories and thinkers (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "tutor2u",
+    "url": "https://www.tutor2u.net/free/sociology",
+    "description": "Free revision notes and teaching resources for A-Level Sociology (freemium).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zdhs34j",
+    "description": "Free curriculum-aligned GCSE Physical Education revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "Get Revising",
+    "url": "https://getrevising.co.uk/resources/level/gcse/subjects/physical_education",
+    "description": "Free class notes, flashcards, and quizzes for GCSE Physical Education (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com/gcse-revision/pe-physical-education",
+    "description": "Free GCSE PE revision guides, quizzes, and past papers (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/subjects/physical-education/",
+    "description": "Revision notes, topic questions, and past papers for PE (freemium).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive GCSE and A-Level PE revision (freemium).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "TeachPE.com",
+    "url": "https://www.teachpe.com",
+    "description": "Free revision quizzes and notes on anatomy, training, and skill acquisition for GCSE and A-Level PE (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "The EverLearner",
+    "url": "https://theeverlearner.com",
+    "description": "Revision videos and resources for GCSE, A-Level, and BTEC PE and Sport (freemium).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "The PE Classroom",
+    "url": "https://thepeclassroom.com",
+    "description": "Free GCSE PE revision resources, mind maps, and exam-style questions (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "Art UK",
+    "url": "https://artuk.org/",
+    "description": "Free digital access to every public art collection in the UK (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "Jazza",
+    "url": "https://www.youtube.com/@Jazza",
+    "description": "Fun, accessible drawing and illustration tutorials for beginners (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "MoMA Learning",
+    "url": "https://www.moma.org/learn/moma_learning/",
+    "description": "Free essays and glossary explaining modern art movements and artists (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "Proko",
+    "url": "https://www.proko.com",
+    "description": "Free figure drawing and anatomy fundamentals for artists (freemium).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "Smarthistory",
+    "url": "https://smarthistory.org",
+    "description": "Free, peer-reviewed art history essays and videos, Khan Academy's official partner (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "Student Art Guide",
+    "url": "https://www.studentartguide.com/",
+    "description": "Free guides on critical studies, artist research, and sketchbook annotation (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "Tate",
+    "url": "https://www.tate.org.uk/art/student-resource",
+    "description": "Free GCSE and A-Level art exam help and student resources (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "BFI Film Academy",
+    "url": "https://www.bfi.org.uk/bfi-film-academy",
+    "description": "Free UK-wide filmmaking training programme for 16 to 25-year-olds (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "Film Riot",
+    "url": "https://www.youtube.com/@filmriot",
+    "description": "Weekly tutorials on shooting, editing, and VFX for indie filmmakers (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "Into Film",
+    "url": "https://www.intofilm.org",
+    "description": "Free UK film education charity with lesson plans and student filmmaking resources (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "Lessons from the Screenplay",
+    "url": "https://www.youtube.com/@LessonsfromtheScreenplay",
+    "description": "Video essays breaking down screenwriting and film craft choices (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "No Film School",
+    "url": "https://nofilmschool.com",
+    "description": "News, tutorials, and gear guides covering the craft of filmmaking (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/a-level/media-studies/wjec-eduqas/film-studies/",
+    "description": "Revision notes, exam questions, and past papers for A-Level Film Studies (freemium).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "StudioBinder Blog",
+    "url": "https://www.studiobinder.com/blog/",
+    "description": "Free tutorials and guides on cinematography, directing, and screenwriting (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk/revision/a-level-film-studies-wjec",
+    "description": "Free exam board-specific A-Level Film Studies revision content (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "Get Revising",
+    "url": "https://getrevising.co.uk/resources/level/gcse/subjects/photography",
+    "description": "Free class notes, flashcards, and quizzes for GCSE Photography (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "Cambridge in Colour",
+    "url": "https://www.cambridgeincolour.com/",
+    "description": "Free tutorials on camera exposure, composition, and editing fundamentals (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "Digital Photography School",
+    "url": "https://digital-photography-school.com",
+    "description": "Free photography tutorials covering camera basics, composition, and lighting (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "iPhotography",
+    "url": "https://www.iphotography.com/blog/gcse-photography-a-student-revision-guide/",
+    "description": "Free guide to camera settings, composition, and exam-board expectations for GCSE Photography (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "Photography Life",
+    "url": "https://photographylife.com",
+    "description": "Photography tutorials, camera reviews, and free beginner courses (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk",
+    "description": "Free exam board-specific GCSE Photography revision content (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "The School of Photography",
+    "url": "https://www.theschoolofphotography.com",
+    "description": "Free tutorials on camera settings, composition, and editing for GCSE and A-Level Photography (freemium).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zwpfb9q",
+    "description": "Free curriculum-aligned GCSE Media Studies revision guides and quizzes (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "BFI Education",
+    "url": "https://www.bfi.org.uk/resources-events-teachers/resources-teachers",
+    "description": "Film and media studies teaching resources from the British Film Institute (freemium).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "media-studies.com",
+    "url": "https://media-studies.com/aqa-a-level/",
+    "description": "Free AQA A-Level Media Studies guides and exam revision content (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "MediaSmarts",
+    "url": "https://mediasmarts.ca/",
+    "description": "Free media literacy lessons on representation, bias, and digital media (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com",
+    "description": "Revision notes, topic questions, and past papers for Media Studies (freemium).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "Seneca Learning",
+    "url": "https://senecalearning.com",
+    "description": "Free interactive GCSE and A-Level Media Studies revision (freemium).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk/revision/a-level-media-studies-ocr",
+    "description": "Free exam board-specific A-Level Media Studies revision content (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "8notes",
+    "url": "https://www.8notes.com",
+    "description": "Free sheet music across 25+ instruments (freemium).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "GCSE Music",
+    "url": "https://www.musicgcse.co.uk/",
+    "description": "Free OCR GCSE Music revision notes, quizzes, and videos (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "musictheory.net",
+    "url": "https://www.musictheory.net",
+    "description": "Free, interactive lessons and ear-training exercises for music theory basics (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "MuseScore",
+    "url": "https://musescore.org/en",
+    "description": "Notate and play back compositions for coursework (free, open source).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "MyMusicTheory",
+    "url": "https://mymusictheory.com/",
+    "description": "Free music theory lessons and grade quizzes for ABRSM and Trinity exams (freemium).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "Rick Beato",
+    "url": "https://www.youtube.com/@RickBeato",
+    "description": "In-depth music theory, ear training, and song analysis (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "teoria",
+    "url": "https://teoria.com",
+    "description": "Free ear-training drills and music theory reference (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zk6pyrd",
+    "description": "Covers GCSE drama theory, acting skills, and stagecraft revision (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "Digital Theatre+",
+    "url": "https://www.digitaltheatreplus.com",
+    "description": "Filmed productions and study resources for GCSE and A-Level Drama (freemium).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "National Theatre",
+    "url": "https://www.nationaltheatre.org.uk/learn-explore",
+    "description": "Free lesson plans and filmed productions for A-Level Drama set texts (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "RSC Shakespeare Learning Zone",
+    "url": "https://www.rsc.org.uk/shakespeare-learning-zone",
+    "description": "Explores Shakespeare plays through videos, scenes, and character notes (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/a-level/drama/aqa/drama-and-theatre/",
+    "description": "Revision notes, topic questions, and past papers for A-Level Drama and Theatre (freemium).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "StageMilk",
+    "url": "https://www.stagemilk.com",
+    "description": "Free acting tips, monologues, and technique guides (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "Theatrefolk",
+    "url": "https://www.theatrefolk.com/free-resources",
+    "description": "Free monologues, scenes, playwriting exercises, and study guides for drama students (freemium).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize/subjects/zg9jtfr",
+    "description": "Covers GCSE dance revision notes, videos, and practice questions (free).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Get Revising",
+    "url": "https://getrevising.co.uk/resources/level/gcse/subjects/dance",
+    "description": "Free class notes, flashcards, and quizzes for GCSE Dance (free).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Rambert Classroom",
+    "url": "https://rambert.org.uk/participation/schools-and-colleges/rambert-classroom/",
+    "description": "Videos and guides on GCSE and A-Level Dance set works from a professional company (freemium).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com/exam-subjects/dance",
+    "description": "Free GCSE and A-Level Dance revision guides by exam board (free).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com",
+    "description": "Revision notes, topic questions, and past papers for GCSE and A-Level Dance (freemium).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "STEEZY Studio",
+    "url": "https://www.steezy.co",
+    "description": "Online dance classes and technique tutorials across styles (freemium).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk",
+    "description": "Free exam board-specific GCSE and A-Level Dance revision content (free).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Joplin",
+    "url": "https://joplinapp.org/",
+    "description": "Free, open-source markdown notes with sync and encryption (free, open source).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Logseq",
+    "url": "https://logseq.com",
+    "description": "Free, open-source outliner for networked notes (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "LYT Kit",
+    "url": "https://www.linkingyourthinking.com/myideaverse/enter",
+    "description": "Free starter Obsidian vault for organizing notes and classes (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Microsoft OneNote",
+    "url": "https://onenote.cloud.microsoft",
+    "description": "Organize notes, sketches, and clippings in free-form notebooks (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Notion",
+    "url": "https://www.notion.com",
+    "description": "All-in-one notes, databases, and docs, free tier for students (freemium).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Notion Student Planner Templates",
+    "url": "https://www.notion.com/templates/category/free-student-planner-templates",
+    "description": "Free, official templates for tracking classes, assignments, and deadlines (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Obsidian",
+    "url": "https://obsidian.md",
+    "description": "Local-first linked notes with a large plugin ecosystem (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "RemNote",
+    "url": "https://www.remnote.com",
+    "description": "Notes with built-in spaced-repetition flashcards (freemium).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Roam Research",
+    "url": "https://roamresearch.com",
+    "description": "Links notes bidirectionally to build a networked knowledge base (paid).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Zettlr",
+    "url": "https://www.zettlr.com/",
+    "description": "Open-source Markdown editor built for long academic writing (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
+    "name": "Anki",
+    "url": "https://apps.ankiweb.net",
+    "description": "Free, open-source spaced-repetition flashcards with huge shared decks (free).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Brainscape",
+    "url": "https://www.brainscape.com",
+    "description": "Confidence-based repetition flashcards (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "LearnClash",
+    "url": "https://learnclash.com",
+    "description": "Duel friends on any topic, with explanations after each answer (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Memly",
+    "url": "https://memly.ai/en",
+    "description": "Turn PDFs, slides, and YouTube videos into AI flashcards with spaced-repetition reviews (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Mochi",
+    "url": "https://mochi.cards",
+    "description": "Markdown-friendly spaced-repetition flashcards (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Quizlet",
+    "url": "https://quizlet.com",
+    "description": "Fast flashcards and study games (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "StudyLoop",
+    "url": "https://studyloop-liard.vercel.app",
+    "description": "Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "SuperMemo",
+    "url": "https://www.super-memory.com",
+    "description": "The original spaced-repetition software for building long-term memory (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Dopastep",
+    "url": "https://dopastep.com/",
+    "description": "Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "Google Calendar",
+    "url": "https://calendar.google.com",
+    "description": "Free scheduling that syncs everywhere (free).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "Habitica",
+    "url": "https://habitica.com",
+    "description": "Turns habits and to-dos into a role-playing game with streaks (free).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "Motion",
+    "url": "https://www.usemotion.com",
+    "description": "Uses AI to auto-schedule tasks and timeblock them on your calendar (paid).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "Notion Calendar",
+    "url": "https://www.notion.com/product/calendar",
+    "description": "Free calendar that connects to your Notion workspace (free).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "TickTick",
+    "url": "https://ticktick.com",
+    "description": "Tasks, calendar, and a built-in Pomodoro timer (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "Todoist",
+    "url": "https://todoist.com",
+    "description": "Cross-platform task manager with natural-language dates (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "EasyBib",
+    "url": "https://www.easybib.com",
+    "description": "Citation and bibliography generator, free for MLA (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com",
+    "description": "Grammar and clarity suggestions as you write (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Hemingway Editor",
+    "url": "https://hemingwayapp.com",
+    "description": "Free readability checker that flags dense sentences and passive voice (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "IELTS Writing Checker",
+    "url": "https://ieltswritingchecker.org/",
+    "description": "Get IELTS Task 1 and Task 2 criterion feedback (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "LanguageTool",
+    "url": "https://languagetool.org",
+    "description": "Free, open-source grammar and style checker (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Overleaf",
+    "url": "https://www.overleaf.com",
+    "description": "Collaborative online LaTeX editor for formatted papers (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Purdue OWL",
+    "url": "https://owl.purdue.edu",
+    "description": "Free reference for writing, grammar, and citation styles (free).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Quetext",
+    "url": "https://www.quetext.com",
+    "description": "Plagiarism checker with a citation generator, limited free checks (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Zotero",
+    "url": "https://www.zotero.org",
+    "description": "Free, open-source reference manager with one-click citations (free).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "APA Style: Citing ChatGPT",
+    "url": "https://apastyle.apa.org/blog/how-to-cite-chatgpt",
+    "description": "Official APA guidance on citing AI-generated content (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "Chicago Manual of Style: Citing ChatGPT",
+    "url": "https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html",
+    "description": "Official Chicago Style Q&A on crediting generative AI output (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "Copyleaks",
+    "url": "https://copyleaks.com",
+    "description": "AI-content and plagiarism detection with a limited free scan tier (freemium).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "GPTZero",
+    "url": "https://gptzero.me",
+    "description": "AI-writing detector students and teachers use to check submitted work (freemium).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "IB AI Guidance",
+    "url": "https://ibo.org/programmes/artificial-intelligence-ai-in-learning-teaching-and-assessment/",
+    "description": "The IB's official position on using AI in coursework (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "International Center for Academic Integrity",
+    "url": "https://www.academicintegrity.org",
+    "description": "Nonprofit resources on what integrity and misconduct mean (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "MLA Style Center: Citing Generative AI",
+    "url": "https://style.mla.org/citing-generative-ai-updated-revised/",
+    "description": "Official MLA guidance on citing generative AI (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "Purdue Libraries: Citing AI-Generated Content",
+    "url": "https://guides.lib.purdue.edu/c.php?g=1371380&p=10135074",
+    "description": "Compares how to cite AI tools across APA, MLA, Chicago, and IEEE (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "Desmos",
+    "url": "https://www.desmos.com",
+    "description": "Free graphing calculator and classroom activities (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "diagrams.net",
+    "url": "https://www.drawio.com",
+    "description": "Free, open-source flowchart and diagram editor (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "description": "Free, open-source hand-drawn-style diagrams (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "GeoGebra",
+    "url": "https://www.geogebra.org",
+    "description": "Free, open geometry, algebra, and calculus tools (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "PhET Simulations",
+    "url": "https://phet.colorado.edu",
+    "description": "Free interactive simulations for exploring physics, chemistry, biology, and math (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "Tinkercad",
+    "url": "https://www.tinkercad.com",
+    "description": "Design and simulate 3D models, circuits, and code in the browser (freemium).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "Wolfram Alpha",
+    "url": "https://www.wolframalpha.com",
+    "description": "Computational engine for step-by-step math and science (freemium).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com",
+    "description": "Interactive coding lessons across many languages and career paths (freemium).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "CS50",
+    "url": "https://cs50.harvard.edu",
+    "description": "Harvard's free, beginner-friendly computer science course (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "Free, open-source coding curriculum with certifications (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "GitHub Student Developer Pack",
+    "url": "https://education.github.com/pack",
+    "description": "Free developer tools and credits for verified students (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn",
+    "description": "Free, definitive reference and tutorials for HTML, CSS, and JavaScript (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "The Odin Project",
+    "url": "https://www.theodinproject.com",
+    "description": "Free project-based path into web development (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "Visual Studio Code",
+    "url": "https://code.visualstudio.com",
+    "description": "Free, extensible code editor from Microsoft (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "Automate the Boring Stuff with Python",
+    "url": "https://automatetheboringstuff.com/",
+    "description": "Free online Python book with hands-on file, spreadsheet, and web automation projects (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "Advent of Code",
+    "url": "https://adventofcode.com",
+    "description": "Free annual puzzle set, one bite-sized challenge per day each December (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "AtCoder",
+    "url": "https://atcoder.jp/",
+    "description": "Japanese competitive programming platform with regular timed contests (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "Codeforces",
+    "url": "https://codeforces.com",
+    "description": "Free competitive programming judge with regular timed contests (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "Codewars",
+    "url": "https://www.codewars.com",
+    "description": "Free, community-built code katas across 55+ languages (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "Exercism",
+    "url": "https://exercism.org",
+    "description": "Free coding exercises with real mentor feedback across 80+ languages (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "HackerRank",
+    "url": "https://www.hackerrank.com",
+    "description": "Practice problems across algorithms, data structures, and languages, plus interview prep (freemium).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "LeetCode",
+    "url": "https://leetcode.com",
+    "description": "Practice problems for coding interviews and data structures (freemium).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "Project Euler",
+    "url": "https://projecteuler.net",
+    "description": "Free archive of challenging math and programming problems (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "3Blue1Brown",
+    "url": "https://www.youtube.com/@3blue1brown",
+    "description": "Visual math intuition, from linear algebra to calculus (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Abdul Bari",
+    "url": "https://www.youtube.com/@abdul_bari",
+    "description": "Clear lectures on algorithms and data structures (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Amoeba Sisters",
+    "url": "https://www.youtube.com/@amoebasisters",
+    "description": "Cartoon-style videos that make biology concepts like genetics and evolution click (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Code with Harry",
+    "url": "https://www.youtube.com/@CodeWithHarry",
+    "description": "Beginner-friendly programming tutorials in Hindi and English (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Fast-paced overviews across history, science, and the humanities (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Economics Explained",
+    "url": "https://www.youtube.com/@EconomicsExplained",
+    "description": "Accessible breakdowns of economies and economic ideas (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "ExamSolutions",
+    "url": "https://www.youtube.com/user/ExamSolutions",
+    "description": "Free worked examples for GCSE, IGCSE, and A-Level maths (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Fireship",
+    "url": "https://www.youtube.com/@Fireship",
+    "description": "Fast, practical coding and web development explainers (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "IB English Guys",
+    "url": "https://www.youtube.com/@ibenglishguys",
+    "description": "Exam-focused help for IB English courses (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.youtube.com/@khanacademy",
+    "description": "Structured lessons across almost every school subject (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "MinutePhysics",
+    "url": "https://www.youtube.com/@MinutePhysics",
+    "description": "Short, animated explainers that make physics concepts click fast (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Mr Hunt's Geography Channel",
+    "url": "https://www.youtube.com/@mrhuntsgeographychannel2289",
+    "description": "GCSE geography lessons from a working teacher and exam board examiner (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Psych2Go",
+    "url": "https://www.youtube.com/@psych2go",
+    "description": "Approachable videos on psychology, mental health, and self-understanding (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Revision Village",
+    "url": "https://www.youtube.com/@revisionvillage",
+    "description": "Syllabus-aligned video lessons and worked past papers for IB Math (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "SupertutorTV",
+    "url": "https://www.youtube.com/@SupertutorTV",
+    "description": "In-depth SAT and ACT prep from a perfect-scoring tutor (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "The Organic Chemistry Tutor",
+    "url": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "description": "Worked problems across math and the sciences (freemium).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Veritasium",
+    "url": "https://www.youtube.com/@veritasium",
+    "description": "Deep science explainers that build real understanding (free).",
+    "section": "YouTube Channels We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Campbell, Biology",
+    "url": "https://www.pearson.com/en-us/subject-catalog/p/campbells-biology/P200000014184/9780135455890",
+    "description": "The standard university-level biology textbook (paid).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "Clayden, Organic Chemistry",
+    "url": "https://global.oup.com/academic/product/organic-chemistry-9780198728719",
+    "description": "Widely used undergraduate organic chemistry text (paid).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "CLRS, Introduction to Algorithms",
+    "url": "https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/",
+    "description": "The definitive algorithms reference (paid).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "Griffiths, Introduction to Electrodynamics",
+    "url": "https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/FD23E188E2BDCDB40199CFE3386EC08F",
+    "description": "Standard undergraduate textbook on electricity and magnetism (paid).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "Haese Mathematics",
+    "url": "https://www.haesemathematics.com",
+    "description": "Standard IB Diploma mathematics textbooks (formerly Haese & Harris) (paid).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "Halliday, Resnick & Walker, Fundamentals of Physics",
+    "url": "https://www.wiley.com/en-us/Fundamentals+of+Physics,+12th+Edition-p-9781119801122",
+    "description": "Widely used introductory university physics text (paid).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "OpenStax",
+    "url": "https://openstax.org",
+    "description": "Free, peer-reviewed textbooks across math and science (free).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "Stewart, Calculus",
+    "url": "https://www.stewartcalculus.com",
+    "description": "The standard first calculus textbook (paid).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "The Feynman Lectures on Physics",
+    "url": "https://www.feynmanlectures.caltech.edu",
+    "description": "Landmark physics text, free to read online (free).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "CtrlAltRevise Pseudocode Practice",
+    "url": "https://www.ctrlaltrevise.com/pseudocode-practice?utm_source=directory&utm_medium=referral&utm_campaign=s260906_gcse_directory",
+    "description": "Practise 0478/0984 pseudocode with original exercises and answers (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "1600.now",
+    "url": "https://1600.now/",
+    "description": "Practice SAT questions and timed tests with answer explanations (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "IELTS Writing Practice",
+    "url": "https://ieltswritingpractice.app/",
+    "description": "Practise timed IELTS writing; AI feedback costs extra (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Scite",
+    "url": "https://scite.ai/",
+    "description": "Searches citations to show whether later studies support or contrast a paper (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+  },
+  {
+    "name": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu",
+    "description": "Free, peer-reviewed reference articles on philosophical topics and thinkers (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Religion and Public Life",
+    "url": "https://rpl.hds.harvard.edu",
+    "description": "Free HarvardX courses and research on world religious traditions (freemium).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "Kialo Edu",
+    "url": "https://www.kialo-edu.com",
+    "description": "Free tool for mapping structured pro and con debates (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "World101",
+    "url": "https://world101.cfr.org",
+    "description": "Free CFR modules explaining international relations and foreign policy (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "The Nutrition Source",
+    "url": "https://nutritionsource.hsph.harvard.edu",
+    "description": "Harvard's free, evidence-based guide to nutrition science and healthy eating (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Anthropology News",
+    "url": "https://www.anthropology-news.org",
+    "description": "Free AAA magazine covering current anthropological research and teaching (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "LitCharts",
+    "url": "https://www.litcharts.com",
+    "description": "Study guides with summaries, themes, and quotes for literature texts (freemium).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "National Geographic Education",
+    "url": "https://www.nationalgeographic.org/education/",
+    "description": "Free geography lesson plans, maps, and interactive classroom resources (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Royal Geographical Society",
+    "url": "https://www.rgs.org/schools/resources-for-schools",
+    "description": "Free case studies, fieldwork guidance, and careers resources for geography students (freemium).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Our World in Data",
+    "url": "https://ourworldindata.org",
+    "description": "Free data and research on environmental, climate, and global issues (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Drawabox",
+    "url": "https://drawabox.com",
+    "description": "Free, exercise-based course for learning drawing fundamentals step by step (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "IMSLP",
+    "url": "https://imslp.org",
+    "description": "Download free public-domain sheet music for nearly any instrument (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "Scribbr AI Detector",
+    "url": "https://www.scribbr.com/ai-detector/",
+    "description": "Checks writing for AI-generated text, free up to 1,200 words (freemium).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "Toggl Track",
+    "url": "https://toggl.com/track/",
+    "description": "Track study time across devices with simple reports (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "MyStudyLife",
+    "url": "https://mystudylife.com/",
+    "description": "Student planner for timetables, assignments, and deadlines, premium tier costs extra (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "Vaia",
+    "url": "https://www.vaia.com",
+    "description": "Create flashcards with spaced repetition, notes, and study plans (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Mathigon",
+    "url": "https://mathigon.org",
+    "description": "Explore interactive math lessons and manipulatives in the browser (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "MolView",
+    "url": "https://molview.org/",
+    "description": "Explore molecules in 3D and build reaction diagrams in the browser (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "Flag Drill",
+    "url": "https://flagdrill.com/",
+    "description": "Practice flag quizzes for 193 UN members and similar flags (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Into Film",
+    "url": "https://www.intofilm.org",
+    "description": "UK charity providing free film education resources and streaming for schools (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "ReviseSociology",
+    "url": "https://revisesociology.com/a-level-sociology/",
+    "description": "Free A-Level Sociology revision notes, mind maps, and model answers (freemium).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/a-level/sociology/",
+    "description": "Revision notes, exam questions, and past papers for A-Level Sociology (freemium).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "Revision Genie",
+    "url": "https://www.revisiongenie.com/subject/gcse/health-and-social-care",
+    "description": "AI tutor with free practice questions for GCSE Health and Social Care (freemium).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "ExRx.net",
+    "url": "https://exrx.net",
+    "description": "Free exercise and kinesiology reference library covering training and prescription (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "Knowt",
+    "url": "https://knowt.com/exams/IB/IB-Sports,-Exercise,-and-Health-Science-(SL)",
+    "description": "Free student-written IB Sports, Exercise and Health Science notes and flashcards by unit (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "e-lawresources.co.uk",
+    "url": "https://e-lawresources.co.uk",
+    "description": "Free lecture outlines, case summaries, and quizzes across UK law topics (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "LawTeacher.net",
+    "url": "https://www.lawteacher.net/",
+    "description": "Free UK law revision notes, case summaries, and essay guides (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu",
+    "description": "Free searchable library of classical Greek and Latin texts and tools (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Spartacus Educational",
+    "url": "https://spartacus-educational.com",
+    "description": "Free history encyclopedia covering British, American, and world history topics (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Tom Richey",
+    "url": "https://www.youtube.com/@tomrichey",
+    "description": "Free AP US History and AP European History lecture videos (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Economics Help",
+    "url": "https://www.economicshelp.org",
+    "description": "Revision notes and blog posts covering micro and macroeconomics topics (freemium).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "MinutePhysics",
+    "url": "https://www.youtube.com/@minutephysics",
+    "description": "Short animated videos explaining physics concepts clearly and concisely (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "The Physics Classroom",
+    "url": "https://www.physicsclassroom.com/",
+    "description": "Free tutorials and practice covering forces, motion, waves, and electricity (freemium).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com/maths-revision/further-core-pure/",
+    "description": "Free past papers, worksheets, and topic notes for A-Level Further Maths (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "StatisticsHowTo",
+    "url": "https://www.statisticshowto.com",
+    "description": "Free explanations, formulas, and calculators for statistics terms and tests (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/math",
+    "description": "Free video lessons and practice exercises across all math levels (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Corbettmaths",
+    "url": "https://corbettmaths.com/",
+    "description": "Free Maths questions, worksheets, and videos by GCSE and A-Level topic (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ee-guides",
+    "description": "Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "SimpleStudy UK",
+    "url": "https://simplestudy.com/gb/a-level/aqa/dance/revision-notes",
+    "description": "Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "BrioVocab",
+    "url": "https://briovocab.com/",
+    "description": "Practice French vocabulary with spaced repetition, spelling, and pronunciation (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "SummarizAI",
+    "url": "https://summarizai.ink",
+    "description": "Summarize YouTube lectures into chapters, chat, and flashcards (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Masterclass Theatre Trust",
+    "url": "https://www.masterclass.org.uk/educational-resources---drama",
+    "description": "Provides free GCSE and A-Level Drama resource packs and activities (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "PhotoPedagogy",
+    "url": "https://www.photopedagogy.com/",
+    "description": "Shares photography teaching concepts, assignments, and analysis resources (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "Discover Anthropology",
+    "url": "https://discoveranthropology.org.uk/",
+    "description": "Introduces anthropology as a field with study and career guidance (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "Revision World",
+    "url": "https://revisionworld.com/gcse-revision/food-preparation-and-nutrition-gcse-revision",
+    "description": "Covers GCSE food science, safety, choice, and preparation skills (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Simple Studies",
+    "url": "https://www.simplestudies.org/studyguides/ib-global-politics",
+    "description": "Offers a free downloadable IB Global Politics study guide (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "PapaCambridge",
+    "url": "https://notes.papacambridge.com/notes/caie/cambridge-upper-secondarycambridge-igcse-global-perspectives-0457",
+    "description": "Offers past papers, topical notes, and revision materials for this course (freemium).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Crash Course Religions",
+    "url": "https://thecrashcourse.com/courses/religions/",
+    "description": "A 24-episode video series exploring world religions and belief systems (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "Royal Institute of Philosophy",
+    "url": "https://royalinstitutephilosophy.org/education/online-learning/",
+    "description": "Shares philosophy briefings, lectures, podcasts, and A-Level study guides (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Crash Course Statistics",
+    "url": "https://thecrashcourse.com/courses/statistics/",
+    "description": "A 44-episode video series covering statistics from basics to modeling (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Seeing Theory",
+    "url": "https://seeing-theory.brown.edu/",
+    "description": "Interactive visualisations of probability, distributions, and hypothesis tests (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "ToK Today",
+    "url": "https://www.toktoday.com/",
+    "description": "Offers TOK essay and exhibition guidance, videos, and coaching (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "Mometrix PSAT",
+    "url": "https://www.mometrix.com/academy/psat-practice-test/",
+    "description": "Free PSAT practice tests, study guides, and flashcards by subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "SimpleStudy",
+    "url": "https://simplestudy.com/gb/gcse",
+    "description": "Covers GCSE notes, flashcards, quizzes, and past papers by subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "Nail IB",
+    "url": "https://nailib.com/ee-sample",
+    "description": "Shares 70+ real IB Extended Essay examples for reference (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "Structural Learning",
+    "url": "https://www.structural-learning.com/post/ib-cas-ideas-and-examples",
+    "description": "Offers 30 CAS project ideas by strand plus a free planner (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "AP Practice Exams",
+    "url": "https://www.appracticeexams.com/",
+    "description": "Directory of free AP practice exams, notes, and study guides by subject (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "Larry Learns",
+    "url": "https://www.larrylearns.com/blog/act-practice-test-free",
+    "description": "Free ACT practice tests, study plans, and answer explanations (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "iBacalao",
+    "url": "https://www.ibacalao.com",
+    "description": "Reviews IA, EE, and TOK drafts criterion by criterion (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "ACT Score Calculator",
+    "url": "https://actscorecalculators.com/",
+    "description": "Convert ACT practice-test answers into scores and percentiles (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-theory-of-knowledge-tok",
+    "description": "Notes, flashcards, and a question bank for IB Theory of Knowledge (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "High School Test Prep",
+    "url": "https://highschooltestprep.com/psat/",
+    "description": "Free PSAT practice tests with detailed answer explanations by section (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com",
+    "description": "Free past papers, mark schemes, and revision notes across GCSE subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "Extended Essay Planner",
+    "url": "https://aldevere.com/tools/extended-essay-planner/",
+    "description": "Free tool that turns a vague EE idea into a focused research question (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/learning-hub/useful-resources/ib-cas-ideas/",
+    "description": "Lists CAS project and experience ideas across the three strands (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "AP Review Hub",
+    "url": "https://www.apreviewhub.com/",
+    "description": "Free flashcards, cheat sheets, and FRQ practice for every AP subject (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "TeachPE.com",
+    "url": "https://www.teachpe.com",
+    "description": "Free notes and quizzes on anatomy, physiology, and training methods for sport science (free).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "Aimnova",
+    "url": "https://www.aimnova.app/ib-ess/notes",
+    "description": "Free IB ESS notes, flashcards, and practice questions with no sign-up (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Cool Geography",
+    "url": "https://www.coolgeography.co.uk",
+    "description": "Free geography lessons and case studies from Year 7 through A-Level (freemium).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Advocating Classics Education",
+    "url": "https://aceclassics.org.uk",
+    "description": "University-backed project sharing GCSE and A-Level Classical Civilisation teaching resources (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "GloPoPolis",
+    "url": "https://www.glopopolis.org",
+    "description": "Free online textbook covering the IB Global Politics syllabus by topic (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "World101",
+    "url": "https://world101.cfr.org",
+    "description": "Free CFR modules explaining international relations and global issues (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Database of Religious History",
+    "url": "https://religiondatabase.org/landing/",
+    "description": "Free, scholarly encyclopedia of religious traditions across history (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "The Panpsycast",
+    "url": "https://www.thepanpsycast.com",
+    "description": "Free podcast interviewing philosophers on ideas across the A-Level and IB syllabus (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Noba Project",
+    "url": "https://nobaproject.com/",
+    "description": "Free psychology modules and customizable introductory textbooks (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "Lanterna Education",
+    "url": "https://lanterna.com/resources/ib-design-tech-ia",
+    "description": "Free guide to the IB Design Technology internal assessment's design cycle (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "Khan Academy Computer Science",
+    "url": "https://www.khanacademy.org/computing",
+    "description": "Free lessons and practice across intro programming, SQL, and computer science (free).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "Learn.Genetics",
+    "url": "https://learn.genetics.utah.edu/",
+    "description": "Free interactive lessons and virtual labs on genetics and molecular biology (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "Compound Interest",
+    "url": "https://www.compoundchem.com",
+    "description": "Free downloadable infographics explaining everyday and exam chemistry concepts (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "Khan Academy Physics",
+    "url": "https://www.khanacademy.org/science/physics",
+    "description": "Free lessons and practice across the physics syllabus (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "STEP Support Programme",
+    "url": "https://step.maths.org/",
+    "description": "Free Cambridge-built modules and worked solutions for advanced problem-solving beyond Further Maths (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Statistics LibreTexts",
+    "url": "https://stats.libretexts.org",
+    "description": "Free, open statistics textbooks and reference material (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "Lanterna Education",
+    "url": "https://lanterna.com/resources/master-ib-tok-guide",
+    "description": "Free guide to TOK's exhibition, essay, and areas of knowledge (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "College Board SAT Suite",
+    "url": "https://satsuite.collegeboard.org/sat",
+    "description": "The official overview, dates, registration, and score info for the SAT (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
+  },
+  {
+    "name": "Union Test Prep",
+    "url": "https://uniontestprep.com/psat-nmsqt-exam",
+    "description": "Free PSAT/NMSQT practice tests, study guides, and flashcards (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "Past Papers Academy",
+    "url": "https://pastpapersacademy.com/",
+    "description": "Free Cambridge IGCSE past papers, topical questions, and revision notes (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "Cognito",
+    "url": "https://cognito.org/",
+    "description": "Free video lessons, notes, and past papers for GCSE maths and science (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
+  },
+  {
+    "name": "CollegeVine",
+    "url": "https://blog.collegevine.com/ib-extended-essay-topic",
+    "description": "Free guide to choosing and narrowing an IB Extended Essay topic (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
+  },
+  {
+    "name": "TutorsPlus",
+    "url": "https://tutorsplus.com/the-ultimate-guide-to-ib-cas-requirements-expectations-and-tips-for-success/",
+    "description": "Free guide to CAS requirements, learning outcomes, and project tips (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "Fiveable AP Computer Science",
+    "url": "https://fiveable.me/ap-comp-sci-a",
+    "description": "Free study guides, practice questions, and FRQ prep for AP CSA (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
+  },
+  {
+    "name": "Free AP Practice",
+    "url": "https://freeappractice.org/",
+    "description": "Free, unlimited AP practice questions with instant feedback across 20+ subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
+  },
+  {
+    "name": "Union Test Prep",
+    "url": "https://uniontestprep.com/act",
+    "description": "Free ACT practice tests, study guides, and flashcards (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
+  },
+  {
+    "name": "Subskills",
+    "url": "https://subskills.xyz",
+    "description": "Learn sports techniques from videos sorted by skill level (free).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "The King's Fund",
+    "url": "https://www.kingsfund.org.uk/",
+    "description": "Read independent analysis of health and social care policy in England (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "Fieldsights",
+    "url": "https://culanth.org/fieldsights",
+    "description": "Read open-access essays and podcasts from working cultural anthropologists (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "Psychology Today",
+    "url": "https://www.psychologytoday.com/us/basics",
+    "description": "Browse plain-language articles on mental health and behavior topics (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "LibreTexts Sociology",
+    "url": "https://socialsci.libretexts.org/Bookshelves/Sociology",
+    "description": "Read open sociology textbooks online or download them (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "Google Arts & Culture",
+    "url": "https://artsandculture.google.com/",
+    "description": "Explore artworks and virtual museum tours from partner institutions (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "Filmsite",
+    "url": "https://www.filmsite.org/",
+    "description": "Read scholarly film reviews, history milestones, and greatest-films lists (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "PetaPixel",
+    "url": "https://petapixel.com/",
+    "description": "Follow photography news, tutorials, and gear reviews (free, ad-free membership).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "News Literacy Project",
+    "url": "https://newslit.org/",
+    "description": "Learn to evaluate misinformation and media bias through Checkology lessons (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "Ableton Learning Music",
+    "url": "https://learningmusic.ableton.com/",
+    "description": "Learn beats, scales, and chords through interactive in-browser lessons (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "Folger Shakespeare Library",
+    "url": "https://www.folger.edu/",
+    "description": "Read Shakespeare's complete works and lesson plans (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "Dance Magazine",
+    "url": "https://www.dancemagazine.com/",
+    "description": "Read dance news, features, and career advice (free, paid subscription).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "The Missing Semester of Your CS Education",
+    "url": "https://missing.csail.mit.edu/",
+    "description": "Learn shell, Git, and debugging through MIT lecture notes and videos (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
+  },
+  {
+    "name": "CodinGame",
+    "url": "https://www.codingame.com/",
+    "description": "Practice programming through puzzles and games in 25+ languages (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
+    "name": "Focusmate",
+    "url": "https://www.focusmate.com/",
+    "description": "Study alongside a partner in live virtual coworking sessions (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "UNESCO: AI in Education",
+    "url": "https://www.unesco.org/en/digital-education/artificial-intelligence",
+    "description": "Read international guidance on generative AI use in education (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
+  },
+  {
+    "name": "Mermaid",
+    "url": "https://mermaid.js.org/",
+    "description": "Draw flowcharts and diagrams from text, open source (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
+  },
+  {
+    "name": "Strang, Introduction to Linear Algebra",
+    "url": "https://math.mit.edu/~gs/linearalgebra/",
+    "description": "Learn linear algebra from MIT's Gilbert Strang (paid, with free course materials).",
+    "section": "Great Textbooks",
+    "subsection": null
+  },
+  {
+    "name": "Varsity Tutors PSAT",
+    "url": "https://www.varsitytutors.com/psat-practice-tests",
+    "description": "Practice PSAT questions with a free study plan (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
+  },
+  {
+    "name": "DoSomething",
+    "url": "https://www.dosomething.org/",
+    "description": "Find youth service actions to log as CAS service hours (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
+  },
+  {
+    "name": "True Recall",
+    "url": "https://www.truerecall.app",
+    "description": "Turn Obsidian notes into spaced-repetition flashcards on desktop and mobile (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "Mathigon",
+    "url": "https://mathigon.org",
+    "description": "Explore maths through interactive courses and the Polypad tool (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
+    "name": "Statology",
+    "url": "https://www.statology.org",
+    "description": "Learn statistics with plain-language tutorials and worked examples (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
+  },
+  {
+    "name": "NRICH",
+    "url": "https://nrich.maths.org",
+    "description": "Stretch problem-solving with Cambridge's rich maths problems (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Physics LibreTexts",
+    "url": "https://phys.libretexts.org",
+    "description": "Read open-access physics textbooks from mechanics to quantum (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
+  },
+  {
+    "name": "ChemTube3D",
+    "url": "https://www.chemtube3d.com",
+    "description": "Watch interactive 3D animations of reaction mechanisms and structures (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "The Biology Corner",
+    "url": "https://www.biologycorner.com",
+    "description": "Practise biology topics with worksheets, labs, and study guides (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
+  },
+  {
+    "name": "CS50x",
+    "url": "https://cs50.harvard.edu/x/",
+    "description": "Learn computer science foundations in Harvard's course (free, certificate paid).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
+  },
+  {
+    "name": "Economics Online",
+    "url": "https://www.economicsonline.co.uk",
+    "description": "Revise economics concepts with clear articles and diagrams (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "OpenStax Principles of Accounting",
+    "url": "https://openstax.org/details/books/principles-financial-accounting",
+    "description": "Read a full financial accounting textbook online (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "BizEdMadeSimple",
+    "url": "https://bizedmadesimple.com/",
+    "description": "Revise IGCSE and A Level business with video lessons (freemium).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "Whitaker's Words",
+    "url": "https://latin-words.com",
+    "description": "Look up Latin words and see their forms and meanings (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "History of Philosophy without any gaps",
+    "url": "https://historyofphilosophy.net",
+    "description": "Follow philosophy's history through a long-running podcast (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "ReligionFacts",
+    "url": "https://religionfacts.com",
+    "description": "Compare world religions with neutral overviews and glossaries (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "Global Issues",
+    "url": "https://www.globalissues.org",
+    "description": "Read in-depth articles on poverty, conflict, and global affairs (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "Legal Information Institute",
+    "url": "https://www.law.cornell.edu",
+    "description": "Read US law and the Wex legal encyclopedia (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "Our World in Data",
+    "url": "https://ourworldindata.org",
+    "description": "Explore interactive charts on population, climate, and development (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "USDA FoodData Central",
+    "url": "https://fdc.nal.usda.gov",
+    "description": "Look up the nutrient content of thousands of foods (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "Study Rocket",
+    "url": "https://studyrocket.co.uk/revision/a-level-physical-education-ocr",
+    "description": "Revise A Level PE topics with free notes (free, paid app).",
+    "section": "By Subject",
+    "subsection": "Physical Education"
+  },
+  {
+    "name": "Science for Sport",
+    "url": "https://www.scienceforsport.com",
+    "description": "Study sports science through articles and courses (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "IGCSE Grade Calculator",
+    "url": "https://igcsegradecalc.site/",
+    "description": "Convert raw marks into weighted grades using official CAIE and Edexcel thresholds (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "A Level Grade Calculator",
+    "url": "https://igcsegradecalc.site/a-level-grade-calculator.html",
+    "description": "Convert raw marks into weighted grades using official CAIE and Edexcel thresholds (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  }
+]
