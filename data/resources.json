@@ -2562,6 +2562,13 @@
     "subsection": null
   },
   {
+    "name": "StudyDaily",
+    "url": "https://www.studydaily.app/en",
+    "description": "Spaced-repetition flashcards that import Anki decks with review history (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
     "name": "StudyLoop",
     "url": "https://studyloop-liard.vercel.app",
     "description": "Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).",
