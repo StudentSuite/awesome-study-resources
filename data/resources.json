@@ -4044,5 +4044,19 @@
     "description": "Study sports science through articles and courses (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "FocusTimerProBot",
+    "url": "https://t.me/FocusTimerProBot",
+    "description": "Pomodoro-style focus sessions with break reminders and streak stats, in Telegram (free).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+  },
+  {
+    "name": "CountdownDaysBot",
+    "url": "https://t.me/CountdownDaysBot",
+    "description": "Counts down the days to exams and deadlines, in Telegram (free).",
+    "section": "Task, Time & Planning",
+    "subsection": null
   }
 ]
