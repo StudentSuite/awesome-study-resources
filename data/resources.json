@@ -4044,5 +4044,12 @@
     "description": "Study sports science through articles and courses (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "InfinityMock",
+    "url": "https://infinitymock.com",
+    "description": "AI-generated SAT mock tests with instant scoring (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
   }
 ]
