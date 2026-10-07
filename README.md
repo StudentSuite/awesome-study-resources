@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-578-blue)
+![Resources](https://img.shields.io/badge/resources-579-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 359 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 13 |
-| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
+| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 10 |
@@ -984,6 +984,7 @@ Plan the week, protect the deadlines.
 <details open>
 <summary>Show resources</summary>
 
+- **[CalcAttendance](https://calcattendance.com/)** - See how many classes you can safely miss (free).
 - **[Dopastep](https://dopastep.com/)** - Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).
 - **[Focusmate](https://www.focusmate.com/)** - Study alongside a partner in live virtual coworking sessions (freemium).
 - **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere (free).
