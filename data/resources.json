@@ -4044,5 +4044,12 @@
     "description": "Study sports science through articles and courses (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "CalcAttendance",
+    "url": "https://calcattendance.com/",
+    "description": "See how many classes you can safely miss (free).",
+    "section": "Task, Time & Planning",
+    "subsection": null
   }
 ]
