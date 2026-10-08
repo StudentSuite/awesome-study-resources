@@ -40,7 +40,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
-| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 10 |
+| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 11 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 18 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 10 |
@@ -1052,6 +1052,7 @@ Graph, compute, and sketch ideas.
 <details open>
 <summary>Show resources</summary>
 
+- **[Covalent](https://chempirical.com/covalent/)** - Draw chemical structures that are checked as you draw (free).
 - **[Desmos](https://www.desmos.com)** - Free graphing calculator and classroom activities (free).
 - **[diagrams.net](https://www.drawio.com)** - Free, open-source flowchart and diagram editor (free).
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source hand-drawn-style diagrams (free).
