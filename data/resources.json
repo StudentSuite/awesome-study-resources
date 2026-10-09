@@ -4058,5 +4058,12 @@
     "description": "See how many classes you can safely miss (free).",
     "section": "Task, Time & Planning",
     "subsection": null
+  },
+  {
+    "name": "LevlPrep",
+    "url": "https://levlprep.com",
+    "description": "Interactive organic chemistry mechanisms and AP Chemistry lessons with free notes (freemium).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
   }
 ]
