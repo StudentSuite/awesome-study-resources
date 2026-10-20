@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-628-blue)
+![Resources](https://img.shields.io/badge/resources-629-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 387 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
@@ -249,6 +249,7 @@ Official and community prep for the big exams and curricula.
 - **[College Board SAT Suite](https://satsuite.collegeboard.org/sat)** - The official overview, dates, registration, and score info for the SAT (free).
 - **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board (free).
 - **[Magoosh SAT](https://sat.magoosh.com)** - Video lessons and practice questions for the Digital SAT (freemium).
+- **[PeakSAT Educator Toolkit](https://www.peaksat.com/resources/educator-toolkit)** - Practice SAT algebra and grammar with explained answers (free).
 - **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT (free).
 - **[The Princeton Review SAT](https://www.princetonreview.com/college/free-digitalsat-practice-test)** - Free full-length Digital SAT practice test with a score report (freemium).
 - **[UWorld SAT](https://collegeprep.uworld.com/sat/)** - Large question bank with detailed explanations (paid).
