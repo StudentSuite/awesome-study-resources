@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-627-blue)
+![Resources](https://img.shields.io/badge/resources-628-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 386 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 387 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -364,6 +364,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmf3cdm)** - Covers GCSE chemistry topics with revision guides and quizzes (free).
 - **[Chemguide](https://www.chemguide.co.uk)** - Focused explanations for UK A-Level and IGCSE chemistry (free).
 - **[Chemistry LibreTexts](https://chem.libretexts.org)** - Free, open chemistry textbooks and reference material (free).
+- **[Chempirical](https://chempirical.com/)** - Balance equations, solve stoichiometry and calculate pH step by step (free).
 - **[ChemTube3D](https://www.chemtube3d.com)** - Watch interactive 3D animations of reaction mechanisms and structures (free).
 - **[Compound Interest](https://www.compoundchem.com)** - Free downloadable infographics explaining everyday and exam chemistry concepts (free).
 - **[Khan Academy Chemistry](https://www.khanacademy.org/science/chemistry)** - Free lessons and practice across the chemistry syllabus (free).
