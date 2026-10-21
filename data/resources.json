@@ -4408,5 +4408,12 @@
     "description": "Type by voice in any text box, with speech recognized in your browser (free).",
     "section": "Writing, Citations & Reference",
     "subsection": null
+  },
+  {
+    "name": "Kotonoha",
+    "url": "https://japaneseskills.com/en/",
+    "description": "Study JLPT Japanese vocabulary, grammar and reading, with paid N4-N2 practice (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
   }
 ]

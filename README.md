@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-629-blue)
+![Resources](https://img.shields.io/badge/resources-631-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 387 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 388 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 16 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -530,6 +530,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Forvo](https://forvo.com/)** - Pronunciation dictionary with native-speaker audio across many languages (freemium).
 - **[HelloTalk](https://www.hellotalk.com/)** - Practice real conversations by chatting with native speakers worldwide (freemium).
 - **[italki](https://www.italki.com)** - Book 1-on-1 sessions with language tutors worldwide (paid).
+- **[Kotonoha](https://japaneseskills.com/en/)** - Study JLPT Japanese vocabulary, grammar and reading, with paid N4-N2 practice (freemium).
 - **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
 - **[LingQ](https://www.lingq.com)** - Teaches vocabulary in context by reading and listening to real texts (freemium).
 - **[Memrise](https://www.memrise.com)** - Vocabulary and listening practice with native-speaker videos (freemium).
