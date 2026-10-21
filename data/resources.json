@@ -2478,6 +2478,13 @@
     "subsection": "Dance"
   },
   {
+    "name": "Helicon",
+    "url": "https://helicon.pages.dev/?tag=gh-study",
+    "description": "Read PDFs and EPUBs on iPad with margin notes (free).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
     "name": "Joplin",
     "url": "https://joplinapp.org/",
     "description": "Free, open-source markdown notes with sync and encryption (free, open source).",
