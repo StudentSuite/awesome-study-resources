@@ -1,0 +1,1256 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-lockup-dark.svg">
+  <img src="./logo-lockup.svg" alt="Awesome Study Resources" width="460">
+</picture>
+
+# Awesome Study Resources
+
+**A curated list of the best exam prep, subject-study, and learning-tool resources for students.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+![Resources](https://img.shields.io/badge/resources-631-blue)
+![Sections](https://img.shields.io/badge/sections-11-purple)
+[![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
+
+</div>
+
+---
+
+This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else, not to something hosted here. IB, IGCSE, SAT, and any student anywhere: add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+This list covers exam, curriculum, and subject-specific study material. [Awesome Student Resources](https://github.com/StudentSuite/awesome-student-resources) covers life around school instead: discounts, money, career prep, and wellbeing. They stay separate because the coursework itself and the logistics of being a student call for different resources, and splitting keeps each list focused enough to be useful.
+
+> Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
+>
+> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-study-resources/issues/new/choose) &middot; [Ask a question](https://github.com/StudentSuite/awesome-study-resources/discussions) &middot; [Changelog](CHANGELOG.md)
+
+---
+
+## Table of Contents
+
+| | Section | Resources |
+| :-: | --- | :-: |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 388 |
+| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
+| <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 16 |
+| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
+| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 12 |
+| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
+| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 12 |
+| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 20 |
+| <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
+| <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 10 |
+
+[More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
+
+---
+
+## Exam & Curriculum Prep
+
+Official and community prep for the big exams and curricula.
+
+### A-Level
+
+<details open>
+<summary>Show resources</summary>
+
+- **[A Level Physics Online](https://www.alevelphysicsonline.com/)** - Free A-Level Physics revision notes with worked explanations and past paper guidance (free).
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core A-Level subject (free).
+- **[Chemguide](https://www.chemguide.co.uk)** - Explains A-Level chemistry topics clearly with worked examples (free).
+- **[Get Revising](https://getrevising.co.uk)** - Free revision timetables, flashcards, and a shared notes library (free).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects (free).
+- **[Revision Science](https://revisionscience.com)** - Free GCSE and A-Level science revision notes, videos, and past papers (free).
+- **[Revision World](https://revisionworld.com/a2-level-level-revision)** - Free A-Level revision guides, past papers, and quizzes across many subjects (free).
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
+- **[Study Haven](https://studyhaven.org/)** - Free Custom Past Papers for A-Levels and IGCSE (freemium).
+- **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific A-Level and GCSE revision content (free).
+- **[ZNotes](https://znotes.org)** - Offers free student-made notes and past papers for A-Level (free).
+
+</details>
+
+### ACT
+
+<details open>
+<summary>Show resources</summary>
+
+- **[ACT Score Calculator](https://actscorecalculators.com/)** - Convert ACT practice-test answers into scores and percentiles (free).
+- **[ACT.org](https://www.act.org)** - The official test maker's free study guide and full-length practice test (free).
+- **[Kaplan ACT](https://www.kaptest.com/act/free/act-free-practice-test)** - Free official-question practice test with a score report (free).
+- **[Larry Learns](https://www.larrylearns.com/blog/act-practice-test-free)** - Free ACT practice tests, study plans, and answer explanations (free).
+- **[Magoosh ACT](https://act.magoosh.com)** - Video lessons and practice questions for every ACT section (freemium).
+- **[Mometrix ACT](https://www.mometrix.com/academy/act-test/)** - Offers an ACT test guide and free practice questions (freemium).
+- **[PrepScholar ACT](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the ACT (free).
+- **[The Princeton Review ACT](https://www.princetonreview.com/college/act-test-prep)** - Free practice test with a detailed score report and strategy sessions (freemium).
+- **[Union Test Prep](https://uniontestprep.com/act)** - Free ACT practice tests, study guides, and flashcards (free).
+- **[UWorld ACT](https://collegeprep.uworld.com/act/)** - Large question bank with detailed explanations (paid).
+
+</details>
+
+### AP
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Albert.io](https://www.albert.io)** - Standards-aligned practice questions across every AP subject (freemium).
+- **[AP Central](https://apcentral.collegeboard.org)** - Browse official AP course descriptions, exam formats, and past free-response questions (free).
+- **[AP Classroom](https://apclassroom.collegeboard.org)** - The official College Board platform for AP progress checks and practice (free).
+- **[AP Practice Exams](https://www.appracticeexams.com/)** - Directory of free AP practice exams, notes, and study guides by subject (free).
+- **[AP Review Hub](https://www.apreviewhub.com/)** - Free flashcards, cheat sheets, and FRQ practice for every AP subject (free).
+- **[AP Students](https://apstudents.collegeboard.org)** - The official College Board hub for AP course info and exam details (free).
+- **[Brainscape AP](https://www.brainscape.com/subjects/entrance-exams/ap-exams)** - Adaptive flashcards for every AP subject (freemium).
+- **[Fiveable](https://fiveable.me)** - Free study guides, practice questions, and exam-day reviews for all 38 AP subjects (freemium).
+- **[Free AP Practice](https://freeappractice.org/)** - Free, unlimited AP practice questions with instant feedback across 20+ subjects (free).
+- **[Knowt](https://knowt.com/exams/AP)** - Free student-written study guides and flashcards by AP subject and unit (freemium).
+
+</details>
+
+### AP Computer Science
+
+<details open>
+<summary>Show resources</summary>
+
+- **[AP Central: Computer Science A](https://apcentral.collegeboard.org/courses/ap-computer-science-a)** - The official College Board course, exam, and exam description for AP CSA (free).
+- **[AP Central: Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)** - Review the official AP CSP course framework and exam details (free).
+- **[APCSExamPrep](https://www.apcsexamprep.com/pages/ap-csa-free-textbook)** - Free online AP CSA unit textbook with built-in exercises and a Java editor (free).
+- **[Code.org](https://code.org/en-US/curriculum/computer-science-principles)** - Free, official AP CSP curriculum with lesson plans and practice (free).
+- **[CodeHS](https://codehs.com)** - College Board-endorsed AP CSA and CSP curriculum, usually licensed through schools (paid).
+- **[CodingBat](https://codingbat.com/java)** - Free Java practice problems, including a set based on past AP CSA free-response questions (free).
+- **[CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html)** - Free, open Java textbook and practice for the AP CSA exam (free).
+- **[Fiveable AP Computer Science](https://fiveable.me/ap-comp-sci-a)** - Free study guides, practice questions, and FRQ prep for AP CSA (freemium).
+- **[Khan Academy AP Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)** - Free lessons and practice for the AP CSP exam (free).
+- **[Knowt](https://knowt.com/exams/AP/AP-Computer-Science-A)** - Free student-written study guides, flashcards, and FRQ practice for AP CSA (freemium).
+
+</details>
+
+### CAS
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CollegeVine](https://blog.collegevine.com/guide-to-ib-cas)** - Free guide to CAS strands, hours, and the reflection process (free).
+- **[DoSomething](https://www.dosomething.org/)** - Find youth service actions to log as CAS service hours (free).
+- **[IB Creativity, Activity, Service](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/creativity-activity-and-service/)** - The IB's official overview of CAS and its seven learning outcomes (free).
+- **[Idealist](https://www.idealist.org)** - Find local volunteering opportunities for CAS service hours (free).
+- **[Lanterna Education](https://lanterna.com/resources/the-basics-of-ib-cas)** - Free guide to CAS experiences, the project, and reflections (free).
+- **[Nail IB](https://nailib.com/blog/ib-cas-hours-ideas)** - Free list of CAS hours ideas across the Creativity, Activity, and Service strands (free).
+- **[Rustic Pathways](https://rusticpathways.com/educational-travel/cas-project-ideas)** - Free list of 100+ CAS project ideas across all three strands (free).
+- **[Save My Exams](https://www.savemyexams.com/learning-hub/useful-resources/ib-cas-ideas/)** - Lists CAS project and experience ideas across the three strands (freemium).
+- **[Structural Learning](https://www.structural-learning.com/post/ib-cas-ideas-and-examples)** - Offers 30 CAS project ideas by strand plus a free planner (freemium).
+- **[TutorChase](https://www.tutorchase.com/blog/ib-cas-creativity-activity-service-a-complete-guide)** - Free end-to-end guide to planning and documenting CAS (free).
+- **[TutorsPlus](https://tutorsplus.com/the-ultimate-guide-to-ib-cas-requirements-expectations-and-tips-for-success/)** - Free guide to CAS requirements, learning outcomes, and project tips (free).
+
+</details>
+
+### Extended Essay
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Clastify](https://www.clastify.com/blog/ib-extended-essay-guide)** - Searchable bank of grade-A Extended Essay exemplars across subjects (freemium).
+- **[CollegeVine](https://blog.collegevine.com/ib-extended-essay-topic)** - Free guide to choosing and narrowing an IB Extended Essay topic (free).
+- **[Extended Essay Planner](https://aldevere.com/tools/extended-essay-planner/)** - Free tool that turns a vague EE idea into a focused research question (free).
+- **[IB Extended Essay](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/)** - The IB's official overview of the Extended Essay requirements and process (free).
+- **[Lanterna Education](https://lanterna.com/resources/ib-extended-essay-ee-guide)** - Free guide to choosing a topic and structuring an Extended Essay (free).
+- **[Lanterna EE Topic Planner](https://lanterna.com/resources/ee-topic-planner-2026)** - Brainstorm interests and shape a research question with a planner (free).
+- **[Nail IB](https://nailib.com/ee-sample)** - Shares 70+ real IB Extended Essay examples for reference (free).
+- **[PrepScholar EE](https://blog.prepscholar.com/complete-guide-to-ib-extended-essay-tips-grading-guideline-and-sample-essays)** - Free guide covering EE grading, structure, and sample essays (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ee-guides)** - Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).
+- **[TutorChase](https://www.tutorchase.com/blog/ib-extended-essay-a-complete-guide)** - Free guide to topic selection, research, and structuring the Extended Essay (free).
+
+</details>
+
+### GCSE
+
+<details open>
+<summary>Show resources</summary>
+
+- **[AQA](https://www.aqa.org.uk)** - Find official GCSE specifications, past papers, and mark schemes (free).
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core GCSE subject (free).
+- **[Cognito](https://cognito.org/)** - Free video lessons, notes, and past papers for GCSE maths and science (free).
+- **[Mr Bruff](https://www.youtube.com/@mrbruff)** - Free video walkthroughs for GCSE English Language and Literature (free).
+- **[Oak National Academy](https://www.thenational.academy)** - Free, government-backed GCSE lessons and revision across every exam board (free).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and revision notes across GCSE subjects (free).
+- **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across GCSE subjects (free).
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive revision across every core GCSE subject (freemium).
+- **[SimpleStudy](https://simplestudy.com/gb/gcse)** - Covers GCSE notes, flashcards, quizzes, and past papers by subject (freemium).
+
+</details>
+
+### IB (IBDP)
+
+<details open>
+<summary>Show resources</summary>
+
+- **[IB Doctor Command Terms](https://ibdoctor.co.uk/resources/command-terms)** - Explains what each IB command term asks for (free).
+- **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources (free).
+- **[iBacalao](https://www.ibacalao.com)** - Reviews IA, EE, and TOK drafts criterion by criterion (freemium).
+- **[MyRevisionAgent](https://myrevisionagent.com)** - Grades TOK essays, Extended Essays, and IAs against official IB rubrics (freemium).
+- **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
+- **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus (freemium).
+- **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus (freemium).
+- **[Sirius Revision](https://www.siriusrevision.com)** - Intensive online and in-person revision courses for the IB Diploma (paid).
+- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus (freemium).
+- **[Tutopiya IB Diploma](https://www.tutopiya.com/study-resources/ib-dp/)** - Read topic notes and try practice questions by subject (freemium).
+- **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects (free).
+
+</details>
+
+### IGCSE
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
+- **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
+- **[CtrlAltRevise Pseudocode Practice](https://www.ctrlaltrevise.com/pseudocode-practice?utm_source=directory&utm_medium=referral&utm_campaign=s260906_gcse_directory)** - Practise 0478/0984 pseudocode with original exercises and answers (free).
+- **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes (free).
+- **[PapaCambridge](https://pastpapers.papacambridge.com/)** - Free Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).
+- **[Past Papers Academy](https://pastpapersacademy.com/)** - Free Cambridge IGCSE past papers, topical questions, and revision notes (free).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects (free).
+- **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across IGCSE and GCSE subjects (free).
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
+- **[ZNotes](https://znotes.org)** - Free community-written summary notes for Cambridge and Edexcel (free).
+
+</details>
+
+### PSAT
+
+<details open>
+<summary>Show resources</summary>
+
+- **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests (free).
+- **[College Board PSAT/NMSQT](https://satsuite.collegeboard.org/psat-nmsqt)** - The official overview, dates, and score info for the PSAT/NMSQT (free).
+- **[High School Test Prep](https://highschooltestprep.com/psat/)** - Free PSAT practice tests with detailed answer explanations by section (free).
+- **[Kaplan PSAT](https://www.kaptest.com/psat/free/psat-practice)** - Free PSAT practice quizzes and live cram sessions from a major test-prep company (free).
+- **[Khan Academy PSAT Practice](https://www.khanacademy.org/digital-sat)** - Free official practice built with College Board, aligned to the PSAT (free).
+- **[Mometrix PSAT](https://www.mometrix.com/academy/psat-practice-test/)** - Free PSAT practice tests, study guides, and flashcards by subject (freemium).
+- **[PrepScholar PSAT](https://www.prepscholar.com/psat-test-prep/)** - Free study guides, practice tests, and score strategies for the PSAT (free).
+- **[The Princeton Review PSAT](https://www.princetonreview.com/college/free-digitalpsat-practice-test)** - Free full-length Digital PSAT practice test with a score report (freemium).
+- **[Union Test Prep](https://uniontestprep.com/psat-nmsqt-exam)** - Free PSAT/NMSQT practice tests, study guides, and flashcards (free).
+- **[UWorld PSAT](https://collegeprep.uworld.com/psat/)** - Practice PSAT questions with detailed answer explanations (freemium).
+- **[Varsity Tutors PSAT](https://www.varsitytutors.com/psat-practice-tests)** - Practice PSAT questions with a free study plan (freemium).
+
+</details>
+
+### SAT
+
+<details open>
+<summary>Show resources</summary>
+
+- **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores (paid).
+- **[1600.now](https://1600.now/)** - Practice SAT questions and timed tests with answer explanations (free).
+- **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests (free).
+- **[College Board SAT Practice](https://satsuite.collegeboard.org/practice)** - Take official SAT practice tests and review sample questions (free).
+- **[College Board SAT Suite](https://satsuite.collegeboard.org/sat)** - The official overview, dates, registration, and score info for the SAT (free).
+- **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board (free).
+- **[Magoosh SAT](https://sat.magoosh.com)** - Video lessons and practice questions for the Digital SAT (freemium).
+- **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT (free).
+- **[The Princeton Review SAT](https://www.princetonreview.com/college/free-digitalsat-practice-test)** - Free full-length Digital SAT practice test with a score report (freemium).
+- **[UWorld SAT](https://collegeprep.uworld.com/sat/)** - Large question bank with detailed explanations (paid).
+
+</details>
+
+### Theory of Knowledge
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Clastify](https://www.clastify.com/tok)** - Searchable bank of grade-A TOK essay and exhibition exemplars (freemium).
+- **[IB Theory of Knowledge](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/theory-of-knowledge/)** - The IB's official overview of the TOK course, essay, and exhibition (free).
+- **[Lanterna Education](https://lanterna.com/resources/master-ib-tok-guide)** - Free guide to TOK's exhibition, essay, and areas of knowledge (free).
+- **[Nail IB](https://nailib.com/ib-resources/theory-of-knowledge)** - Free videos and notes covering TOK knowledge questions and themes (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-theory-of-knowledge-tok)** - Notes, flashcards, and a question bank for IB Theory of Knowledge (freemium).
+- **[Save My Exams Theory of Knowledge](https://www.savemyexams.com/dp/core/ib/theory-of-knowledge/20/)** - Read ToK revision notes, including essay prescribed titles (freemium).
+- **[Theory of Knowledge](https://theoryofknowledge.net)** - Free video explainers and guides for the TOK essay and exhibition (freemium).
+- **[TOK Resource](https://www.tokresource.org)** - Free, non-commercial TOK concepts, prompts, and lesson ideas (free).
+- **[ToK Today](https://www.toktoday.com/)** - Offers TOK essay and exhibition guidance, videos, and coaching (freemium).
+- **[TutorChase](https://www.tutorchase.com/notes/ib/tok)** - Free notes covering TOK themes, knowledge questions, and areas of knowledge (free).
+
+</details>
+
+---
+
+## By Subject
+
+Flagship picks per subject: mix a strong site, a channel, and a practice tool.
+
+### Mathematics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[3Blue1Brown](https://www.3blue1brown.com)** - Visual, intuition-first explanations of hard math ideas (free).
+- **[Art of Problem Solving](https://artofproblemsolving.com/)** - Free adaptive practice, wiki, and forums for competition and advanced math (freemium).
+- **[Brilliant](https://brilliant.org)** - Interactive courses that build intuition through problem solving (freemium).
+- **[Calculator Campus](https://www.calculatorcampus.com/)** - Use free practical calculators with formulas, examples, and named sources.
+- **[Corbettmaths](https://corbettmaths.com/)** - Free Maths questions, worksheets, and videos by GCSE and A-Level topic (free).
+- **[Desmos](https://www.desmos.com)** - Free graphing and geometry calculators for exploring functions (free).
+- **[GeoGebra](https://www.geogebra.org)** - Graph functions and explore geometry with interactive tools (free).
+- **[Khan Academy](https://www.khanacademy.org/math)** - Free video lessons and practice exercises across all math levels (free).
+- **[Libre Calculator](https://librecalculator.com/)** - Explore free, open-source calculators with worked steps, diagrams, and lessons.
+- **[Mathigon](https://mathigon.org)** - Explore maths through interactive courses and the Polypad tool (free).
+- **[MathsGenie](https://mathsgenie.co.uk/)** - Free GCSE and A-Level Maths videos, worksheets, and past papers by topic (freemium).
+- **[Paul's Online Math Notes](https://tutorial.math.lamar.edu)** - Free, thorough notes and examples from algebra to differential equations (free).
+
+</details>
+
+### Statistics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Crash Course Statistics](https://thecrashcourse.com/courses/statistics/)** - A 44-episode video series covering statistics from basics to modeling (free).
+- **[Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)** - Free lessons and practice across statistics and probability (free).
+- **[Online Statistics Education](https://onlinestatbook.com)** - Read a free interactive statistics textbook with simulations.
+- **[OpenIntro Statistics](https://www.openintro.org/book/os/)** - Free, open-source statistics textbook used by universities worldwide (free).
+- **[Seeing Theory](https://seeing-theory.brown.edu/)** - Interactive visualisations of probability, distributions, and hypothesis tests (free).
+- **[Stat Trek](https://stattrek.com)** - Free tutorials, calculators, and video lessons for AP Statistics (free).
+- **[Statistics Calculator](https://nutilz.com/statistics-calculator)** - Free calculator for mean, median, mode, standard deviation, and quartiles (free).
+- **[Statistics LibreTexts](https://stats.libretexts.org)** - Free, open statistics textbooks and reference material (free).
+- **[StatisticsHowTo](https://www.statisticshowto.com)** - Free explanations, formulas, and calculators for statistics terms and tests (free).
+- **[Statology](https://www.statology.org)** - Learn statistics with plain-language tutorials and worked examples (free).
+- **[StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)** - Clear, visual explanations of statistics and machine learning concepts (free).
+
+</details>
+
+### Further Mathematics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Dr Frost Maths](https://www.drfrost.org)** - Provides further maths questions, videos, and auto-marked worksheets (freemium).
+- **[ExamSolutions](https://www.examsolutions.net)** - Video tutorials covering A-Level Maths and Further Maths topics (free).
+- **[Further Mathematics Support Programme](https://furthermaths.org.uk)** - Resources and videos supporting A-Level Further Maths students (free).
+- **[MathsGenie](https://mathsgenie.co.uk/a-level/further-maths)** - Free A-Level Further Maths past papers, mark schemes, and video solutions by exam board (freemium).
+- **[MEI](https://mei.org.uk)** - UK charity with free courses and problem sets supporting Further Maths students (free).
+- **[NRICH](https://nrich.maths.org)** - Stretch problem-solving with Cambridge's rich maths problems (free).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com/maths-revision/further-core-pure/)** - Free past papers, worksheets, and topic notes for A-Level Further Maths (free).
+- **[Revision Village](https://www.revisionvillage.com)** - Video lessons and past papers for IB Math AA/AI HL (freemium).
+- **[Save My Exams Further Maths](https://www.savemyexams.com/a-level/further-maths/)** - Revise A-Level Further Maths with notes and past papers (freemium).
+- **[STEP Support Programme](https://step.maths.org/)** - Free Cambridge-built modules and worked solutions for advanced problem-solving beyond Further Maths (free).
+- **[Underground Mathematics](https://undergroundmathematics.org/)** - Free, University of Cambridge resources linking A-Level and Further Maths topics (free).
+
+</details>
+
+### Physics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics (free).
+- **[HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
+- **[Isaac Physics](https://isaacscience.org)** - Free, problem-based physics learning platform built by the University of Cambridge (free).
+- **[Khan Academy Physics](https://www.khanacademy.org/science/physics)** - Free lessons and practice across the physics syllabus (free).
+- **[MinutePhysics](https://www.youtube.com/@minutephysics)** - Short animated videos explaining physics concepts clearly and concisely (free).
+- **[OpenStax Physics](https://openstax.org/details/books/physics)** - Read a free peer-reviewed physics textbook with practice problems.
+- **[PhET Simulations](https://phet.colorado.edu)** - Free interactive sims for physics, chemistry, and math (free).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com/physics-revision/)** - Free revision notes, topic questions, and past papers by exam board (free).
+- **[Physics LibreTexts](https://phys.libretexts.org)** - Read open-access physics textbooks from mechanics to quantum (free).
+- **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - The classic lectures, free to read online (free).
+- **[The Physics Classroom](https://www.physicsclassroom.com/)** - Free tutorials and practice covering forces, motion, waves, and electricity (freemium).
+
+</details>
+
+### Chemistry
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmf3cdm)** - Covers GCSE chemistry topics with revision guides and quizzes (free).
+- **[Chemguide](https://www.chemguide.co.uk)** - Focused explanations for UK A-Level and IGCSE chemistry (free).
+- **[Chemistry LibreTexts](https://chem.libretexts.org)** - Free, open chemistry textbooks and reference material (free).
+- **[Chempirical](https://chempirical.com/)** - Balance equations, solve stoichiometry and calculate pH step by step (free).
+- **[ChemTube3D](https://www.chemtube3d.com)** - Watch interactive 3D animations of reaction mechanisms and structures (free).
+- **[Compound Interest](https://www.compoundchem.com)** - Free downloadable infographics explaining everyday and exam chemistry concepts (free).
+- **[Khan Academy Chemistry](https://www.khanacademy.org/science/chemistry)** - Free lessons and practice across the chemistry syllabus (free).
+- **[LevlPrep](https://levlprep.com)** - Interactive organic chemistry mechanisms and AP Chemistry lessons with free notes (freemium).
+- **[Master Organic Chemistry](https://www.masterorganicchemistry.com)** - Clear guides and cheat sheets for organic chemistry (freemium).
+- **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring reactions, atoms, and molecules (free).
+- **[Royal Society of Chemistry](https://edu.rsc.org)** - Shares chemistry lesson resources, practicals, and exam support (free).
+- **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Step-by-step worked problems across chemistry and beyond (freemium).
+
+</details>
+
+### Biology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Amoeba Sisters](https://www.amoebasisters.com)** - Friendly animations and handouts for core biology topics (free).
+- **[Biology LibreTexts](https://bio.libretexts.org)** - Free, open biology textbooks and references (free).
+- **[BioNinja](https://www.bioninja.com.au)** - Visual notes, diagrams, and quizzes built for IB and A-Level biology (free).
+- **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across biology and the sciences (free).
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory biology video series (free).
+- **[HHMI BioInteractive](https://www.biointeractive.org/)** - Free videos, animations, and interactives on genetics, evolution, and ecology (free).
+- **[Khan Academy Biology](https://www.khanacademy.org/science/biology)** - Free lessons and practice across the biology syllabus (free).
+- **[Learn.Genetics](https://learn.genetics.utah.edu/)** - Free interactive lessons and virtual labs on genetics and molecular biology (free).
+- **[OpenStax Biology 2e](https://openstax.org/details/books/biology-2e)** - Read a free peer-reviewed biology textbook online or as PDF.
+- **[Random Animal Picker](https://randomanimalpicker.com/)** - Explore real animals with photos, facts, and source links (free).
+- **[The Biology Corner](https://www.biologycorner.com)** - Practise biology topics with worksheets, labs, and study guides (free).
+
+</details>
+
+### Computer Science
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures (free).
+- **[Codedex](https://www.codedex.io)** - Gamified, beginner-friendly coding lessons (freemium).
+- **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms (free).
+- **[Craig 'n' Dave](https://craigndave.org/)** - Ad-free videos covering the full GCSE and A-Level Computer Science specs (freemium).
+- **[CS50x](https://cs50.harvard.edu/x/)** - Learn computer science foundations in Harvard's course (free, certificate paid).
+- **[Firebase](https://firebase.google.com)** - Google backend for building apps quickly (freemium).
+- **[GeeksforGeeks](https://www.geeksforgeeks.org)** - Explains CS fundamentals, data structures, and algorithms with practice problems (freemium).
+- **[Khan Academy Computer Science](https://www.khanacademy.org/computing)** - Free lessons and practice across intro programming, SQL, and computer science (free).
+- **[Nand2Tetris](https://www.nand2tetris.org)** - Build a computer from logic gates to software (free).
+- **[The Algorithms](https://the-algorithms.com/)** - Open-source, documented algorithm implementations across many languages (free, open source).
+- **[VisuAlgo](https://visualgo.net)** - Visualizes data structures and algorithms through interactive animations (free).
+
+</details>
+
+### Design Technology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zykw2hv)** - Free curriculum-aligned revision guides for GCSE Design and Technology (free).
+- **[Clastify](https://www.clastify.com/notes/design-technology)** - Searchable IB Design Technology notes filtered by grade and level (freemium).
+- **[Design Museum](https://designmuseum.org/)** - Explores design history, objects, and learning resources (free).
+- **[DTBase](https://designandtechbase.com/)** - Free GCSE and A-Level Design and Technology notes and past papers (freemium).
+- **[IB Guides](https://ibguides.com/design-technology/home/)** - Free Design Technology syllabus objectives, unit guides, and videos (free).
+- **[Knowt](https://knowt.com/exams/IB/IB-Design-Technology-(HL))** - Free student-written study guides and flashcards for IB Design Technology, by unit (freemium).
+- **[Lanterna Education](https://lanterna.com/resources/ib-design-tech-ia)** - Free guide to the IB Design Technology internal assessment's design cycle (free).
+- **[Nail IB](https://nailib.com/blog/ib-design-technology-ia)** - Free guide to the IB Design Technology internal assessment (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-design-technology)** - Notes, flashcards, and a question bank for IB Design Technology (freemium).
+- **[StudyIB](https://studyib.net/designtechnology)** - Concise revision notes and explanations across the Design Technology syllabus (freemium).
+
+</details>
+
+### ITGS
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Clastify](https://www.clastify.com/notes/itgs)** - Searchable IB ITGS notes filtered by grade, level, and exam session (freemium).
+- **[DataReportal](https://datareportal.com/)** - Free country reports on internet, social media, and technology use (free).
+- **[IB Guides](https://ibguides.com/itgs/home/)** - Free ITGS syllabus objectives, unit guides, and videos (free).
+- **[Nail IB](https://nailib.com/blog/ib-itgs)** - Free overview of the ITGS course, its IA, and whether it fits you (free).
+- **[Pew Research Center](https://www.pewresearch.org/internet/)** - Free, nonpartisan research and data on technology's impact on society (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-itgs)** - Notes, flashcards, and a question bank for IB ITGS (freemium).
+- **[StudyIB](https://studyib.net/itgs)** - Concise revision notes and explanations across the ITGS syllabus (freemium).
+
+</details>
+
+### Economics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CORE Econ](https://www.core-econ.org)** - Free, modern economics textbook used worldwide (free).
+- **[EconEdLink](https://econedlink.org/)** - Free lessons, videos, and interactive tools on economics and personal finance (free).
+- **[Economics Academy](https://economicsacademy.co.uk/)** - Free A-Level economics notes, flashcards, practice questions, and past papers (free).
+- **[Economics Help](https://www.economicshelp.org)** - Revision notes and blog posts covering micro and macroeconomics topics (freemium).
+- **[Economics Online](https://www.economicsonline.co.uk)** - Revise economics concepts with clear articles and diagrams (free).
+- **[EconplusDal](https://www.youtube.com/@EconplusDal)** - Exam-focused economics tutorials for A-Level and IB (free).
+- **[Khan Academy](https://www.khanacademy.org/economics-finance-domain)** - Free video lessons and practice exercises on micro and macroeconomics (free).
+- **[Marginal Revolution University](https://mru.org)** - Free economics videos from working economists (free).
+- **[Primate economics](https://www.youtube.com/@Primateeconomics)** - Basics of Economic theories explained in a comedic manner (free).
+- **[tutor2u](https://www.tutor2u.net)** - Notes, revision, and exam support for economics and business (freemium).
+
+</details>
+
+### Accounting
+
+<details open>
+<summary>Show resources</summary>
+
+- **[AccountingCoach](https://www.accountingcoach.com)** - Free explanations, quizzes, and flashcards across core accounting topics (freemium).
+- **[AccountingVerse](https://www.accountingverse.com)** - Free tutorials covering bookkeeping, financial statements, and accounting theory (free).
+- **[Bean Counter](https://www.dwmbeancounter.com/)** - Free bookkeeping and accounting courses, tutorials, and videos for beginners (free).
+- **[Corporate Finance Institute](https://courses.corporatefinanceinstitute.com/bundles/free-finance-accounting-courses/)** - Free accounting and finance fundamentals courses, certificates cost extra (freemium).
+- **[Double Entry Bookkeeping](https://www.double-entry-bookkeeping.com/)** - Free tutorials, examples, and quizzes on bookkeeping and accounting basics (free).
+- **[IGCSE Accounts](https://www.igcseaccounts.com)** - Free Cambridge IGCSE Accounting past paper questions, mark schemes, and revision notes (free).
+- **[Khan Academy Accounting and Financial Statements](https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-statement)** - Free lessons on financial statements and core accounting concepts (free).
+- **[My Accounting Course](https://www.myaccountingcourse.com/)** - Free accounting dictionary, tutorials, and quizzes covering core concepts (freemium).
+- **[OpenStax Principles of Accounting](https://openstax.org/details/books/principles-financial-accounting)** - Read a full financial accounting textbook online (free).
+- **[Save My Exams](https://www.savemyexams.com/subjects/accounting/)** - Revision notes, topic questions, and past papers for IGCSE and A-Level Accounting (freemium).
+
+</details>
+
+### Business Studies
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zjnygk7)** - Covers GCSE business studies topics with revision guides and quizzes (free).
+- **[BizEdMadeSimple](https://bizedmadesimple.com/)** - Revise IGCSE and A Level business with video lessons (freemium).
+- **[BusinessStudies.net](https://www.businessstudies.net/)** - Free, simplified GCSE Business Studies notes and quizzes by topic (free).
+- **[Dinesh Bakshi](https://dineshbakshi.com/)** - Free notes, quizzes, and worksheets for GCSE, A-Level, and IB Business Studies (free).
+- **[Economics Help](https://www.economicshelp.org)** - Explains business and economics concepts through revision notes and guides (free).
+- **[IGCSE Business](https://www.igcsebusiness.co.uk)** - Free Cambridge IGCSE Business notes and past papers by topic (free).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive business revision (freemium).
+- **[Sense Business](https://sensebusiness.co.uk/)** - Free GCSE business studies revision notes and topic quizzes (free).
+- **[TakingTheBiz](https://www.youtube.com/TakingTheBiz)** - Video revision lessons for GCSE, A-Level, and IB Business (free).
+- **[tutor2u](https://www.tutor2u.net/business)** - Notes, revision, and exam support for Business Studies (freemium).
+
+</details>
+
+### English Language and Literature
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CliffsNotes](https://www.cliffsnotes.com/literature)** - Free literature notes, summaries, and study guides for classic and contemporary texts (freemium).
+- **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
+- **[LanguageTool](https://languagetool.org)** - Free, open grammar and style checker in many languages (freemium).
+- **[LitCharts](https://www.litcharts.com)** - Study guides with summaries, themes, and quotes for literature texts (freemium).
+- **[Mr Bruff](https://www.youtube.com/@mrbruff)** - Free GCSE and A-Level English Language and Literature revision videos (free).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com/english-revision/)** - Free summary notes, character profiles, and past papers for A-Level texts (free).
+- **[Poetry Foundation](https://www.poetryfoundation.org/learn)** - Free poem archive, glossary of poetic terms, and analysis guides (free).
+- **[Project Gutenberg](https://www.gutenberg.org/)** - Downloads public-domain literature as free ebooks (free).
+- **[Purdue OWL](https://owl.purdue.edu)** - Free reference for writing, grammar, and citation styles (free).
+- **[SparkNotes](https://www.sparknotes.com)** - Study guides and analysis for set literature texts (free).
+
+</details>
+
+### Foreign Languages
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Busuu](https://www.busuu.com/en)** - Structured lessons with feedback from native speakers across 20+ languages (freemium).
+- **[Clozemaster](https://www.clozemaster.com)** - Builds vocabulary through fill-in-the-blank sentences across 50+ languages (freemium).
+- **[Duolingo](https://www.duolingo.com)** - Free, gamified lessons across dozens of languages (freemium).
+- **[Forvo](https://forvo.com/)** - Pronunciation dictionary with native-speaker audio across many languages (freemium).
+- **[HelloTalk](https://www.hellotalk.com/)** - Practice real conversations by chatting with native speakers worldwide (freemium).
+- **[italki](https://www.italki.com)** - Book 1-on-1 sessions with language tutors worldwide (paid).
+- **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
+- **[LingQ](https://www.lingq.com)** - Teaches vocabulary in context by reading and listening to real texts (freemium).
+- **[Memrise](https://www.memrise.com)** - Vocabulary and listening practice with native-speaker videos (freemium).
+- **[Online Morse Code](https://onlinemorsecode.com/learn-morse-code/)** - Learn Morse code with audio practice, printable chart, and guides (free).
+- **[Tatoeba](https://tatoeba.org/)** - Searches example sentences with translations in hundreds of languages (free).
+
+</details>
+
+### Latin
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Cambridge Latin Course](https://www.cambridgescp.com)** - Free companion resources for the widely used Cambridge Latin Course (free).
+- **[Dickinson College Commentaries](https://dcc.dickinson.edu)** - Free annotated Latin and Greek reading texts with vocabulary and notes (free).
+- **[Latin is Simple](https://www.latin-is-simple.com/)** - Free Latin dictionary, vocabulary trainer, and sentence analysis tool (free).
+- **[Latinitium](https://latinitium.com)** - Free spoken Latin audio, readers, and grammar guides for learning Latin actively (freemium).
+- **[LatinTutorial](https://www.latintutorial.com)** - Free video lessons covering Latin grammar, vocabulary, and translation (free).
+- **[Logeion](https://logeion.uchicago.edu/)** - Free Greek and Latin dictionary combining multiple scholarly lexicons (free).
+- **[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)** - Free, searchable library of Latin and Greek texts with translations and word studies (free).
+- **[Textkit](https://www.textkit.com/)** - Free downloadable Latin and Greek grammars, readers, and an active learners' forum (free).
+- **[The Latin Library](https://www.thelatinlibrary.com)** - Free archive of Latin texts and grammar reference handouts (free).
+- **[Whitaker's Words](https://latin-words.com)** - Look up Latin words and see their forms and meanings (free).
+
+</details>
+
+### Philosophy
+
+<details open>
+<summary>Show resources</summary>
+
+- **[1000-Word Philosophy](https://1000wordphilosophy.com)** - Free, short introductory essays on philosophical concepts and thinkers (free).
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory philosophy video series (free).
+- **[History of Philosophy without any gaps](https://historyofphilosophy.net)** - Follow philosophy's history through a long-running podcast (free).
+- **[Internet Encyclopedia of Philosophy](https://iep.utm.edu/)** - Free, peer-reviewed articles on philosophical topics and thinkers (free).
+- **[Philosophize This!](https://www.philosophizethis.org/)** - Free podcast walking through the history of philosophy for beginners (free).
+- **[Philosophy Now](https://philosophynow.org)** - Magazine covering philosophical ideas and debates, four articles free per month (freemium).
+- **[Philosophy Tube](https://www.youtube.com/@philosophytube)** - Free video essays exploring philosophical ideas, thinkers, and debates (free).
+- **[Royal Institute of Philosophy](https://royalinstitutephilosophy.org/education/online-learning/)** - Shares philosophy briefings, lectures, podcasts, and A-Level study guides (free).
+- **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu)** - Free, peer-reviewed reference articles on philosophical topics and thinkers (free).
+- **[The Panpsycast](https://www.thepanpsycast.com)** - Free podcast interviewing philosophers on ideas across the A-Level and IB syllabus (free).
+
+</details>
+
+### World Religions
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmyb4wx)** - Free curriculum-aligned GCSE Religious Studies revision guides and quizzes (free).
+- **[Crash Course Religions](https://thecrashcourse.com/courses/religions/)** - A 24-episode video series exploring world religions and belief systems (free).
+- **[Database of Religious History](https://religiondatabase.org/landing/)** - Free, scholarly encyclopedia of religious traditions across history (free).
+- **[IB World Religions](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/world-religions/)** - Outlines the official IB syllabus covering nine major religions (free).
+- **[Internet Sacred Text Archive](https://sacred-texts.com/)** - Free archive of religious and sacred texts from world traditions (free).
+- **[Religion and Public Life](https://rpl.hds.harvard.edu)** - Free HarvardX courses and research on world religious traditions (freemium).
+- **[ReligionFacts](https://religionfacts.com)** - Compare world religions with neutral overviews and glossaries (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-world-religions)** - Bite-sized topic summaries and IA exemplars for IB World Religions (freemium).
+- **[The Pluralism Project](https://pluralism.org)** - Publishes essays and case studies on world religious traditions (free).
+- **[The Religious Studies Project](https://www.religiousstudiesproject.com)** - Shares podcasts and essays on religions from scholars (free).
+
+</details>
+
+### History
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned history revision (free).
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast overviews of world and US history (free).
+- **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses (free).
+- **[History Skills](https://www.historyskills.com/)** - Teaches source analysis, essay writing, and research skills for history students (freemium).
+- **[Internet History Sourcebooks](https://sourcebooks.fordham.edu/)** - Collects public-domain primary sources for ancient to modern history (free).
+- **[Mr Allsop History](https://www.mrallsophistory.com)** - Free podcasts, videos, and revision notes across GCSE, IGCSE, A-Level, and IB History (free).
+- **[Oversimplified](https://youtube.com/@oversimplified)** - Teaching important events in History in an oversimplified way (free).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level History revision (freemium).
+- **[Spartacus Educational](https://spartacus-educational.com)** - Free history encyclopedia covering British, American, and world history topics (free).
+- **[Tom Richey](https://www.youtube.com/@tomrichey)** - Free AP US History and AP European History lecture videos (free).
+
+</details>
+
+### Global Perspectives
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Cambridge IGCSE Global Perspectives](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/)** - Provides the official syllabus and past papers for Global Perspectives (free).
+- **[Global Issues](https://www.globalissues.org/)** - Free analysis of interconnected social, political, and economic global issues (free).
+- **[IGCSE Global Perspectives .net](https://igcseglobalperspectives.net/)** - Free student resources, IR templates, and team project guidance (freemium).
+- **[Kialo Edu](https://www.kialo-edu.com)** - Free tool for mapping structured pro and con debates (free).
+- **[PapaCambridge](https://notes.papacambridge.com/notes/caie/cambridge-upper-secondarycambridge-igcse-global-perspectives-0457)** - Offers past papers, topical notes, and revision materials for this course (freemium).
+- **[ProCon.org](https://www.britannica.com/procon)** - Free, nonpartisan pro and con research on controversial global issues (free).
+- **[Save My Exams](https://www.savemyexams.com/learning-hub/subject-guides/igcse-global-perspectives-topics/)** - Lists topics and revision notes for IGCSE Global Perspectives by exam board (freemium).
+- **[UN Sustainable Development Goals](https://sdgs.un.org/)** - Tracks global issues, goals, and data from the United Nations (free).
+- **[World101](https://world101.cfr.org)** - Free CFR modules explaining international relations and global issues (free).
+- **[ZNotes](https://znotes.org/caie/igcse/global-perspectives-0457/)** - Summarizes syllabus topics and exam skills for Global Perspectives (freemium).
+
+</details>
+
+### Global Politics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[12 Axes](https://12axes.site/)** - Place your political views on twelve separate axes (free).
+- **[Chatham House](https://www.chathamhouse.org/)** - Free analysis and research on international relations and global politics (freemium).
+- **[Global Issues](https://www.globalissues.org)** - Read in-depth articles on poverty, conflict, and global affairs (free).
+- **[GloPo IB](https://glopoib.wordpress.com)** - Shares revision booklets, case studies, and theory summaries (free).
+- **[GloPoPolis](https://www.glopopolis.org)** - Free online textbook covering the IB Global Politics syllabus by topic (free).
+- **[IB Global Politics](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/global-politics/)** - Outlines the official IB syllabus and core concepts (free).
+- **[Knowt](https://knowt.com/exams/IB/IB-Global-Politics-(SL))** - Free student-written IB Global Politics notes and flashcards by unit (freemium).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-global-politics)** - Provides notes, case studies, and a question bank (freemium).
+- **[Simple Studies](https://www.simplestudies.org/studyguides/ib-global-politics)** - Offers a free downloadable IB Global Politics study guide (free).
+- **[TutorChase](https://www.tutorchase.com/notes/ib/global-politics)** - Free IB Global Politics HL notes across core and extension topics (freemium).
+- **[World101](https://world101.cfr.org)** - Free CFR modules explaining international relations and foreign policy (free).
+
+</details>
+
+### Classical Civilisation
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Advocating Classics Education](https://aceclassics.org.uk)** - University-backed project sharing GCSE and A-Level Classical Civilisation teaching resources (free).
+- **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/classical_civilization)** - Free class notes, flashcards, and quizzes for GCSE Classical Civilisation (free).
+- **[Livius](https://www.livius.org/)** - Reads articles on Greek, Roman, and Near Eastern history (free).
+- **[Perseus Digital Library](https://www.perseus.tufts.edu)** - Free searchable library of classical Greek and Latin texts and tools (free).
+- **[Primrose Kitten](https://www.youtube.com/@PrimroseKitten)** - Free video revision covering GCSE Classical Civilisation topics (free).
+- **[Revision World](https://revisionworld.com/content/classical-civilisation)** - Free OCR GCSE Classical Civilisation revision guides and resources (free).
+- **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Classical Civilisation revision content (free).
+- **[Theoi Greek Mythology](https://www.theoi.com/)** - Free, primary-source encyclopedia of Greek mythology, art, and texts (free).
+- **[Warwick Classics Network](https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/stoa/classciv/gcse/)** - Free university-backed GCSE Classical Civilisation videos and resources (free).
+- **[World History Encyclopedia](https://www.worldhistory.org/)** - Free, fact-checked reference articles on ancient Greek and Roman civilisation (free).
+
+</details>
+
+### Geography
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned geography revision (free).
+- **[Cool Geography](https://www.coolgeography.co.uk)** - Free geography lessons and case studies from Year 7 through A-Level (freemium).
+- **[Flag Drill](https://flagdrill.com/)** - Practice flag quizzes for 193 UN members and similar flags (free).
+- **[Geography All The Way](https://www.geographyalltheway.com/)** - IB DP Geography case studies, exam prep, and geographic skills (freemium).
+- **[Internet Geography](https://www.internetgeography.net)** - Free notes and case studies for GCSE geography (freemium).
+- **[National Geographic Education](https://www.nationalgeographic.org/education/)** - Free geography lesson plans, maps, and interactive classroom resources (free).
+- **[Our World in Data](https://ourworldindata.org)** - Explore interactive charts on population, climate, and development (free).
+- **[Royal Geographical Society](https://www.rgs.org/schools/resources-for-schools)** - Free case studies, fieldwork guidance, and careers resources for geography students (freemium).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
+- **[The Geography Hub](https://learngeographyonline.com)** - Free GCSE geography past papers, explainer articles, and a glossary (free).
+
+</details>
+
+### Law
+
+<details open>
+<summary>Show resources</summary>
+
+- **[A-LevelLaw.com](https://a-levellaw.com)** - Free student-run notes, case summaries, and past papers for A-Level Law (free).
+- **[BAILII](https://www.bailii.org)** - Free searchable database of British and Irish case law and legislation (free).
+- **[e-lawresources.co.uk](https://e-lawresources.co.uk)** - Free lecture outlines, case summaries, and quizzes across UK law topics (free).
+- **[LawTeacher.net](https://www.lawteacher.net/)** - Free UK law revision notes, case summaries, and essay guides (free).
+- **[Legal Information Institute](https://www.law.cornell.edu)** - Read US law and the Wex legal encyclopedia (free).
+- **[legislation.gov.uk](https://www.legislation.gov.uk)** - The official, free database of UK legislation (free).
+- **[Revision World](https://revisionworld.com/a2-level-level-revision/law-level-revision)** - Free A-Level Law revision guides, notes, and past papers (free).
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for A-Level Law (freemium).
+- **[The Supreme Court](https://www.supremecourt.uk/)** - Official free judgments, case summaries, and education resources from the UK's top court (free).
+- **[tutor2u](https://www.tutor2u.net/free/law)** - Free revision notes and teaching resources for A-Level Law (freemium).
+
+</details>
+
+### Environmental Systems & Societies
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Aimnova](https://www.aimnova.app/ib-ess/notes)** - Free IB ESS notes, flashcards, and practice questions with no sign-up (free).
+- **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across environmental systems and ecology (free).
+- **[Knowt](https://knowt.com)** - Free student-written study guides and flashcards for IB ESS (freemium).
+- **[MinuteEarth](https://www.youtube.com/@MinuteEarth)** - Short, animated explainers on environmental science mysteries (free).
+- **[Mr Kremer's Science](https://mrkremerscience.com/new-ess/)** - Free IB ESS topic explanations, flashcards, and video lessons by a teacher (free).
+- **[NOAA Climate.gov](https://www.climate.gov/)** - Explains climate science with maps, data, and articles (free).
+- **[Our World in Data](https://ourworldindata.org)** - Free data and research on environmental, climate, and global issues (free).
+- **[Revision Village](https://www.revisionvillage.com/ib-ess/sl-2026/)** - Questionbank, past papers, and flashcards for IB ESS (freemium).
+- **[Save My Exams](https://www.savemyexams.com/dp/environmental-systems-and-societies-ess/)** - Revision notes, exam questions, and past papers for IB ESS (freemium).
+- **[Science Sauce](https://sciencesauceonline.com/ibess/)** - IB ESS topic summaries, case studies, and IA support from a teacher (freemium).
+
+</details>
+
+### Sports, Exercise & Health Science
+
+<details open>
+<summary>Show resources</summary>
+
+- **[ACE Fitness](https://www.acefitness.org/)** - Free exercise science articles, an exercise library, and fitness calculators (freemium).
+- **[BrianMac Sports Coach](https://www.brianmac.co.uk)** - Free reference on exercise physiology, training methods, and sports coaching (free).
+- **[ExRx.net](https://exrx.net)** - Free exercise and kinesiology reference library covering training and prescription (freemium).
+- **[Knowt](https://knowt.com/exams/IB/IB-Sports,-Exercise,-and-Health-Science-(SL))** - Free student-written IB Sports, Exercise and Health Science notes and flashcards by unit (freemium).
+- **[Physiopedia](https://www.physio-pedia.com)** - Free, evidence-based knowledge base covering anatomy, injury, and rehabilitation (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-sports-exercise-and-health-science-sehs-new-syllabus)** - Notes, flashcards, and a question bank for IB Sports, Exercise and Health Science (freemium).
+- **[Science for Sport](https://www.scienceforsport.com)** - Study sports science through articles and courses (freemium).
+- **[StudyIB](https://studyib.net/sehs)** - Concise revision notes and explanations across the SEHS syllabus (freemium).
+- **[TeachPE.com](https://www.teachpe.com)** - Free notes and quizzes on anatomy, physiology, and training methods for sport science (free).
+- **[TutorChase](https://www.tutorchase.com/notes/ib/sehs)** - Free IB Sports, Exercise and Health Science HL notes written by IB teachers (free).
+
+</details>
+
+### Food & Nutrition
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Academy of Nutrition and Dietetics](https://www.eatright.org/)** - Nutrition guidance and healthy-eating articles from registered dietitians (free).
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdn9jhv)** - Covers GCSE food preparation and nutrition topics with revision guides and quizzes (free).
+- **[Food – A Fact of Life](https://www.foodafactoflife.org.uk)** - Teaches nutrition, cooking skills, and food science for GCSE level (free).
+- **[FoodUnfolded](https://www.foodunfolded.com/)** - Free articles and courses on food science, nutrition, and sustainability (free).
+- **[NHS Eatwell Guide](https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/)** - Official NHS guide to balanced diets and food groups (free).
+- **[Revision World](https://revisionworld.com/gcse-revision/food-preparation-and-nutrition-gcse-revision)** - Covers GCSE food science, safety, choice, and preparation skills (free).
+- **[Save My Exams](https://www.savemyexams.com/gcse/food-and-nutrition/)** - Revision notes, exam questions, flashcards, and past papers for GCSE Food & Nutrition (freemium).
+- **[Seneca Learning](https://senecalearning.com/en-gb/blog/gcse-food-preparation-nutrition-revision/)** - Delivers interactive GCSE food and nutrition revision with spaced repetition (freemium).
+- **[The Nutrition Source](https://nutritionsource.hsph.harvard.edu)** - Harvard's free, evidence-based guide to nutrition science and healthy eating (free).
+- **[USDA FoodData Central](https://fdc.nal.usda.gov)** - Look up the nutrient content of thousands of foods (free).
+
+</details>
+
+### Health and Social Care
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned Health and Social Care revision (free).
+- **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/health_and_social_care)** - Free class notes, flashcards, and quizzes for GCSE Health and Social Care (free).
+- **[NHS](https://www.nhs.uk/)** - Explains conditions, treatments, and care services in plain language (free).
+- **[OpenLearn Health and Social Care](https://www.open.edu/openlearn/health-sports-psychology/health-and-social-care-pathway)** - Free Open University introductory courses on social care, nursing, and mental health (free).
+- **[Revision Genie](https://www.revisiongenie.com/subject/gcse/health-and-social-care)** - AI tutor with free practice questions for GCSE Health and Social Care (freemium).
+- **[Revision World](https://revisionworld.com/exam-subjects/health-and-social-care)** - Free revision guides and resources for Health and Social Care (free).
+- **[Social Care Institute for Excellence](https://www.scie.org.uk/)** - Free guidance on social care practice, safeguarding, and policy (free).
+- **[Study Rocket](https://studyrocket.co.uk/revision/gcse-health-and-social-care-ccea)** - Free exam board-specific GCSE Health and Social Care revision content (free).
+- **[The King's Fund](https://www.kingsfund.org.uk/)** - Read independent analysis of health and social care policy in England (free).
+- **[tutor2u](https://www.tutor2u.net/free/hsc)** - Free revision notes and teaching resources for Health and Social Care (freemium).
+
+</details>
+
+### Social and Cultural Anthropology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Anthropology News](https://www.anthropology-news.org)** - Free AAA magazine covering current anthropological research and teaching (free).
+- **[Discover Anthropology](https://discoveranthropology.org.uk/)** - Introduces anthropology as a field with study and career guidance (free).
+- **[Fieldsights](https://culanth.org/fieldsights)** - Read open-access essays and podcasts from working cultural anthropologists (free).
+- **[IB Social and Cultural Anthropology](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/social-and-cultural-anthropology/)** - Outlines the official IB syllabus and assessment structure (free).
+- **[Knowt](https://knowt.com/exams/IB/IB-Social-and-cultural-anthropology-(SL))** - Offers student-written notes and flashcards by unit (free).
+- **[LibreTexts Cultural Anthropology](https://socialsci.libretexts.org/Bookshelves/Anthropology/Cultural_Anthropology)** - Free peer-reviewed open-access cultural anthropology textbooks and readings (free).
+- **[OpenStax Introduction to Anthropology](https://openstax.org/details/books/introduction-anthropology)** - Free, peer-reviewed introductory anthropology textbook (free).
+- **[Perspectives: An Open Invitation to Cultural Anthropology](https://pressbooks.pub/perspectives/)** - Free, peer-reviewed open textbook introducing cultural anthropology topics (free).
+- **[RevisionDojo](https://www.revisiondojo.com/ib/ib-social-and-cultural-anthropology)** - Provides study notes, flashcards, and a question bank (freemium).
+- **[SAPIENS](https://www.sapiens.org/)** - Reads anthropology articles written for general audiences (free).
+
+</details>
+
+### Psychology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[APA Psychology Topics](https://www.apa.org/topics)** - Summarizes research on psychology topics from the APA (free).
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory psychology video series (free).
+- **[Fiveable](https://fiveable.me)** - Free AP Psychology study guides, practice questions, and exam-day reviews (freemium).
+- **[Noba Project](https://nobaproject.com/)** - Free psychology modules and customizable introductory textbooks (free).
+- **[OpenStax Psychology 2e](https://openstax.org/details/books/psychology-2e)** - Free, peer-reviewed psychology textbook covering the full introductory curriculum (free).
+- **[Psychology Today](https://www.psychologytoday.com/us/basics)** - Browse plain-language articles on mental health and behavior topics (free).
+- **[Save My Exams](https://www.savemyexams.com/a-level/psychology/)** - Revision notes, exam questions, and past papers for A-Level Psychology (freemium).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive psychology revision (freemium).
+- **[Simply Psychology](https://www.simplypsychology.org)** - Clear notes on theories, studies, and exams (free).
+- **[tutor2u Psychology](https://www.tutor2u.net/psychology)** - Offers A-Level psychology study notes, quizzes, and topic videos (freemium).
+
+</details>
+
+### Sociology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory sociology video series (free).
+- **[Discover Sociology](https://www.discoversociology.co.uk/)** - Free A-Level sociology teaching resources from the British Sociological Association (free).
+- **[LibreTexts Sociology](https://socialsci.libretexts.org/Bookshelves/Sociology)** - Read open sociology textbooks online or download them (free).
+- **[OpenStax Introduction to Sociology](https://openstax.org/details/books/introduction-sociology-3e)** - Free, peer-reviewed introductory sociology textbook (free).
+- **[ReviseSociology](https://revisesociology.com/a-level-sociology/)** - Free A-Level Sociology revision notes, mind maps, and model answers (freemium).
+- **[Save My Exams](https://www.savemyexams.com/a-level/sociology/)** - Revision notes, exam questions, and past papers for A-Level Sociology (freemium).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive A-Level Sociology revision (freemium).
+- **[Simply Psychology](https://www.simplypsychology.org/theories/sociology/)** - Clear notes on core sociological theories and thinkers (free).
+- **[Sociological Images](https://thesocietypages.org/socimages/)** - Applies sociological concepts to images and current events (free).
+- **[tutor2u](https://www.tutor2u.net/free/sociology)** - Free revision notes and teaching resources for A-Level Sociology (freemium).
+
+</details>
+
+### Physical Education
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdhs34j)** - Free curriculum-aligned GCSE Physical Education revision guides and quizzes (free).
+- **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/physical_education)** - Free class notes, flashcards, and quizzes for GCSE Physical Education (free).
+- **[Revision World](https://revisionworld.com/gcse-revision/pe-physical-education)** - Free GCSE PE revision guides, quizzes, and past papers (free).
+- **[Save My Exams](https://www.savemyexams.com/subjects/physical-education/)** - Revision notes, topic questions, and past papers for PE (freemium).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level PE revision (freemium).
+- **[Study Rocket](https://studyrocket.co.uk/revision/a-level-physical-education-ocr)** - Revise A Level PE topics with free notes (free, paid app).
+- **[Subskills](https://subskills.xyz)** - Learn sports techniques from videos sorted by skill level (free).
+- **[TeachPE.com](https://www.teachpe.com)** - Free revision quizzes and notes on anatomy, training, and skill acquisition for GCSE and A-Level PE (free).
+- **[The EverLearner](https://theeverlearner.com)** - Revision videos and resources for GCSE, A-Level, and BTEC PE and Sport (freemium).
+- **[The PE Classroom](https://thepeclassroom.com)** - Free GCSE PE revision resources, mind maps, and exam-style questions (free).
+
+</details>
+
+### Art
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Art UK](https://artuk.org/)** - Free digital access to every public art collection in the UK (free).
+- **[Drawabox](https://drawabox.com)** - Free, exercise-based course for learning drawing fundamentals step by step (free).
+- **[Google Arts & Culture](https://artsandculture.google.com/)** - Explore artworks and virtual museum tours from partner institutions (free).
+- **[Jazza](https://www.youtube.com/@Jazza)** - Fun, accessible drawing and illustration tutorials for beginners (free).
+- **[MoMA Learning](https://www.moma.org/learn/moma_learning/)** - Free essays and glossary explaining modern art movements and artists (free).
+- **[Proko](https://www.proko.com)** - Free figure drawing and anatomy fundamentals for artists (freemium).
+- **[Smarthistory](https://smarthistory.org)** - Free, peer-reviewed art history essays and videos, Khan Academy's official partner (free).
+- **[Student Art Guide](https://www.studentartguide.com/)** - Free guides on critical studies, artist research, and sketchbook annotation (free).
+- **[Tate](https://www.tate.org.uk/art/student-resource)** - Free GCSE and A-Level art exam help and student resources (free).
+- **[The Art Story](https://www.theartstory.org/)** - Explains art movements, artists, and ideas in short guides (free).
+
+</details>
+
+### Film
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BFI Film Academy](https://www.bfi.org.uk/bfi-film-academy)** - Free UK-wide filmmaking training programme for 16 to 25-year-olds (free).
+- **[Cinephilia & Beyond](https://cinephiliabeyond.org/)** - Reads in-depth essays on filmmaking and film history (free).
+- **[Film Riot](https://www.youtube.com/@filmriot)** - Weekly tutorials on shooting, editing, and VFX for indie filmmakers (free).
+- **[Filmsite](https://www.filmsite.org/)** - Read scholarly film reviews, history milestones, and greatest-films lists (free).
+- **[Into Film](https://www.intofilm.org)** - Free UK film education charity with lesson plans and student filmmaking resources (free).
+- **[Lessons from the Screenplay](https://www.youtube.com/@LessonsfromtheScreenplay)** - Video essays breaking down screenwriting and film craft choices (free).
+- **[No Film School](https://nofilmschool.com)** - News, tutorials, and gear guides covering the craft of filmmaking (free).
+- **[Save My Exams](https://www.savemyexams.com/a-level/media-studies/wjec-eduqas/film-studies/)** - Revision notes, exam questions, and past papers for A-Level Film Studies (freemium).
+- **[StudioBinder Blog](https://www.studiobinder.com/blog/)** - Free tutorials and guides on cinematography, directing, and screenwriting (free).
+- **[Study Rocket](https://studyrocket.co.uk/revision/a-level-film-studies-wjec)** - Free exam board-specific A-Level Film Studies revision content (free).
+
+</details>
+
+### Photography
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Cambridge in Colour](https://www.cambridgeincolour.com/)** - Free tutorials on camera exposure, composition, and editing fundamentals (free).
+- **[Digital Photography School](https://digital-photography-school.com)** - Free photography tutorials covering camera basics, composition, and lighting (free).
+- **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/photography)** - Free class notes, flashcards, and quizzes for GCSE Photography (free).
+- **[iPhotography](https://www.iphotography.com/blog/gcse-photography-a-student-revision-guide/)** - Free guide to camera settings, composition, and exam-board expectations for GCSE Photography (free).
+- **[Magnum Photos](https://www.magnumphotos.com/)** - Browses documentary photography archives and essays (free).
+- **[PetaPixel](https://petapixel.com/)** - Follow photography news, tutorials, and gear reviews (free, ad-free membership).
+- **[Photography Life](https://photographylife.com)** - Photography tutorials, camera reviews, and free beginner courses (free).
+- **[PhotoPedagogy](https://www.photopedagogy.com/)** - Shares photography teaching concepts, assignments, and analysis resources (free).
+- **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Photography revision content (free).
+- **[The School of Photography](https://www.theschoolofphotography.com)** - Free tutorials on camera settings, composition, and editing for GCSE and A-Level Photography (freemium).
+
+</details>
+
+### Media Studies
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zwpfb9q)** - Free curriculum-aligned GCSE Media Studies revision guides and quizzes (free).
+- **[BFI Education](https://www.bfi.org.uk/resources-events-teachers/resources-teachers)** - Film and media studies teaching resources from the British Film Institute (freemium).
+- **[Into Film](https://www.intofilm.org)** - UK charity providing free film education resources and streaming for schools (free).
+- **[media-studies.com](https://media-studies.com/aqa-a-level/)** - Free AQA A-Level Media Studies guides and exam revision content (free).
+- **[MediaSmarts](https://mediasmarts.ca/)** - Free media literacy lessons on representation, bias, and digital media (free).
+- **[News Literacy Project](https://newslit.org/)** - Learn to evaluate misinformation and media bias through Checkology lessons (free).
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for Media Studies (freemium).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level Media Studies revision (freemium).
+- **[Study Rocket](https://studyrocket.co.uk/revision/a-level-media-studies-ocr)** - Free exam board-specific A-Level Media Studies revision content (free).
+- **[Understanding Media and Culture](https://open.lib.umn.edu/mediaandculture/)** - Covers media history, theory, and industries in an open textbook (free).
+
+</details>
+
+### Music
+
+<details open>
+<summary>Show resources</summary>
+
+- **[8notes](https://www.8notes.com)** - Free sheet music across 25+ instruments (freemium).
+- **[Ableton Learning Music](https://learningmusic.ableton.com/)** - Learn beats, scales, and chords through interactive in-browser lessons (free).
+- **[GCSE Music](https://www.musicgcse.co.uk/)** - Free OCR GCSE Music revision notes, quizzes, and videos (free).
+- **[IMSLP](https://imslp.org)** - Download free public-domain sheet music for nearly any instrument (free).
+- **[MuseScore](https://musescore.org/en)** - Notate and play back compositions for coursework (free, open source).
+- **[musictheory.net](https://www.musictheory.net)** - Free, interactive lessons and ear-training exercises for music theory basics (free).
+- **[MyMusicTheory](https://mymusictheory.com/)** - Free music theory lessons and grade quizzes for ABRSM and Trinity exams (freemium).
+- **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** - Teaches theory and analysis in an open online textbook (free).
+- **[Rick Beato](https://www.youtube.com/@RickBeato)** - In-depth music theory, ear training, and song analysis (free).
+- **[teoria](https://teoria.com)** - Free ear-training drills and music theory reference (free).
+
+</details>
+
+### Theatre
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zk6pyrd)** - Covers GCSE drama theory, acting skills, and stagecraft revision (free).
+- **[Digital Theatre+](https://www.digitaltheatreplus.com)** - Filmed productions and study resources for GCSE and A-Level Drama (freemium).
+- **[Folger Shakespeare Library](https://www.folger.edu/)** - Read Shakespeare's complete works and lesson plans (free).
+- **[Masterclass Theatre Trust](https://www.masterclass.org.uk/educational-resources---drama)** - Provides free GCSE and A-Level Drama resource packs and activities (free).
+- **[National Theatre](https://www.nationaltheatre.org.uk/learn-explore)** - Free lesson plans and filmed productions for A-Level Drama set texts (free).
+- **[RSC Shakespeare Learning Zone](https://www.rsc.org.uk/shakespeare-learning-zone)** - Explores Shakespeare plays through videos, scenes, and character notes (free).
+- **[Save My Exams](https://www.savemyexams.com/a-level/drama/aqa/drama-and-theatre/)** - Revision notes, topic questions, and past papers for A-Level Drama and Theatre (freemium).
+- **[Shakespeare's Globe Learning](https://www.shakespearesglobe.com/learn/)** - Offers free learning resources on Shakespeare and theatre practice (free).
+- **[StageMilk](https://www.stagemilk.com)** - Free acting tips, monologues, and technique guides (free).
+- **[Theatrefolk](https://www.theatrefolk.com/free-resources)** - Free monologues, scenes, playwriting exercises, and study guides for drama students (freemium).
+
+</details>
+
+### Dance
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zg9jtfr)** - Covers GCSE dance revision notes, videos, and practice questions (free).
+- **[Dance Magazine](https://www.dancemagazine.com/)** - Read dance news, features, and career advice (free, paid subscription).
+- **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/dance)** - Free class notes, flashcards, and quizzes for GCSE Dance (free).
+- **[Rambert Classroom](https://rambert.org.uk/participation/schools-and-colleges/rambert-classroom/)** - Videos and guides on GCSE and A-Level Dance set works from a professional company (freemium).
+- **[Revision World](https://revisionworld.com/exam-subjects/dance)** - Free GCSE and A-Level Dance revision guides by exam board (free).
+- **[Royal Academy of Dance](https://www.royalacademyofdance.org/)** - Explores ballet syllabi, history, and teaching resources (free).
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for GCSE and A-Level Dance (freemium).
+- **[SimpleStudy UK](https://simplestudy.com/gb/a-level/aqa/dance/revision-notes)** - Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).
+- **[STEEZY Studio](https://www.steezy.co)** - Online dance classes and technique tutorials across styles (freemium).
+- **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE and A-Level Dance revision content (free).
+
+</details>
+
+---
+
+## Notes & Knowledge Management
+
+Capture, link, and organize what you learn.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Joplin](https://joplinapp.org/)** - Free, open-source markdown notes with sync and encryption (free, open source).
+- **[Logseq](https://logseq.com)** - Free, open-source outliner for networked notes (free).
+- **[LYT Kit](https://www.linkingyourthinking.com/myideaverse/enter)** - Free starter Obsidian vault for organizing notes and classes (free).
+- **[Microsoft OneNote](https://onenote.cloud.microsoft)** - Organize notes, sketches, and clippings in free-form notebooks (free).
+- **[Notion](https://www.notion.com)** - All-in-one notes, databases, and docs, free tier for students (freemium).
+- **[Notion Student Planner Templates](https://www.notion.com/templates/category/free-student-planner-templates)** - Free, official templates for tracking classes, assignments, and deadlines (free).
+- **[Obsidian](https://obsidian.md)** - Local-first linked notes with a large plugin ecosystem (free).
+- **[ORANO](https://oranoai.com)** - Turns saved videos and articles into searchable summaries and plans (freemium).
+- **[RemNote](https://www.remnote.com)** - Notes with built-in spaced-repetition flashcards (freemium).
+- **[Roam Research](https://roamresearch.com)** - Links notes bidirectionally to build a networked knowledge base (paid).
+- **[Zettlr](https://www.zettlr.com/)** - Open-source Markdown editor built for long academic writing (free).
+
+</details>
+
+---
+
+## Flashcards & Spaced Repetition
+
+Remember more with less rereading.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Anki](https://apps.ankiweb.net)** - Free, open-source spaced-repetition flashcards with huge shared decks (free).
+- **[Brainscape](https://www.brainscape.com)** - Confidence-based repetition flashcards (freemium).
+- **[BrioVocab](https://briovocab.com/)** - Practice French vocabulary with spaced repetition, spelling, and pronunciation (freemium).
+- **[LearnClash](https://learnclash.com)** - Duel friends on any topic, with explanations after each answer (freemium).
+- **[Major Dictionary](https://majordictionary.com/major-system)** - Memorize numbers with a Major System chart and Anki decks (free).
+- **[Memly](https://memly.ai/en)** - Turn PDFs, slides, and YouTube videos into AI flashcards with spaced-repetition reviews (freemium).
+- **[Mochi](https://mochi.cards)** - Markdown-friendly spaced-repetition flashcards (freemium).
+- **[Printable Flashcard Maker](https://flashcards.code-harmony.top/)** - Turn text, images or spreadsheet lists into printable PDFs (free).
+- **[Quizlet](https://quizlet.com)** - Fast flashcards and study games (freemium).
+- **[StudyDaily](https://www.studydaily.app/en)** - Spaced-repetition flashcards that import Anki decks with review history (freemium).
+- **[StudyLoop](https://studyloop-liard.vercel.app)** - Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).
+- **[SummarizAI](https://summarizai.ink)** - Summarize YouTube lectures into chapters, chat, and flashcards (freemium).
+- **[SuperMemo](https://www.super-memory.com)** - The original spaced-repetition software for building long-term memory (freemium).
+- **[True Recall](https://www.truerecall.app)** - Turn Obsidian notes into spaced-repetition flashcards on desktop and mobile (freemium).
+- **[Vaia](https://www.vaia.com)** - Create flashcards with spaced repetition, notes, and study plans (freemium).
+- **[Vocab Routine](https://apps.apple.com/us/app/vocab-routine-jlpt-topik/id6770267735)** - Study Japanese and Korean flashcards with handwriting practice (iOS, freemium).
+
+</details>
+
+---
+
+## Task, Time & Planning
+
+Plan the week, protect the deadlines.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CalcAttendance](https://calcattendance.com/)** - See how many classes you can safely miss (free).
+- **[Dopastep](https://dopastep.com/)** - Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).
+- **[Focusmate](https://www.focusmate.com/)** - Study alongside a partner in live virtual coworking sessions (freemium).
+- **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere (free).
+- **[Habitica](https://habitica.com)** - Turns habits and to-dos into a role-playing game with streaks (free).
+- **[Motion](https://www.usemotion.com)** - Uses AI to auto-schedule tasks and timeblock them on your calendar (paid).
+- **[MyStudyLife](https://mystudylife.com/)** - Student planner for timetables, assignments, and deadlines, premium tier costs extra (freemium).
+- **[Notion Calendar](https://www.notion.com/product/calendar)** - Free calendar that connects to your Notion workspace (free).
+- **[TickTick](https://ticktick.com)** - Tasks, calendar, and a built-in Pomodoro timer (freemium).
+- **[Todoist](https://todoist.com)** - Cross-platform task manager with natural-language dates (freemium).
+- **[Toggl Track](https://toggl.com/track/)** - Track study time across devices with simple reports (freemium).
+
+</details>
+
+---
+
+## Writing, Citations & Reference
+
+Draft, cite, and polish papers.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[EasyBib](https://www.easybib.com)** - Citation and bibliography generator, free for MLA (freemium).
+- **[Grammarly](https://www.grammarly.com)** - Grammar and clarity suggestions as you write (freemium).
+- **[Hemingway Editor](https://hemingwayapp.com)** - Free readability checker that flags dense sentences and passive voice (freemium).
+- **[IELTS Writing Checker](https://ieltswritingchecker.org/)** - Get IELTS Task 1 and Task 2 criterion feedback (freemium).
+- **[IELTS Writing Practice](https://ieltswritingpractice.app/)** - Practise timed IELTS writing; AI feedback costs extra (freemium).
+- **[LanguageTool](https://languagetool.org)** - Free, open-source grammar and style checker (freemium).
+- **[Overleaf](https://www.overleaf.com)** - Collaborative online LaTeX editor for formatted papers (freemium).
+- **[Purdue OWL](https://owl.purdue.edu)** - Free reference for writing, grammar, and citation styles (free).
+- **[Quetext](https://www.quetext.com)** - Plagiarism checker with a citation generator, limited free checks (freemium).
+- **[Scite](https://scite.ai/)** - Searches citations to show whether later studies support or contrast a paper (freemium).
+- **[Yap Voice Typing](https://yapapp.cc/voice-typing-extension)** - Type by voice in any text box, with speech recognized in your browser (free).
+- **[Zotero](https://www.zotero.org)** - Free, open-source reference manager with one-click citations (free).
+
+</details>
+
+---
+
+## AI & Academic Integrity
+
+Know what's allowed, and how to cite AI-assisted work, before you submit.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[APA Style: Citing ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)** - Official APA guidance on citing AI-generated content (free).
+- **[Chicago Manual of Style: Citing ChatGPT](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html)** - Official Chicago Style Q&A on crediting generative AI output (free).
+- **[Copyleaks](https://copyleaks.com)** - AI-content and plagiarism detection with a limited free scan tier (freemium).
+- **[GPTZero](https://gptzero.me)** - AI-writing detector students and teachers use to check submitted work (freemium).
+- **[IB AI Guidance](https://ibo.org/programmes/artificial-intelligence-ai-in-learning-teaching-and-assessment/)** - The IB's official position on using AI in coursework (free).
+- **[International Center for Academic Integrity](https://www.academicintegrity.org)** - Nonprofit resources on what integrity and misconduct mean (free).
+- **[MLA Style Center: Citing Generative AI](https://style.mla.org/citing-generative-ai-updated-revised/)** - Official MLA guidance on citing generative AI (free).
+- **[Purdue Libraries: Citing AI-Generated Content](https://guides.lib.purdue.edu/c.php?g=1371380&p=10135074)** - Compares how to cite AI tools across APA, MLA, Chicago, and IEEE (free).
+- **[Scribbr AI Detector](https://www.scribbr.com/ai-detector/)** - Checks writing for AI-generated text, free up to 1,200 words (freemium).
+- **[UNESCO: AI in Education](https://www.unesco.org/en/digital-education/artificial-intelligence)** - Read international guidance on generative AI use in education (free).
+
+</details>
+
+---
+
+## Diagramming & STEM Tools
+
+Graph, compute, and sketch ideas.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Covalent](https://chempirical.com/covalent/)** - Draw chemical structures that are checked as you draw (free).
+- **[Desmos](https://www.desmos.com)** - Free graphing calculator and classroom activities (free).
+- **[diagrams.net](https://www.drawio.com)** - Free, open-source flowchart and diagram editor (free).
+- **[Excalidraw](https://excalidraw.com)** - Free, open-source hand-drawn-style diagrams (free).
+- **[GeoGebra](https://www.geogebra.org)** - Free, open geometry, algebra, and calculus tools (free).
+- **[Mathigon](https://mathigon.org)** - Explore interactive math lessons and manipulatives in the browser (free).
+- **[Mermaid](https://mermaid.js.org/)** - Draw flowcharts and diagrams from text, open source (free).
+- **[MolView](https://molview.org/)** - Explore molecules in 3D and build reaction diagrams in the browser (free).
+- **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring physics, chemistry, biology, and math (free).
+- **[Space Atlas](https://saramjh.github.io/space_atlas_student/)** - Explore interactive astronomy models and teacher activities (free).
+- **[Tinkercad](https://www.tinkercad.com)** - Design and simulate 3D models, circuits, and code in the browser (freemium).
+- **[Wolfram Alpha](https://www.wolframalpha.com)** - Computational engine for step-by-step math and science (freemium).
+
+</details>
+
+---
+
+## Building Software / Learn to Code
+
+Go from first line to shipped project.
+
+### Learn to Code
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)** - Free online Python book with hands-on file, spreadsheet, and web automation projects (free).
+- **[Codecademy](https://www.codecademy.com)** - Interactive coding lessons across many languages and career paths (freemium).
+- **[CS50](https://cs50.harvard.edu)** - Harvard's free, beginner-friendly computer science course (free).
+- **[freeCodeCamp](https://www.freecodecamp.org)** - Free, open-source coding curriculum with certifications (free).
+- **[Full Stack Open](https://fullstackopen.com)** - Learn modern web development with a free University of Helsinki course.
+- **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students (free).
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)** - Free, definitive reference and tutorials for HTML, CSS, and JavaScript (free).
+- **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** - Learn shell, Git, and debugging through MIT lecture notes and videos (free).
+- **[The Odin Project](https://www.theodinproject.com)** - Free project-based path into web development (free).
+- **[Visual Studio Code](https://code.visualstudio.com)** - Free, extensible code editor from Microsoft (free).
+
+</details>
+
+### Coding Practice
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Advent of Code](https://adventofcode.com)** - Free annual puzzle set, one bite-sized challenge per day each December (free).
+- **[AtCoder](https://atcoder.jp/)** - Japanese competitive programming platform with regular timed contests (free).
+- **[Codeforces](https://codeforces.com)** - Free competitive programming judge with regular timed contests (free).
+- **[Codewars](https://www.codewars.com)** - Free, community-built code katas across 55+ languages (free).
+- **[CodinGame](https://www.codingame.com/)** - Practice programming through puzzles and games in 25+ languages (free).
+- **[CSES Problem Set](https://cses.fi/problemset/)** - Solve a curated set of classic algorithm problems (free).
+- **[Exercism](https://exercism.org)** - Free coding exercises with real mentor feedback across 80+ languages (free).
+- **[HackerRank](https://www.hackerrank.com)** - Practice problems across algorithms, data structures, and languages, plus interview prep (freemium).
+- **[LeetCode](https://leetcode.com)** - Practice problems for coding interviews and data structures (freemium).
+- **[Project Euler](https://projecteuler.net)** - Free archive of challenging math and programming problems (free).
+
+</details>
+
+---
+
+## YouTube Channels We Trust
+
+Channels that teach, not just entertain.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** - Visual math intuition, from linear algebra to calculus (free).
+- **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures (free).
+- **[Amoeba Sisters](https://www.youtube.com/@amoebasisters)** - Cartoon-style videos that make biology concepts like genetics and evolution click (free).
+- **[Code with Harry](https://www.youtube.com/@CodeWithHarry)** - Beginner-friendly programming tutorials in Hindi and English (free).
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast-paced overviews across history, science, and the humanities (free).
+- **[Economics Explained](https://www.youtube.com/@EconomicsExplained)** - Accessible breakdowns of economies and economic ideas (free).
+- **[ExamSolutions](https://www.youtube.com/user/ExamSolutions)** - Free worked examples for GCSE, IGCSE, and A-Level maths (free).
+- **[Fireship](https://www.youtube.com/@Fireship)** - Fast, practical coding and web development explainers (free).
+- **[IB English Guys](https://www.youtube.com/@ibenglishguys)** - Exam-focused help for IB English courses (free).
+- **[Khan Academy](https://www.youtube.com/@khanacademy)** - Structured lessons across almost every school subject (free).
+- **[MinutePhysics](https://www.youtube.com/@MinutePhysics)** - Short, animated explainers that make physics concepts click fast (free).
+- **[Mr Hunt's Geography Channel](https://www.youtube.com/@mrhuntsgeographychannel2289)** - GCSE geography lessons from a working teacher and exam board examiner (free).
+- **[Psych2Go](https://www.youtube.com/@psych2go)** - Approachable videos on psychology, mental health, and self-understanding (free).
+- **[Revision Village](https://www.youtube.com/@revisionvillage)** - Syllabus-aligned video lessons and worked past papers for IB Math (free).
+- **[SupertutorTV](https://www.youtube.com/@SupertutorTV)** - In-depth SAT and ACT prep from a perfect-scoring tutor (free).
+- **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Worked problems across math and the sciences (freemium).
+- **[Veritasium](https://www.youtube.com/@veritasium)** - Deep science explainers that build real understanding (free).
+
+</details>
+
+---
+
+## Great Textbooks
+
+Subject textbooks students and teachers keep coming back to.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Campbell, Biology](https://www.pearson.com/en-us/subject-catalog/p/campbells-biology/P200000014184/9780135455890)** - The standard university-level biology textbook (paid).
+- **[Clayden, Organic Chemistry](https://global.oup.com/academic/product/organic-chemistry-9780198728719)** - Widely used undergraduate organic chemistry text (paid).
+- **[CLRS, Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** - The definitive algorithms reference (paid).
+- **[Griffiths, Introduction to Electrodynamics](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/FD23E188E2BDCDB40199CFE3386EC08F)** - Standard undergraduate textbook on electricity and magnetism (paid).
+- **[Haese Mathematics](https://www.haesemathematics.com)** - Standard IB Diploma mathematics textbooks (formerly Haese & Harris) (paid).
+- **[Halliday, Resnick & Walker, Fundamentals of Physics](https://www.wiley.com/en-us/Fundamentals+of+Physics,+12th+Edition-p-9781119801122)** - Widely used introductory university physics text (paid).
+- **[OpenStax](https://openstax.org)** - Free, peer-reviewed textbooks across math and science (free).
+- **[Stewart, Calculus](https://www.stewartcalculus.com)** - The standard first calculus textbook (paid).
+- **[Strang, Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)** - Learn linear algebra from MIT's Gilbert Strang (paid, with free course materials).
+- **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - Landmark physics text, free to read online (free).
+
+</details>
+
+---
+
+## More from StudentSuite
+
+- **[Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)** - Curated AI coding-agent skills and plugins built for students (free).
+- **[Awesome Student Resources](https://github.com/StudentSuite/awesome-student-resources)** - Curated discounts, scholarships, career prep, and wellbeing resources for students (free).
+- **[StudyMap](https://github.com/StudentSuite/StudyMap)** - A crowdsourced map of student-important places: exam centres, libraries, and more (free).
+
+---
+
+## A Note on Links
+
+> [!NOTE]
+> This list points to third-party tools, channels, and books. StudentSuite does not own, host, or endorse them, and it earns nothing from these links. Pricing and free tiers change, so check the current terms before you commit. If a listed entry is dead, misleading, or no longer free where we said so, open an issue or PR to fix it.
+
+---
+
+## Quality Standards
+
+An entry should meet all of the following before being added:
+
+- [ ] **Genuinely useful to students.** It helps you study, build, or organize, not just browse.
+- [ ] **Real and maintained.** Actively available, not abandoned or a dead link.
+- [ ] **Accessible.** Free, freemium, or clearly worth the price; note the pricing in the entry.
+- [ ] **Reputable.** A known tool, channel, or book, not spam or an affiliate funnel.
+- [ ] **Short description.** One line, plain language, no marketing copy.
+
+---
+
+## Contributing
+
+PRs adding a resource are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and PR checklist, and the [Code of Conduct](CODE_OF_CONDUCT.md) for how we expect people to treat each other here. See [CHANGELOG.md](CHANGELOG.md) for release history.
+
+---
+
+## Contributors
+
+Thanks to everyone who has added a resource, fixed a link, or improved the format.
+
+[![Contributors](https://contrib.rocks/image?repo=StudentSuite/awesome-study-resources)](https://github.com/StudentSuite/awesome-study-resources/graphs/contributors)
+
+---
+
+## License
+
+This repository is released under the [MIT License](LICENSE). The license covers this list itself: the README, CONTRIBUTING.md, and curation structure. It does not cover the tools, channels, or books linked from it, each of those is owned and licensed by its own author.
