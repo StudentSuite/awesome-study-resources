@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-651-blue)
+![Resources](https://img.shields.io/badge/resources-652-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 407 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
-| <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
+| <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 18 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 12 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
@@ -1036,6 +1036,7 @@ Remember more with less rereading.
 - **[StudyLoop](https://studyloop-liard.vercel.app)** - Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).
 - **[SummarizAI](https://summarizai.ink)** - Summarize YouTube lectures into chapters, chat, and flashcards (freemium).
 - **[SuperMemo](https://www.super-memory.com)** - The original spaced-repetition software for building long-term memory (freemium).
+- **[Terminus: Flashcard Maker](https://apps.apple.com/app/id6822216429)** - Study from a Lock Screen widget, paced to your test date (iOS, free).
 - **[True Recall](https://www.truerecall.app)** - Turn Obsidian notes into spaced-repetition flashcards on desktop and mobile (freemium).
 - **[Vaia](https://www.vaia.com)** - Create flashcards with spaced repetition, notes, and study plans (freemium).
 - **[Vocab Routine](https://apps.apple.com/us/app/vocab-routine-jlpt-topik/id6770267735)** - Study Japanese and Korean flashcards with handwriting practice (iOS, freemium).
