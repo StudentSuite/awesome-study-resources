@@ -4541,5 +4541,12 @@
     "description": "Practice 20 world capitals a day, with answers (free).",
     "section": "By Subject",
     "subsection": "Geography"
+  },
+  {
+    "name": "Scivra",
+    "url": "https://www.scivra.com/",
+    "description": "Run interactive 3D science labs for high school in the browser (freemium).",
+    "section": "By Subject",
+    "subsection": "Physics"
   }
 ]
