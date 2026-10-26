@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-650-blue)
+![Resources](https://img.shields.io/badge/resources-651-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 406 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 407 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -344,8 +344,9 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Physics
 
 <details open>
-<summary>Physics (12 resources)</summary>
+<summary>Physics (13 resources)</summary>
 
+- **[AgentFEM Exercises](https://lab.haoming-luo.com/learn/en.html)** - Explore six finite-element exercises with computed reference results (free).
 - **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics (free).
 - **[HyperPhysics](https://hyperphysics.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
 - **[Isaac Physics](https://isaacscience.org)** - Free, problem-based physics learning platform built by the University of Cambridge (free).

@@ -4548,5 +4548,12 @@
     "description": "Run interactive 3D science labs for high school in the browser (freemium).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "AgentFEM Exercises",
+    "url": "https://lab.haoming-luo.com/learn/en.html",
+    "description": "Explore six finite-element exercises with computed reference results (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
   }
 ]
