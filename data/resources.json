@@ -4548,5 +4548,12 @@
     "description": "Run interactive 3D science labs for high school in the browser (freemium).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "Sandbox Physics",
+    "url": "https://sandboxphysics.com/",
+    "description": "Explore physics through interactive browser experiments (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
   }
 ]
