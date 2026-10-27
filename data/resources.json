@@ -2527,6 +2527,13 @@
     "subsection": null
   },
   {
+    "name": "Koru",
+    "url": "https://www.koru.do",
+    "description": "Keeps notes, docs, and files offline on your own devices (free, open source).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
     "name": "Anki",
     "url": "https://apps.ankiweb.net",
     "description": "Free, open-source spaced-repetition flashcards with huge shared decks (free).",
