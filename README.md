@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-652-blue)
+![Resources](https://img.shields.io/badge/resources-653-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 407 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 408 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -385,9 +385,10 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Biology
 
 <details open>
-<summary>Biology (11 resources)</summary>
+<summary>Biology (12 resources)</summary>
 
 - **[Amoeba Sisters](https://www.amoebasisters.com)** - Friendly animations and handouts for core biology topics (free).
+- **[Animal Profiles](https://animalprofiles.com/)** - Compare animal fact files on size, diet, habitat, and range (free).
 - **[Biology LibreTexts](https://bio.libretexts.org)** - Free, open biology textbooks and references (free).
 - **[BioNinja](https://www.bioninja.com.au)** - Visual notes, diagrams, and quizzes built for IB and A-Level biology (free).
 - **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across biology and the sciences (free).
