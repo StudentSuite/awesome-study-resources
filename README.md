@@ -388,7 +388,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Biology (12 resources)</summary>
 
 - **[Amoeba Sisters](https://www.amoebasisters.com)** - Friendly animations and handouts for core biology topics (free).
-- **[Animal Profiles](https://animalprofiles.com/)** - Compare animal fact files on size, diet, habitat, and range (free).
+- **[Animal Profiles](https://animalprofiles.com/)** - Compare 2,873 animal profiles on size, diet, habitat, and range (free).
 - **[Biology LibreTexts](https://bio.libretexts.org)** - Free, open biology textbooks and references (free).
 - **[BioNinja](https://www.bioninja.com.au)** - Visual notes, diagrams, and quizzes built for IB and A-Level biology (free).
 - **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across biology and the sciences (free).
