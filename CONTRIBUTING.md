@@ -51,7 +51,7 @@ Field reference:
 - `section` - the exact `##` heading text this entry belongs under (see "Where it goes" below), e.g. `"By Subject"`.
 - `subsection` - the exact `###` heading text within that section, e.g. `"Mathematics"`, or `null` if the section has no subsections (see "Where it goes" below for which sections do).
 
-Keep the description to one line, roughly 10 words or fewer. Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and note the pricing when it matters: `(free)`, `(freemium)`, `(paid)`, or "free, open source" for FOSS. No em dashes.
+Keep the description to one line, roughly 10 words or fewer (enforced to a maximum of 15 words, excluding pricing tag). Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and note the pricing when it matters: `(free)`, `(freemium)`, `(paid)`, or "free, open source" for FOSS. No em dashes.
 
 "When it matters" means: tag it if a student could reasonably be surprised (a freemium tool that reads as free, a paid service, a free tier with real limits). You don't need to tag something whose free-ness is already obvious from the description itself (an official government site, an open-source project, a nonprofit's own guide).
 

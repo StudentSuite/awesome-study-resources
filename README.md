@@ -863,7 +863,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level PE revision (freemium).
 - **[Study Rocket](https://studyrocket.co.uk/revision/a-level-physical-education-ocr)** - Revise A Level PE topics with free notes; the app is paid (free).
 - **[Subskills](https://subskills.xyz)** - Learn sports techniques from videos sorted by skill level (free).
-- **[TeachPE.com](https://www.teachpe.com)** - Free revision quizzes and notes on anatomy, training, and skill acquisition for GCSE and A-Level PE (free).
+- **[TeachPE.com](https://www.teachpe.com)** - Revision quizzes and notes for GCSE and A-Level Physical Education (free).
 - **[The EverLearner](https://theeverlearner.com)** - Revision videos and resources for GCSE, A-Level, and BTEC PE and Sport (freemium).
 - **[The PE Classroom](https://thepeclassroom.com)** - Free GCSE PE revision resources, mind maps, and exam-style questions (free).
 
@@ -1058,7 +1058,7 @@ Plan the week, protect the deadlines.
 <summary>Task, Time & Planning (11 resources)</summary>
 
 - **[CalcAttendance](https://calcattendance.com/)** - See how many classes you can safely miss (free).
-- **[Dopastep](https://dopastep.com/)** - Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).
+- **[Dopastep](https://dopastep.com/)** - Splits a task into small steps with synced focus and break cycles (freemium).
 - **[Focusmate](https://www.focusmate.com/)** - Study alongside a partner in live virtual coworking sessions (freemium).
 - **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere (free).
 - **[Habitica](https://habitica.com)** - Turns habits and to-dos into a role-playing game with streaks (free).

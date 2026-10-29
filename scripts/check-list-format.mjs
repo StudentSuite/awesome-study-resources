@@ -69,6 +69,8 @@ export function findBannedAdjective(desc) {
 // The pricing parentheticals CONTRIBUTING.md documents. A description that ends
 // in a parenthetical outside this set is an error, so the monthly pricing
 // review (scripts/pricing-review.mjs) can read every tag.
+export const MAX_DESCRIPTION_WORDS = 15;
+
 export const ALLOWED_PRICING_TAGS = new Set(['free', 'freemium', 'paid', 'free, open source']);
 
 export function slugify(text) {
@@ -148,6 +150,13 @@ export function checkListFormat(readmeText, contributingText) {
       }
       if (item[3].includes('—')) {
         errors.push(`README.md:${i + 1}  Description uses an em dash, CONTRIBUTING.md says no em dashes: ${line}`);
+      }
+      const withoutTag = item[3].replace(/\s*\([^()]*\)\.?$/, "").trim();
+      const wordCount = withoutTag.split(/\s+/).filter(Boolean).length;
+      if (wordCount > MAX_DESCRIPTION_WORDS) {
+        errors.push(
+          `README.md:${i + 1}  Description exceeds ${MAX_DESCRIPTION_WORDS} words (${wordCount} words, excluding tag): ${line}`
+        );
       }
     }
   }
