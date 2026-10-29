@@ -4569,5 +4569,12 @@
     "description": "Explore physics through interactive browser experiments (free).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "Ripple Focus",
+    "url": "https://ripplefocus.github.io/en/",
+    "description": "Free local Android and iOS app that blocks short-video feeds and locks focus sessions with parental or friend unlock codes (free).",
+    "section": "Task, Time & Planning",
+    "subsection": null
   }
 ]
