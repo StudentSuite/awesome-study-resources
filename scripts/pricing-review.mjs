@@ -13,6 +13,7 @@
 
 import { readFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { NON_CONTENT_SECTIONS } from './check-list-format.mjs';
 
 // Target length of one full pass over the list, in months (one batch a month).
 export const CYCLE_MONTHS = 12;
@@ -30,13 +31,21 @@ export function parseEntries(readmeText) {
   const lines = readmeText.split('\n');
   const entries = [];
   let section = null;
+  let inContentSection = true;
 
   for (let i = 0; i < lines.length; i++) {
-    const heading = lines[i].match(/^#{2,3} (.+)/);
-    if (heading) {
-      section = heading[1].trim();
+    const h2 = lines[i].match(/^## (.+)/);
+    if (h2) {
+      section = h2[1].trim();
+      inContentSection = !NON_CONTENT_SECTIONS.has(section);
       continue;
     }
+    const h3 = lines[i].match(/^### (.+)/);
+    if (h3) {
+      section = h3[1].trim();
+      continue;
+    }
+    if (!inContentSection) continue;
     const m = lines[i].match(/^- \*\*\[(.+?)\]\((.+?)\)\*\* - (.+)$/);
     if (!m) continue;
     const [, name, url, desc] = m;
