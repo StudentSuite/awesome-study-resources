@@ -76,8 +76,23 @@ export function validateResources(records) {
       }
     }
 
-    if (typeof record.url === 'string' && !/^https:\/\//.test(record.url)) {
-      errors.push(`${where}: "url" must start with "https://": ${record.url}`);
+    if (typeof record.url === 'string') {
+      if (!/^https:\/\//.test(record.url)) {
+        errors.push(`${where}: "url" must start with "https://": ${record.url}`);
+      } else {
+        try {
+          const parsed = new URL(record.url);
+          const forbiddenKeys = new Set(['fbclid', 'gclid', 'ref', 'si']);
+          for (const key of parsed.searchParams.keys()) {
+            if (key.startsWith('utm_') || forbiddenKeys.has(key)) {
+              errors.push(`${where}: "url" contains tracking parameter "${key}": ${record.url}`);
+              break;
+            }
+          }
+        } catch {
+          // ignore parsing error here
+        }
+      }
     }
 
     if (typeof record.section === 'string') {
