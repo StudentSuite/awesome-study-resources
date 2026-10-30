@@ -91,3 +91,23 @@ test('multiple problems on one record are all reported', () => {
   const errors = validateResources([{ ...VALID_RECORD, name: '', url: 'notaurl' }]);
   assert.equal(errors.length, 2);
 });
+
+test('urls with tracking parameters (utm_, fbclid, gclid, ref, si) are flagged', () => {
+  for (const [key, param] of [
+    ['utm_source', '?utm_source=x'],
+    ['fbclid', '?fbclid=123'],
+    ['gclid', '?gclid=123'],
+    ['ref', '?ref=affiliate'],
+    ['si', '?si=share123'],
+  ]) {
+    const errors = validateResources([{ ...VALID_RECORD, url: `https://apple.example/${param}` }]);
+    assert.equal(errors.length, 1);
+    assert.match(errors[0], new RegExp(`contains tracking query parameter "${key}"`));
+  }
+});
+
+test('urls with legitimate query parameters are allowed', () => {
+  const errors = validateResources([{ ...VALID_RECORD, url: 'https://apple.example/?id=3&page=2' }]);
+  assert.deepEqual(errors, []);
+});
+

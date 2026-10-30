@@ -209,7 +209,7 @@ Official and community prep for the big exams and curricula.
 
 - **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
 - **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
-- **[CtrlAltRevise Pseudocode Practice](https://www.ctrlaltrevise.com/pseudocode-practice?utm_source=directory&utm_medium=referral&utm_campaign=s260906_gcse_directory)** - Practise 0478/0984 pseudocode with original exercises and answers (free).
+- **[CtrlAltRevise Pseudocode Practice](https://www.ctrlaltrevise.com/pseudocode-practice)** - Practise 0478/0984 pseudocode with original exercises and answers (free).
 - **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes (free).
 - **[PapaCambridge](https://pastpapers.papacambridge.com/)** - Free Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).
 - **[Past Papers Academy](https://pastpapersacademy.com/)** - Free Cambridge IGCSE past papers, topical questions, and revision notes (free).
