@@ -6,7 +6,7 @@ const VALID_RECORD = {
   name: 'Apple',
   url: 'https://apple.example',
   description: 'A fruit tool (free).',
-  section: 'Alpha',
+  section: 'Exam & Curriculum Prep',
   subsection: null,
 };
 
@@ -78,7 +78,7 @@ test('same name in a different subsection is allowed', () => {
 });
 
 test('same name in a different section is allowed', () => {
-  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, section: 'Beta' }]);
+  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, section: 'By Subject' }]);
   assert.deepEqual(errors, []);
 });
 
@@ -90,4 +90,17 @@ test('a non-object entry in the array is flagged', () => {
 test('multiple problems on one record are all reported', () => {
   const errors = validateResources([{ ...VALID_RECORD, name: '', url: 'notaurl' }]);
   assert.equal(errors.length, 2);
+});
+
+test('unknown section is rejected and valid headings are listed', () => {
+  const errors = validateResources([{ ...VALID_RECORD, section: 'By Subjects' }]);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /unknown section "By Subjects"/);
+  assert.match(errors[0], /Valid sections are:/);
+  assert.match(errors[0], /Exam & Curriculum Prep/);
+});
+
+test('known section is accepted', () => {
+  const errors = validateResources([{ ...VALID_RECORD, section: 'By Subject' }]);
+  assert.deepEqual(errors, []);
 });

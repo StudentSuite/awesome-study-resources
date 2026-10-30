@@ -43,16 +43,18 @@
 
 import { readFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { SECTIONS } from './readme-template.mjs';
 
 const REQUIRED_STRING_FIELDS = ['name', 'url', 'description', 'section'];
 
-export function validateResources(records) {
+export function validateResources(records, sections = SECTIONS) {
   const errors = [];
 
   if (!Array.isArray(records)) {
     return ['data/resources.json must be a JSON array of resource records.'];
   }
 
+  const validSections = new Set(sections.map((s) => (typeof s === 'string' ? s : s.heading)));
   const seenCombos = new Map(); // "section/subsection/name" -> first index
 
   records.forEach((record, i) => {
@@ -81,13 +83,19 @@ export function validateResources(records) {
     }
 
     if (typeof record.section === 'string') {
-      const key = JSON.stringify([record.section, record.subsection ?? null, record.name]);
-      if (seenCombos.has(key)) {
+      if (!validSections.has(record.section)) {
         errors.push(
-          `${where}: duplicate entry for section/subsection/name, already seen at record ${seenCombos.get(key)}.`
+          `${where}: unknown section "${record.section}". Valid sections are: ${Array.from(validSections).join(', ')}.`
         );
       } else {
-        seenCombos.set(key, i);
+        const key = JSON.stringify([record.section, record.subsection ?? null, record.name]);
+        if (seenCombos.has(key)) {
+          errors.push(
+            `${where}: duplicate entry for section/subsection/name, already seen at record ${seenCombos.get(key)}.`
+          );
+        } else {
+          seenCombos.set(key, i);
+        }
       }
     }
   });
