@@ -43,16 +43,18 @@
 
 import { readFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { SECTIONS } from './readme-template.mjs';
 
 const REQUIRED_STRING_FIELDS = ['name', 'url', 'description', 'section'];
 
-export function validateResources(records) {
+export function validateResources(records, validHeadings = SECTIONS.map((s) => s.heading)) {
   const errors = [];
 
   if (!Array.isArray(records)) {
     return ['data/resources.json must be a JSON array of resource records.'];
   }
 
+  const validSectionsSet = new Set(validHeadings);
   const seenCombos = new Map(); // "section/subsection/name" -> first index
 
   records.forEach((record, i) => {
@@ -80,7 +82,12 @@ export function validateResources(records) {
       errors.push(`${where}: "url" must start with "https://": ${record.url}`);
     }
 
-    if (typeof record.section === 'string') {
+    if (typeof record.section === 'string' && record.section.trim() !== '') {
+      if (!validSectionsSet.has(record.section)) {
+        errors.push(
+          `${where}: unknown section "${record.section}". Valid sections are: ${validHeadings.join(', ')}.`
+        );
+      }
       const key = JSON.stringify([record.section, record.subsection ?? null, record.name]);
       if (seenCombos.has(key)) {
         errors.push(
