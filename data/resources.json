@@ -2088,7 +2088,7 @@
   {
     "name": "TeachPE.com",
     "url": "https://www.teachpe.com",
-    "description": "Free revision quizzes and notes on anatomy, training, and skill acquisition for GCSE and A-Level PE (free).",
+    "description": "Revision quizzes and notes for GCSE and A-Level Physical Education (free).",
     "section": "By Subject",
     "subsection": "Physical Education"
   },
@@ -2606,7 +2606,7 @@
   {
     "name": "Dopastep",
     "url": "https://dopastep.com/",
-    "description": "Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).",
+    "description": "Splits a task into small steps with synced focus and break cycles (freemium).",
     "section": "Task, Time & Planning",
     "subsection": null
   },
@@ -3116,7 +3116,7 @@
   },
   {
     "name": "CtrlAltRevise Pseudocode Practice",
-    "url": "https://www.ctrlaltrevise.com/pseudocode-practice?utm_source=directory&utm_medium=referral&utm_campaign=s260906_gcse_directory",
+    "url": "https://www.ctrlaltrevise.com/pseudocode-practice",
     "description": "Practise 0478/0984 pseudocode with original exercises and answers (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"

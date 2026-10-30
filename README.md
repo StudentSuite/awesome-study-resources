@@ -209,7 +209,7 @@ Official and community prep for the big exams and curricula.
 
 - **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
 - **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
-- **[CtrlAltRevise Pseudocode Practice](https://www.ctrlaltrevise.com/pseudocode-practice?utm_source=directory&utm_medium=referral&utm_campaign=s260906_gcse_directory)** - Practise 0478/0984 pseudocode with original exercises and answers (free).
+- **[CtrlAltRevise Pseudocode Practice](https://www.ctrlaltrevise.com/pseudocode-practice)** - Practise 0478/0984 pseudocode with original exercises and answers (free).
 - **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes (free).
 - **[PapaCambridge](https://pastpapers.papacambridge.com/)** - Free Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).
 - **[Past Papers Academy](https://pastpapersacademy.com/)** - Free Cambridge IGCSE past papers, topical questions, and revision notes (free).
@@ -863,7 +863,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level PE revision (freemium).
 - **[Study Rocket](https://studyrocket.co.uk/revision/a-level-physical-education-ocr)** - Revise A Level PE topics with free notes; the app is paid (free).
 - **[Subskills](https://subskills.xyz)** - Learn sports techniques from videos sorted by skill level (free).
-- **[TeachPE.com](https://www.teachpe.com)** - Free revision quizzes and notes on anatomy, training, and skill acquisition for GCSE and A-Level PE (free).
+- **[TeachPE.com](https://www.teachpe.com)** - Revision quizzes and notes for GCSE and A-Level Physical Education (free).
 - **[The EverLearner](https://theeverlearner.com)** - Revision videos and resources for GCSE, A-Level, and BTEC PE and Sport (freemium).
 - **[The PE Classroom](https://thepeclassroom.com)** - Free GCSE PE revision resources, mind maps, and exam-style questions (free).
 
@@ -1058,7 +1058,7 @@ Plan the week, protect the deadlines.
 <summary>Task, Time & Planning (11 resources)</summary>
 
 - **[CalcAttendance](https://calcattendance.com/)** - See how many classes you can safely miss (free).
-- **[Dopastep](https://dopastep.com/)** - Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).
+- **[Dopastep](https://dopastep.com/)** - Splits a task into small steps with synced focus and break cycles (freemium).
 - **[Focusmate](https://www.focusmate.com/)** - Study alongside a partner in live virtual coworking sessions (freemium).
 - **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere (free).
 - **[Habitica](https://habitica.com)** - Turns habits and to-dos into a role-playing game with streaks (free).

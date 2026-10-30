@@ -161,6 +161,23 @@ test('em dash in a description is flagged', () => {
   assert.ok(errors.some((e) => /em dash/.test(e)));
 });
 
+test('description exceeding MAX_DESCRIPTION_WORDS is flagged', () => {
+  const readme = VALID_README.replace(
+    '- **[Apple](https://apple.example)** - A fruit tool (free).',
+    '- **[Apple](https://apple.example)** - One two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen (free).'
+  );
+  const errors = errorsFor(readme);
+  assert.ok(errors.some((e) => /exceeds 15 words/.test(e)));
+});
+
+test('description with exactly MAX_DESCRIPTION_WORDS passes', () => {
+  const readme = VALID_README.replace(
+    '- **[Apple](https://apple.example)** - A fruit tool (free).',
+    '- **[Apple](https://apple.example)** - One two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen (free).'
+  );
+  assert.deepEqual(errorsFor(readme), []);
+});
+
 test('CONTRIBUTING missing a README section is flagged', () => {
   const contributing = VALID_CONTRIBUTING.replace('- Beta\n', '');
   const errors = errorsFor(VALID_README, contributing);
