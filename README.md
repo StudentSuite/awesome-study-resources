@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-653-blue)
+![Resources](https://img.shields.io/badge/resources-654-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 408 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 409 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -286,13 +286,14 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Mathematics
 
 <details open>
-<summary>Mathematics (12 resources)</summary>
+<summary>Mathematics (13 resources)</summary>
 
 - **[3Blue1Brown](https://www.3blue1brown.com)** - Visual, intuition-first explanations of hard math ideas (free).
 - **[Art of Problem Solving](https://artofproblemsolving.com/)** - Free adaptive practice, wiki, and forums for competition and advanced math (freemium).
 - **[Brilliant](https://brilliant.org)** - Interactive courses that build intuition through problem solving (freemium).
 - **[Calculator Campus](https://www.calculatorcampus.com/)** - Use free practical calculators with formulas, examples, and named sources.
 - **[Corbettmaths](https://corbettmaths.com/)** - Free Maths questions, worksheets, and videos by GCSE and A-Level topic (free).
+- **[Derivative Calculator AI](https://derivativecalculatorai.com/)** - Solve derivatives, integrals and limits step by step, with answer checking (free).
 - **[Desmos](https://www.desmos.com)** - Free graphing and geometry calculators for exploring functions (free).
 - **[GeoGebra](https://www.geogebra.org)** - Graph functions and explore geometry with interactive tools (free).
 - **[Khan Academy](https://www.khanacademy.org/math)** - Free video lessons and practice exercises across all math levels (free).
