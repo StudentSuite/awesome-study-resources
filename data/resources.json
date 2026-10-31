@@ -4576,5 +4576,12 @@
     "description": "Explore physics through interactive browser experiments (free).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "Voqusa",
+    "url": "https://www.voqusa.com/en/free/youtube-transcript",
+    "description": "Turns lecture and YouTube videos into text transcripts; free signup, 5 free credits (freemium).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
   }
 ]
