@@ -55,6 +55,16 @@ Keep the description to one line, roughly 10 words or fewer (enforced to a maxim
 
 "When it matters" means: tag it if a student could reasonably be surprised (a freemium tool that reads as free, a paid service, a free tier with real limits). You don't need to tag something whose free-ness is already obvious from the description itself (an official government site, an open-source project, a nonprofit's own guide).
 
+Editors can flag a missing field or an `http://` URL while you type: `data/resources.schema.json` is a JSON Schema for the file. In VS Code, add this to your settings (the array shape stays unchanged, so there is no `$schema` key in the data):
+
+```json
+"json.schemas": [
+  { "fileMatch": ["data/resources.json"], "url": "./data/resources.schema.json" }
+]
+```
+
+The schema is an editor aid only; `scripts/validate-resources.mjs` remains the CI gate, and a unit test keeps the two in step.
+
 After editing `data/resources.json`, run `node scripts/generate-readme.mjs` to regenerate README.md (see [CI checks](#ci-checks) below) and commit both files.
 
 ---

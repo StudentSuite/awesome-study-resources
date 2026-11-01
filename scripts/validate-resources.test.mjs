@@ -1,6 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { validateResources } from './validate-resources.mjs';
+import { readFileSync } from 'node:fs';
+import { validateResources, REQUIRED_STRING_FIELDS } from './validate-resources.mjs';
 
 const VALID_RECORD = {
   name: 'Apple',
@@ -124,3 +125,19 @@ test('urls with legitimate query parameters are allowed', () => {
   assert.deepEqual(errors, []);
 });
 
+
+const SCHEMA = JSON.parse(
+  readFileSync(new URL('../data/resources.schema.json', import.meta.url), 'utf8')
+);
+
+test('JSON Schema required list and properties match the validator fields', () => {
+  const item = SCHEMA.items;
+  assert.deepEqual([...item.required].sort(), [...REQUIRED_STRING_FIELDS].sort());
+  assert.deepEqual(
+    Object.keys(item.properties).sort(),
+    [...REQUIRED_STRING_FIELDS, 'subsection'].sort()
+  );
+  assert.equal(item.additionalProperties, false);
+  assert.equal(item.properties.url.pattern, '^https://');
+  assert.deepEqual(item.properties.subsection.type.sort(), ['null', 'string']);
+});

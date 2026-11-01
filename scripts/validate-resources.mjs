@@ -34,6 +34,10 @@
 // generate-readme.mjs); entries themselves are sorted alphabetically by the
 // generator regardless of file order.
 //
+// data/resources.schema.json describes the same shape as a JSON Schema so
+// editors can flag bad records while typing; this script stays the CI gate, and
+// a test keeps the two in step.
+//
 // Usage:
 //   node scripts/validate-resources.mjs
 //
@@ -45,7 +49,7 @@ import { readFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { SECTIONS } from './readme-template.mjs';
 
-const REQUIRED_STRING_FIELDS = ['name', 'url', 'description', 'section'];
+export const REQUIRED_STRING_FIELDS = ['name', 'url', 'description', 'section'];
 
 export function validateResources(records, sections = SECTIONS) {
   const errors = [];
