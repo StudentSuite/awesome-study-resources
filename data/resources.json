@@ -4576,5 +4576,12 @@
     "description": "Explore physics through interactive browser experiments (free).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "QuizQuip",
+    "url": "https://quizquip.com",
+    "description": "Revise IGCSE and Singapore secondary science with notes, quizzes, and practice papers (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
   }
 ]

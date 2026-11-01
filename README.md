@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-654-blue)
+![Resources](https://img.shields.io/badge/resources-655-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 409 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
@@ -205,7 +205,7 @@ Official and community prep for the big exams and curricula.
 ### IGCSE
 
 <details open>
-<summary>IGCSE (10 resources)</summary>
+<summary>IGCSE (11 resources)</summary>
 
 - **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
 - **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
@@ -214,6 +214,7 @@ Official and community prep for the big exams and curricula.
 - **[PapaCambridge](https://pastpapers.papacambridge.com/)** - Free Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).
 - **[Past Papers Academy](https://pastpapersacademy.com/)** - Free Cambridge IGCSE past papers, topical questions, and revision notes (free).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects (free).
+- **[QuizQuip](https://quizquip.com)** - Revise IGCSE and Singapore secondary science with notes, quizzes, and practice papers (freemium).
 - **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across IGCSE and GCSE subjects (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
 - **[ZNotes](https://znotes.org)** - Free community-written summary notes for Cambridge and Edexcel (free).
