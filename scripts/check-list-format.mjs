@@ -148,6 +148,11 @@ export function checkListFormat(readmeText, contributingText) {
           `README.md:${i + 1}  Pricing tag "(${tag})" is not one of ${[...ALLOWED_PRICING_TAGS].map((t) => `(${t})`).join(', ')}; move the nuance into the description: ${line}`
         );
       }
+      if (/^Free\b/.test(item[3]) && (tag === 'freemium' || tag === 'paid')) {
+        errors.push(
+          `README.md:${i + 1}  Description opens with "Free" but is tagged (${tag}); lead with a verb instead: ${line}`
+        );
+      }
       if (item[3].includes('—')) {
         errors.push(`README.md:${i + 1}  Description uses an em dash, CONTRIBUTING.md says no em dashes: ${line}`);
       }

@@ -152,6 +152,26 @@ test('"free, open source" and the three bare tags pass the pricing check', () =>
   }
 });
 
+test('a description opening with "Free" but tagged freemium or paid is flagged', () => {
+  for (const [desc, bad] of [
+    ['Free tutorials on X (freemium).', true],
+    ['Free, open tutorials on X (paid).', true],
+    ['Free tutorials on X (free).', false],
+    ['Learn X with free tutorials (freemium).', false],
+    ['Freehand drawing tutorials (freemium).', false],
+  ]) {
+    const readme = VALID_README.replace(
+      '- **[Apple](https://apple.example)** - A fruit tool (free).',
+      `- **[Apple](https://apple.example)** - ${desc}`
+    );
+    assert.equal(
+      errorsFor(readme).some((e) => /opens with "Free"/.test(e)),
+      bad,
+      desc
+    );
+  }
+});
+
 test('em dash in a description is flagged', () => {
   const readme = VALID_README.replace(
     '- **[Apple](https://apple.example)** - A fruit tool (free).',
