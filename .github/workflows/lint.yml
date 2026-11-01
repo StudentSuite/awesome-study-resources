@@ -18,6 +18,8 @@ on:
       - scripts/generate-readme.mjs
       - scripts/readme-template.mjs
       - .github/workflows/lint.yml
+      - .github/ISSUE_TEMPLATE/resource_suggestion.yml
+      - scripts/check-issue-form.mjs
 
 permissions:
   contents: read
@@ -43,5 +45,8 @@ jobs:
       # Fails if the resource-count badge, sections badge, or Table of Contents
       # counts have drifted; run `node scripts/update-counts.mjs` to regenerate.
       - run: node scripts/update-counts.mjs --check
+      # Fails if the suggest-a-resource form's section dropdown has drifted from
+      # the README sections (names and order).
+      - run: node scripts/check-issue-form.mjs
       # Informational only: reports cross-section URL reuse, never fails the job.
       - run: node scripts/audit-duplicate-urls.mjs

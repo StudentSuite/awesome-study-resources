@@ -127,14 +127,16 @@ node scripts/validate-resources.mjs
 node scripts/generate-readme.mjs --check
 node scripts/check-list-format.mjs
 node scripts/update-counts.mjs --check
+node scripts/check-issue-form.mjs
 ```
 
 - `scripts/validate-resources.mjs` checks `data/resources.json` itself: every record has a non-empty `name`, `url`, `description`, and `section`; `url` starts with `https://`; `subsection` is a non-empty string or `null`; and no two records share the same `section` + `subsection` + `name`.
 - `scripts/generate-readme.mjs --check` fails if README.md doesn't match what `data/resources.json` currently generates, i.e. you edited README.md by hand instead of the data file, or forgot to regenerate after editing the data file. Fix it with `node scripts/generate-readme.mjs` (no `--check`), which rewrites README.md in place.
 - `scripts/check-list-format.mjs` runs on the generated README.md as a safety net: it verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script), that a trailing pricing parenthetical is one of `ALLOWED_PRICING_TAGS` (`free`, `freemium`, `paid`, `free, open source`), and that the "Where it goes" list above stays in sync with README's section headings (same names, same order). The generator should always produce output that passes this, so a failure here on a generated README usually means a bug in the generator or the template, worth flagging.
+- `scripts/check-issue-form.mjs` fails if the section dropdown in `.github/ISSUE_TEMPLATE/resource_suggestion.yml` doesn't list the same sections as the README, in the same order (plus the one extra "Not sure / none of these fit" option).
 - `scripts/update-counts.mjs --check` fails if the header badges (`resources-N`, `sections-N`) or the per-section Table of Contents counts are out of date. These are also computed by the generator, so this is a second safety net rather than something you need to run separately in normal use.
 
-All four run in CI on every PR. The `test`, `check-list-format` and `markdownlint` workflows are required by branch protection, so they carry no path filter.
+All of these run in CI on every PR. The `test`, `check-list-format` and `markdownlint` workflows are required by branch protection, so they carry no path filter.
 
 A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks every link in every file listed in its `args` (currently README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, CHANGELOG.md, CONTRIBUTORS.md, SECURITY.md, and the PR template) weekly using [lychee](https://github.com/lycheeverse/lychee), configured via `lychee.toml`. Some legitimate sites reject automated requests with a 403, so that status is accepted rather than treated as broken; see the comments in `lychee.toml` for the current exceptions.
 
