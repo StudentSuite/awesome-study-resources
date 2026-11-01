@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-655-blue)
+![Resources](https://img.shields.io/badge/resources-653-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 409 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 407 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -414,7 +414,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms (free).
 - **[Craig 'n' Dave](https://craigndave.org/)** - Ad-free videos covering the full GCSE and A-Level Computer Science specs (freemium).
 - **[CS50x](https://cs50.harvard.edu/x/)** - Learn computer science foundations in Harvard's course; the certificate is paid (free).
-- **[Firebase](https://firebase.google.com)** - Google backend for building apps quickly (freemium).
+- **[Firebase](https://firebase.google.com)** - Build app backends with auth, database, and hosting on a free tier (freemium).
 - **[GeeksforGeeks](https://www.geeksforgeeks.org)** - Explains CS fundamentals, data structures, and algorithms with practice problems (freemium).
 - **[Khan Academy Computer Science](https://www.khanacademy.org/computing)** - Free lessons and practice across intro programming, SQL, and computer science (free).
 - **[Nand2Tetris](https://www.nand2tetris.org)** - Build a computer from logic gates to software (free).
@@ -515,11 +515,10 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### English Language and Literature
 
 <details open>
-<summary>English Language and Literature (11 resources)</summary>
+<summary>English Language and Literature (10 resources)</summary>
 
 - **[CliffsNotes](https://www.cliffsnotes.com/literature)** - Free literature notes, summaries, and study guides for classic and contemporary texts (freemium).
 - **[Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/)** - Read and search the complete works of Shakespeare (free).
-- **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
 - **[LanguageTool](https://languagetool.org)** - Free, open grammar and style checker in many languages (freemium).
 - **[LitCharts](https://www.litcharts.com)** - Study guides with summaries, themes, and quotes for literature texts (freemium).
 - **[Mr Bruff](https://www.youtube.com/@mrbruff)** - Free GCSE and A-Level English Language and Literature revision videos (free).
@@ -650,7 +649,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Global Politics (12 resources)</summary>
 
-- **[12 Axes](https://12axes.site/)** - Place your political views on twelve separate axes (free).
+- **[12 Axes](https://12axes.site/)** - Compare political ideologies by plotting your views on twelve axes (free).
 - **[CFR Education](https://www.cfr.org/education)** - Free CFR modules explaining international relations and foreign policy (free).
 - **[Chatham House](https://www.chathamhouse.org/)** - Free analysis and research on international relations and global politics (freemium).
 - **[Global Issues](https://www.globalissues.org)** - Read in-depth articles on poverty, conflict, and global affairs (free).
@@ -917,7 +916,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/photography)** - Free class notes, flashcards, and quizzes for GCSE Photography (free).
 - **[iPhotography](https://www.iphotography.com/blog/gcse-photography-a-student-revision-guide/)** - Free guide to camera settings, composition, and exam-board expectations for GCSE Photography (free).
 - **[Magnum Photos](https://www.magnumphotos.com/)** - Browses documentary photography archives and essays (free).
-- **[PetaPixel](https://petapixel.com/)** - Follow photography news, tutorials, and gear reviews; ad-free membership is paid (free).
+- **[PetaPixel](https://petapixel.com/)** - Learn photography technique from tutorials and gear guides; ad-free membership is paid (free).
 - **[Photography Life](https://photographylife.com)** - Photography tutorials, camera reviews, and free beginner courses (free).
 - **[PhotoPedagogy](https://www.photopedagogy.com/)** - Shares photography teaching concepts, assignments, and analysis resources (free).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Photography revision content (free).
@@ -982,10 +981,9 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Dance
 
 <details open>
-<summary>Dance (10 resources)</summary>
+<summary>Dance (9 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zg9jtfr)** - Covers GCSE dance revision notes, videos, and practice questions (free).
-- **[Dance Magazine](https://www.dancemagazine.com/)** - Read dance news, features, and career advice (freemium).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/dance)** - Free class notes, flashcards, and quizzes for GCSE Dance (free).
 - **[Rambert Classroom](https://rambert.org.uk/participation/schools-and-colleges/rambert-classroom/)** - Videos and guides on GCSE and A-Level Dance set works from a professional company (freemium).
 - **[Revision World](https://revisionworld.com/exam-subjects/dance)** - Free GCSE and A-Level Dance revision guides by exam board (free).

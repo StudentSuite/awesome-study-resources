@@ -103,6 +103,10 @@ v1.0.0 tag itself.
 
 ### Removed
 
+- Dance Magazine from By Subject / Dance: a news and features magazine rather
+  than a study resource (#472).
+- The duplicate Language Reactor record from By Subject / English Language and
+  Literature; it stays under Foreign Languages, where it fits (#472).
 - Photography Revision from By Subject / Photography: the domain has expired
   and now serves a Namecheap parking page (#183).
 - EconplusDal from By Subject / Economics: its YouTube handle (@EconplusDal) now

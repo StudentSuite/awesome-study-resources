@@ -912,7 +912,7 @@
   {
     "name": "Firebase",
     "url": "https://firebase.google.com",
-    "description": "Google backend for building apps quickly (freemium).",
+    "description": "Build app backends with auth, database, and hosting on a free tier (freemium).",
     "section": "By Subject",
     "subsection": "Computer Science"
   },
@@ -1207,13 +1207,6 @@
     "name": "CliffsNotes",
     "url": "https://www.cliffsnotes.com/literature",
     "description": "Free literature notes, summaries, and study guides for classic and contemporary texts (freemium).",
-    "section": "By Subject",
-    "subsection": "English Language and Literature"
-  },
-  {
-    "name": "Language Reactor",
-    "url": "https://www.languagereactor.com",
-    "description": "Learn languages from real video and subtitles (freemium).",
     "section": "By Subject",
     "subsection": "English Language and Literature"
   },
@@ -1563,7 +1556,7 @@
   {
     "name": "12 Axes",
     "url": "https://12axes.site/",
-    "description": "Place your political views on twelve separate axes (free).",
+    "description": "Compare political ideologies by plotting your views on twelve axes (free).",
     "section": "By Subject",
     "subsection": "Global Politics"
   },
@@ -3859,7 +3852,7 @@
   {
     "name": "PetaPixel",
     "url": "https://petapixel.com/",
-    "description": "Follow photography news, tutorials, and gear reviews; ad-free membership is paid (free).",
+    "description": "Learn photography technique from tutorials and gear guides; ad-free membership is paid (free).",
     "section": "By Subject",
     "subsection": "Photography"
   },
@@ -3883,13 +3876,6 @@
     "description": "Read Shakespeare's complete works and lesson plans (free).",
     "section": "By Subject",
     "subsection": "Theatre"
-  },
-  {
-    "name": "Dance Magazine",
-    "url": "https://www.dancemagazine.com/",
-    "description": "Read dance news, features, and career advice (freemium).",
-    "section": "By Subject",
-    "subsection": "Dance"
   },
   {
     "name": "The Missing Semester of Your CS Education",
