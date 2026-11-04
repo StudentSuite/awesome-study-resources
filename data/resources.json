@@ -4576,5 +4576,12 @@
     "description": "Revise IGCSE and Singapore secondary science with notes, quizzes, and practice papers (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"
+  },
+  {
+    "name": "soclever",
+    "url": "https://soclever.io",
+    "description": "AI tutor that turns any topic into five-minute lessons with practice questions (freemium).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
   }
 ]

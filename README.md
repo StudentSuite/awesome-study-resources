@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-654-blue)
+![Resources](https://img.shields.io/badge/resources-655-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 12 |
-| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
+| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 11 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 12 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 20 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
@@ -1103,7 +1103,7 @@ Draft, cite, and polish papers.
 Know what's allowed, and how to cite AI-assisted work, before you submit. AI-text detectors give unreliable results and should not be treated as proof of misconduct: OpenAI [withdrew its own AI classifier](https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/) for low accuracy, and a [2023 study](https://arxiv.org/abs/2304.02819) found detectors consistently misclassify non-native English writing as AI-generated.
 
 <details open>
-<summary>AI & Academic Integrity (10 resources)</summary>
+<summary>AI & Academic Integrity (11 resources)</summary>
 
 - **[APA Style: Citing ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)** - Official APA guidance on citing AI-generated content (free).
 - **[Chicago Manual of Style: Citing ChatGPT](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html)** - Official Chicago Style Q&A on crediting generative AI output (free).
@@ -1114,6 +1114,7 @@ Know what's allowed, and how to cite AI-assisted work, before you submit. AI-tex
 - **[MLA Style Center: Citing Generative AI](https://style.mla.org/citing-generative-ai-updated-revised/)** - Official MLA guidance on citing generative AI (free).
 - **[Purdue Libraries: Citing AI-Generated Content](https://guides.lib.purdue.edu/c.php?g=1371380&p=10135074)** - Compares how to cite AI tools across APA, MLA, Chicago, and IEEE (free).
 - **[Scribbr AI Detector](https://www.scribbr.com/ai-detector/)** - Checks writing for AI-generated text, free up to 1,200 words (freemium).
+- **[soclever](https://soclever.io)** - AI tutor that turns any topic into five-minute lessons with practice questions (freemium).
 - **[UNESCO: AI in Education](https://www.unesco.org/en/digital-education/artificial-intelligence)** - Read international guidance on generative AI use in education (free).
 
 </details>
