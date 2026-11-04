@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-653-blue)
+![Resources](https://img.shields.io/badge/resources-654-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 407 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 408 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -477,7 +477,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Accounting
 
 <details open>
-<summary>Accounting (11 resources)</summary>
+<summary>Accounting (12 resources)</summary>
 
 - **[Accounting Stuff](https://www.youtube.com/@AccountingStuff)** - Watch step-by-step accounting lessons from a qualified accountant (free).
 - **[AccountingCoach](https://www.accountingcoach.com)** - Learn core accounting topics with explanations, quizzes, and flashcards (freemium).
@@ -489,6 +489,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Khan Academy Accounting and Financial Statements](https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-statement)** - Free lessons on financial statements and core accounting concepts (free).
 - **[My Accounting Course](https://www.myaccountingcourse.com/)** - Look up accounting terms and learn core concepts with tutorials and quizzes (freemium).
 - **[OpenStax Principles of Accounting](https://openstax.org/details/books/principles-financial-accounting)** - Read a full financial accounting textbook online (free).
+- **[PractiBalance](https://practibalance.com/)** - Practice journal entries and get feedback on every debit and credit (free).
 - **[Save My Exams](https://www.savemyexams.com/subjects/accounting/)** - Revision notes, topic questions, and past papers for IGCSE and A-Level Accounting (freemium).
 
 </details>
