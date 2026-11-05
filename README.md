@@ -152,7 +152,7 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Extended Essay (10 resources)</summary>
 
-- **[Clastify](https://www.clastify.com/blog/ib-extended-essay-guide)** - Searchable bank of grade-A Extended Essay exemplars across subjects (freemium).
+- **[Clastify](https://www.clastify.com/knowledge-hub/post/ib-extended-essay-guide)** - Searchable bank of grade-A Extended Essay exemplars across subjects (freemium).
 - **[CollegeVine](https://blog.collegevine.com/ib-extended-essay-topic)** - Free guide to choosing and narrowing an IB Extended Essay topic (free).
 - **[Extended Essay Planner](https://aldevere.com/tools/extended-essay-planner/)** - Free tool that turns a vague EE idea into a focused research question (free).
 - **[IB Extended Essay](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/)** - The IB's official overview of the Extended Essay requirements and process (free).
@@ -226,7 +226,7 @@ Official and community prep for the big exams and curricula.
 <summary>PSAT (11 resources)</summary>
 
 - **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests (free).
-- **[College Board PSAT/NMSQT](https://satsuite.collegeboard.org/psat-nmsqt)** - The official overview, dates, and score info for the PSAT/NMSQT (free).
+- **[College Board PSAT/NMSQT](https://satsuite.collegeboard.org/in-school-assessments)** - The official overview, dates, and score info for the PSAT/NMSQT (free).
 - **[High School Test Prep](https://highschooltestprep.com/psat/)** - Free PSAT practice tests with detailed answer explanations by section (free).
 - **[Kaplan PSAT](https://www.kaptest.com/psat/free/psat-practice)** - Free PSAT practice quizzes and live cram sessions from a major test-prep company (free).
 - **[Khan Academy PSAT Practice](https://www.khanacademy.org/digital-sat)** - Free official practice built with College Board, aligned to the PSAT (free).
@@ -235,7 +235,7 @@ Official and community prep for the big exams and curricula.
 - **[The Princeton Review PSAT](https://www.princetonreview.com/college/free-digitalpsat-practice-test)** - Free full-length Digital PSAT practice test with a score report (freemium).
 - **[Union Test Prep](https://uniontestprep.com/psat-nmsqt-exam)** - Free PSAT/NMSQT practice tests, study guides, and flashcards (free).
 - **[UWorld PSAT](https://collegeprep.uworld.com/psat/)** - Practice PSAT questions with detailed answer explanations (freemium).
-- **[Varsity Tutors PSAT](https://www.varsitytutors.com/psat-practice-tests)** - Practice PSAT questions with a free study plan (freemium).
+- **[Varsity Tutors PSAT](https://www.varsitytutors.com/practice/subjects/psat)** - Practice PSAT questions with a free study plan (freemium).
 
 </details>
 
@@ -308,7 +308,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Statistics (11 resources)</summary>
 
-- **[Crash Course Statistics](https://thecrashcourse.com/courses/statistics/)** - A 44-episode video series covering statistics from basics to modeling (free).
+- **[Crash Course Statistics](https://thecrashcourse.com/topic/statistics/)** - A 44-episode video series covering statistics from basics to modeling (free).
 - **[Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)** - Free lessons and practice across statistics and probability (free).
 - **[Online Statistics Education](https://onlinestatbook.com)** - Read a free interactive statistics textbook with simulations.
 - **[OpenIntro Statistics](https://www.openintro.org/book/os/)** - Free, open-source statistics textbook used by universities worldwide (free).
@@ -448,7 +448,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[DataReportal](https://datareportal.com/)** - Free country reports on internet, social media, and technology use (free).
 - **[IB Guides](https://ibguides.com/itgs/home/)** - Free ITGS syllabus objectives, unit guides, and videos (free).
 - **[Nail IB](https://nailib.com/blog/ib-itgs)** - Free overview of the ITGS course, its IA, and whether it fits you (free).
-- **[Pew Research Center](https://www.pewresearch.org/internet/)** - Free, nonpartisan research and data on technology's impact on society (free).
+- **[Pew Research Center](https://www.pewresearch.org/topic/internet-technology/)** - Free, nonpartisan research and data on technology's impact on society (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-itgs)** - Notes, flashcards, and a question bank for IB ITGS (freemium).
 - **[Surveillance Self-Defense](https://ssd.eff.org/)** - Learn how to protect your privacy and security online (free).
 
@@ -506,7 +506,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive business revision (freemium).
 - **[Sense Business](https://sensebusiness.co.uk/)** - Free GCSE business studies revision notes and topic quizzes (free).
 - **[TakingTheBiz](https://www.youtube.com/TakingTheBiz)** - Video revision lessons for GCSE, A-Level, and IB Business (free).
-- **[tutor2u](https://www.tutor2u.net/business)** - Notes, revision, and exam support for Business Studies (freemium).
+- **[tutor2u](https://www.tutor2u.net/teaching/business)** - Notes, revision, and exam support for Business Studies (freemium).
 
 </details>
 
@@ -592,11 +592,11 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>World Religions (11 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmyb4wx)** - Free curriculum-aligned GCSE Religious Studies revision guides and quizzes (free).
-- **[Crash Course Religions](https://thecrashcourse.com/courses/religions/)** - A 24-episode video series exploring world religions and belief systems (free).
+- **[Crash Course Religions](https://thecrashcourse.com/courses/religions-and-pop-culture-crash-course-religions-24/)** - A 24-episode video series exploring world religions and belief systems (free).
 - **[Database of Religious History](https://religiondatabase.org/landing/)** - Free, scholarly encyclopedia of religious traditions across history (free).
 - **[IB World Religions](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/world-religions/)** - Outlines the official IB syllabus covering nine major religions (free).
 - **[Internet Sacred Text Archive](https://sacred-texts.com/)** - Free archive of religious and sacred texts from world traditions (free).
-- **[Pew Research Center Religion](https://www.pewresearch.org/religion/)** - Browse nonpartisan data and reports on religion around the world (free).
+- **[Pew Research Center Religion](https://www.pewresearch.org/topic/religion/)** - Browse nonpartisan data and reports on religion around the world (free).
 - **[Religion and Public Life](https://rpl.hds.harvard.edu)** - Free HarvardX courses and research on world religious traditions (freemium).
 - **[ReligionFacts](https://religionfacts.com)** - Compare world religions with neutral overviews and glossaries (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-world-religions)** - Bite-sized topic summaries and IA exemplars for IB World Religions (freemium).
@@ -692,7 +692,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Flag Drill](https://flagdrill.com/)** - Practice flag quizzes for 193 UN members and similar flags (free).
 - **[Geography All The Way](https://www.geographyalltheway.com/)** - IB DP Geography case studies, exam prep, and geographic skills (freemium).
 - **[Internet Geography](https://www.internetgeography.net)** - Free notes and case studies for GCSE geography (freemium).
-- **[National Geographic Education](https://www.nationalgeographic.org/education/)** - Free geography lesson plans, maps, and interactive classroom resources (free).
+- **[National Geographic Education](https://www.nationalgeographic.org/learn/educators)** - Free geography lesson plans, maps, and interactive classroom resources (free).
 - **[Our World in Data](https://ourworldindata.org)** - Explore interactive charts on population, climate, and development (free).
 - **[Royal Geographical Society](https://www.rgs.org/schools/resources-for-schools)** - Free case studies, fieldwork guidance, and careers resources for geography students (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
@@ -734,7 +734,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Mr Kremer's Science](https://mrkremerscience.com/new-ess/)** - Free IB ESS topic explanations, flashcards, and video lessons by a teacher (free).
 - **[NOAA Climate](https://www.noaa.gov/climate)** - Explains climate science with data, tools, and news from NOAA (free).
 - **[Our World in Data](https://ourworldindata.org)** - Free data and research on environmental, climate, and global issues (free).
-- **[Revision Village](https://www.revisionvillage.com/ib-ess/sl-2026/)** - Questionbank, past papers, and flashcards for IB ESS (freemium).
+- **[Revision Village](https://www.revisionvillage.com/ib-ess/sl/)** - Questionbank, past papers, and flashcards for IB ESS (freemium).
 - **[Save My Exams](https://www.savemyexams.com/dp/environmental-systems-and-societies-ess/)** - Revision notes, exam questions, and past papers for IB ESS (freemium).
 - **[Science Sauce](https://sciencesauceonline.com/ibess/)** - IB ESS topic summaries, case studies, and IA support from a teacher (freemium).
 
@@ -804,7 +804,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[American Anthropological Association](https://americananthro.org/learn-teach/)** - Explore what anthropology is, with teaching and learning resources (free).
 - **[Anthropology News](https://www.anthropology-news.org)** - Free AAA magazine covering current anthropological research and teaching (free).
 - **[Discover Anthropology](https://discoveranthropology.org.uk/)** - Introduces anthropology as a field with study and career guidance (free).
-- **[Fieldsights](https://culanth.org/fieldsights)** - Read open-access essays and podcasts from working cultural anthropologists (free).
+- **[Fieldsights](https://www.culanth.org/fieldsights)** - Read open-access essays and podcasts from working cultural anthropologists (free).
 - **[IB Social and Cultural Anthropology](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/social-and-cultural-anthropology/)** - Outlines the official IB syllabus and assessment structure (free).
 - **[Knowt](https://knowt.com/exams/IB/IB-Social-and-cultural-anthropology-(SL))** - Offers student-written notes and flashcards by unit (free).
 - **[LibreTexts Cultural Anthropology](https://socialsci.libretexts.org/Bookshelves/Anthropology/Cultural_Anthropology)** - Free peer-reviewed open-access cultural anthropology textbooks and readings (free).
@@ -829,7 +829,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Save My Exams](https://www.savemyexams.com/a-level/psychology/)** - Revision notes, exam questions, and past papers for A-Level Psychology (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive psychology revision (freemium).
 - **[Simply Psychology](https://www.simplypsychology.org)** - Clear notes on theories, studies, and exams (free).
-- **[tutor2u Psychology](https://www.tutor2u.net/psychology)** - Offers A-Level psychology study notes, quizzes, and topic videos (freemium).
+- **[tutor2u Psychology](https://www.tutor2u.net/teaching/psychology)** - Offers A-Level psychology study notes, quizzes, and topic videos (freemium).
 
 </details>
 
