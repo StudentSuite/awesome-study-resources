@@ -85,7 +85,7 @@ Official and community prep for the big exams and curricula.
 - **[Larry Learns](https://www.larrylearns.com/blog/act-practice-test-free)** - Free ACT practice tests, study plans, and answer explanations (free).
 - **[Magoosh ACT](https://act.magoosh.com)** - Video lessons and practice questions for every ACT section (freemium).
 - **[Mometrix ACT](https://www.mometrix.com/academy/act-test/)** - Offers an ACT test guide and free practice questions (freemium).
-- **[PrepScholar ACT](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the ACT (free).
+- **[PrepScholar ACT](https://www.prepscholar.com/act-test-prep/)** - Free study guides, score strategies, and section-by-section practice for the ACT (free).
 - **[The Princeton Review ACT](https://www.princetonreview.com/college/act-test-prep)** - Free practice test with a detailed score report and strategy sessions (freemium).
 - **[Union Test Prep](https://uniontestprep.com/act)** - Free ACT practice tests, study guides, and flashcards (free).
 - **[UWorld ACT](https://collegeprep.uworld.com/act/)** - Large question bank with detailed explanations (paid).
@@ -229,7 +229,7 @@ Official and community prep for the big exams and curricula.
 - **[College Board PSAT/NMSQT](https://satsuite.collegeboard.org/psat-nmsqt)** - The official overview, dates, and score info for the PSAT/NMSQT (free).
 - **[High School Test Prep](https://highschooltestprep.com/psat/)** - Free PSAT practice tests with detailed answer explanations by section (free).
 - **[Kaplan PSAT](https://www.kaptest.com/psat/free/psat-practice)** - Free PSAT practice quizzes and live cram sessions from a major test-prep company (free).
-- **[Khan Academy PSAT Practice](https://www.khanacademy.org/digital-sat)** - Free official practice built with College Board, aligned to the PSAT (free).
+- **[Khan Academy PSAT Practice](https://www.khanacademy.org/test-prep/psat-nmsqt)** - Free official practice built with College Board, aligned to the PSAT (free).
 - **[Mometrix PSAT](https://www.mometrix.com/academy/psat-practice-test/)** - Free PSAT practice tests, study guides, and flashcards by subject (freemium).
 - **[PrepScholar PSAT](https://www.prepscholar.com/psat-test-prep/)** - Free study guides, practice tests, and score strategies for the PSAT (free).
 - **[The Princeton Review PSAT](https://www.princetonreview.com/college/free-digitalpsat-practice-test)** - Free full-length Digital PSAT practice test with a score report (freemium).
@@ -251,7 +251,7 @@ Official and community prep for the big exams and curricula.
 - **[College Board SAT Suite](https://satsuite.collegeboard.org/sat)** - The official overview, dates, registration, and score info for the SAT (free).
 - **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board (free).
 - **[Magoosh SAT](https://sat.magoosh.com)** - Video lessons and practice questions for the Digital SAT (freemium).
-- **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT (free).
+- **[PrepScholar](https://www.prepscholar.com/sat-test-prep/)** - Free study guides, score strategies, and section-by-section practice for the SAT (free).
 - **[The Princeton Review SAT](https://www.princetonreview.com/college/free-digitalsat-practice-test)** - Free full-length Digital SAT practice test with a score report (freemium).
 - **[UWorld SAT](https://collegeprep.uworld.com/sat/)** - Large question bank with detailed explanations (paid).
 
