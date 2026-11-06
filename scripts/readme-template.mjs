@@ -55,19 +55,76 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 // One row per content section, in README order. `emoji` and `ariaLabel` feed
 // the Table of Contents icon column; `blurb` is the one-line, italic-free
-// description printed under the `##` heading.
+// description printed under the `##` heading. `subsections`, on the three
+// sections that have them, is the closed list of valid `###` headings in README
+// order: validate-resources.mjs rejects any other subsection name (#505), and a
+// test keeps the order in step with data/resources.json.
 export const SECTIONS = [
   {
     heading: 'Exam & Curriculum Prep',
     emoji: '📝',
     ariaLabel: 'Exam and Curriculum Prep icon',
     blurb: 'Official and community prep for the big exams and curricula.',
+    subsections: [
+      'A-Level',
+      'ACT',
+      'AP',
+      'AP Computer Science',
+      'CAS',
+      'Extended Essay',
+      'GCSE',
+      'IB (IBDP)',
+      'IGCSE',
+      'PSAT',
+      'SAT',
+      'Theory of Knowledge',
+    ],
   },
   {
     heading: 'By Subject',
     emoji: '📚',
     ariaLabel: 'By Subject icon',
     blurb: 'Flagship picks per subject: mix a strong site, a channel, and a practice tool.',
+    subsections: [
+      'Mathematics',
+      'Statistics',
+      'Further Mathematics',
+      'Physics',
+      'Chemistry',
+      'Biology',
+      'Computer Science',
+      'Design Technology',
+      'ITGS',
+      'Economics',
+      'Accounting',
+      'Business Studies',
+      'English Language and Literature',
+      'Foreign Languages',
+      'Latin',
+      'Philosophy',
+      'World Religions',
+      'History',
+      'Global Perspectives',
+      'Global Politics',
+      'Classical Civilisation',
+      'Geography',
+      'Law',
+      'Environmental Systems & Societies',
+      'Sports, Exercise & Health Science',
+      'Food & Nutrition',
+      'Health and Social Care',
+      'Social and Cultural Anthropology',
+      'Psychology',
+      'Sociology',
+      'Physical Education',
+      'Art',
+      'Film',
+      'Photography',
+      'Media Studies',
+      'Music',
+      'Theatre',
+      'Dance',
+    ],
   },
   {
     heading: 'Notes & Knowledge Management',
@@ -112,6 +169,10 @@ export const SECTIONS = [
     emoji: '💻',
     ariaLabel: 'Building Software / Learn to Code icon',
     blurb: 'Go from first line to shipped project.',
+    subsections: [
+      'Learn to Code',
+      'Coding Practice',
+    ],
   },
   {
     heading: 'YouTube Channels We Trust',

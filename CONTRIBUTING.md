@@ -51,9 +51,19 @@ Field reference:
 - `section` - the exact `##` heading text this entry belongs under (see "Where it goes" below), e.g. `"By Subject"`.
 - `subsection` - the exact `###` heading text within that section, e.g. `"Mathematics"`, or `null` if the section has no subsections (see "Where it goes" below for which sections do).
 
-Keep the description to one line, roughly 10 words or fewer. Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and note the pricing when it matters: `(free)`, `(freemium)`, `(paid)`, or "free, open source" for FOSS. No em dashes.
+Keep the description to one line, roughly 10 words or fewer (enforced to a maximum of 15 words, excluding pricing tag). Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and note the pricing when it matters: `(free)`, `(freemium)`, `(paid)`, or "free, open source" for FOSS. No em dashes.
 
 "When it matters" means: tag it if a student could reasonably be surprised (a freemium tool that reads as free, a paid service, a free tier with real limits). You don't need to tag something whose free-ness is already obvious from the description itself (an official government site, an open-source project, a nonprofit's own guide).
+
+Editors can flag a missing field or an `http://` URL while you type: `data/resources.schema.json` is a JSON Schema for the file. In VS Code, add this to your settings (the array shape stays unchanged, so there is no `$schema` key in the data):
+
+```json
+"json.schemas": [
+  { "fileMatch": ["data/resources.json"], "url": "./data/resources.schema.json" }
+]
+```
+
+The schema is an editor aid only; `scripts/validate-resources.mjs` remains the CI gate, and a unit test keeps the two in step.
 
 After editing `data/resources.json`, run `node scripts/generate-readme.mjs` to regenerate README.md (see [CI checks](#ci-checks) below) and commit both files.
 
@@ -63,7 +73,7 @@ After editing `data/resources.json`, run `node scripts/generate-readme.mjs` to r
 
 Set your record's `section` (and `subsection`, where listed) to the closest match:
 
-- Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CAS, Extended Essay, GCSE, IB Diploma, IGCSE, PSAT, SAT, Theory of Knowledge)
+- Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CAS, Extended Essay, GCSE, IB (IBDP), IGCSE, PSAT, SAT, Theory of Knowledge)
 - By Subject (Mathematics, Statistics, Further Mathematics, Physics, Chemistry, Biology, Computer Science, Design Technology, ITGS, Economics, Accounting, Business Studies, English Language and Literature, Foreign Languages, Latin, Philosophy, World Religions, History, Global Perspectives, Global Politics, Classical Civilisation, Geography, Law, Environmental Systems & Societies, Sports, Exercise & Health Science, Food & Nutrition, Health and Social Care, Social and Cultural Anthropology, Psychology, Sociology, Physical Education, Art, Film, Photography, Media Studies, Music, Theatre, Dance)
 - Notes & Knowledge Management
 - Flashcards & Spaced Repetition
@@ -117,14 +127,16 @@ node scripts/validate-resources.mjs
 node scripts/generate-readme.mjs --check
 node scripts/check-list-format.mjs
 node scripts/update-counts.mjs --check
+node scripts/check-issue-form.mjs
 ```
 
 - `scripts/validate-resources.mjs` checks `data/resources.json` itself: every record has a non-empty `name`, `url`, `description`, and `section`; `url` starts with `https://`; `subsection` is a non-empty string or `null`; and no two records share the same `section` + `subsection` + `name`.
 - `scripts/generate-readme.mjs --check` fails if README.md doesn't match what `data/resources.json` currently generates, i.e. you edited README.md by hand instead of the data file, or forgot to regenerate after editing the data file. Fix it with `node scripts/generate-readme.mjs` (no `--check`), which rewrites README.md in place.
-- `scripts/check-list-format.mjs` runs on the generated README.md as a safety net: it verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script), that a trailing pricing parenthetical is one of `ALLOWED_PRICING_TAGS` (`free`, `freemium`, `paid`, `free, open source`), and that the "Where it goes" list above stays in sync with README's section headings (same names, same order). The generator should always produce output that passes this, so a failure here on a generated README usually means a bug in the generator or the template, worth flagging.
+- `scripts/check-list-format.mjs` runs on the generated README.md as a safety net: it verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script), that a trailing pricing parenthetical is one of `ALLOWED_PRICING_TAGS` (`free`, `freemium`, `paid`, `free, open source`), that a description doesn't open with "Free" when it is tagged `(freemium)` or `(paid)`, and that the "Where it goes" list above stays in sync with README's section headings (same names, same order). The generator should always produce output that passes this, so a failure here on a generated README usually means a bug in the generator or the template, worth flagging.
+- `scripts/check-issue-form.mjs` fails if the section dropdown in `.github/ISSUE_TEMPLATE/resource_suggestion.yml` doesn't list the same sections as the README, in the same order (plus the one extra "Not sure / none of these fit" option).
 - `scripts/update-counts.mjs --check` fails if the header badges (`resources-N`, `sections-N`) or the per-section Table of Contents counts are out of date. These are also computed by the generator, so this is a second safety net rather than something you need to run separately in normal use.
 
-All four run in CI on every PR. The `test`, `check-list-format` and `markdownlint` workflows are required by branch protection, so they carry no path filter.
+All of these run in CI on every PR. The `test`, `check-list-format` and `markdownlint` workflows are required by branch protection, so they carry no path filter.
 
 A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks every link in every file listed in its `args` (currently README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, CHANGELOG.md, CONTRIBUTORS.md, SECURITY.md, and the PR template) weekly using [lychee](https://github.com/lycheeverse/lychee), configured via `lychee.toml`. Some legitimate sites reject automated requests with a 403, so that status is accepted rather than treated as broken; see the comments in `lychee.toml` for the current exceptions.
 

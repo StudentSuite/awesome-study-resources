@@ -69,6 +69,8 @@ export function findBannedAdjective(desc) {
 // The pricing parentheticals CONTRIBUTING.md documents. A description that ends
 // in a parenthetical outside this set is an error, so the monthly pricing
 // review (scripts/pricing-review.mjs) can read every tag.
+export const MAX_DESCRIPTION_WORDS = 15;
+
 export const ALLOWED_PRICING_TAGS = new Set(['free', 'freemium', 'paid', 'free, open source']);
 
 export function slugify(text) {
@@ -146,8 +148,20 @@ export function checkListFormat(readmeText, contributingText) {
           `README.md:${i + 1}  Pricing tag "(${tag})" is not one of ${[...ALLOWED_PRICING_TAGS].map((t) => `(${t})`).join(', ')}; move the nuance into the description: ${line}`
         );
       }
+      if (/^Free\b/.test(item[3]) && (tag === 'freemium' || tag === 'paid')) {
+        errors.push(
+          `README.md:${i + 1}  Description opens with "Free" but is tagged (${tag}); lead with a verb instead: ${line}`
+        );
+      }
       if (item[3].includes('—')) {
         errors.push(`README.md:${i + 1}  Description uses an em dash, CONTRIBUTING.md says no em dashes: ${line}`);
+      }
+      const withoutTag = item[3].replace(/\s*\([^()]*\)\.?$/, "").trim();
+      const wordCount = withoutTag.split(/\s+/).filter(Boolean).length;
+      if (wordCount > MAX_DESCRIPTION_WORDS) {
+        errors.push(
+          `README.md:${i + 1}  Description exceeds ${MAX_DESCRIPTION_WORDS} words (${wordCount} words, excluding tag): ${line}`
+        );
       }
     }
   }
@@ -210,11 +224,13 @@ export function checkListFormat(readmeText, contributingText) {
   } else {
     const whereEnd = contributing.findIndex((l, i) => i > whereStart && l.startsWith('## '));
     const whereLines = contributing.slice(whereStart + 1, whereEnd === -1 ? undefined : whereEnd);
-    // Bullet section names, with any trailing " (...)" note stripped off.
+    // Bullet section names, with any trailing " (...)" note stripped off. The
+    // note runs from the first "(" to the end, so a subsection name that has
+    // its own parentheses, like "IB (IBDP)", does not stop it.
     const contributingSections = whereLines
       .map((l) => l.match(/^- (.+)$/))
       .filter(Boolean)
-      .map((m) => m[1].replace(/\s*\([^)]*\)\s*$/, '').trim());
+      .map((m) => m[1].replace(/\s*\(.*\)\s*$/, '').trim());
 
     const readmeSet = new Set(readmeSections);
     const contributingSet = new Set(contributingSections);

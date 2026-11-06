@@ -51,7 +51,7 @@
   {
     "name": "Study Haven",
     "url": "https://studyhaven.org/",
-    "description": "Free Custom Past Papers for A-Levels and IGCSE (freemium).",
+    "description": "Build custom past papers for A-Levels and IGCSE (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "A-Level"
   },
@@ -100,7 +100,7 @@
   {
     "name": "The Princeton Review ACT",
     "url": "https://www.princetonreview.com/college/act-test-prep",
-    "description": "Free practice test with a detailed score report and strategy sessions (freemium).",
+    "description": "Take a practice test with a detailed score report and strategy sessions (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "ACT"
   },
@@ -142,14 +142,14 @@
   {
     "name": "Fiveable",
     "url": "https://fiveable.me",
-    "description": "Free study guides, practice questions, and exam-day reviews for all 38 AP subjects (freemium).",
+    "description": "Study with guides, practice questions, and exam-day reviews for all 38 AP subjects (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP"
   },
   {
     "name": "Knowt",
     "url": "https://knowt.com/exams/AP",
-    "description": "Free student-written study guides and flashcards by AP subject and unit (freemium).",
+    "description": "Use student-written study guides and flashcards by AP subject and unit (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP"
   },
@@ -205,7 +205,7 @@
   {
     "name": "Knowt",
     "url": "https://knowt.com/exams/AP/AP-Computer-Science-A",
-    "description": "Free student-written study guides, flashcards, and FRQ practice for AP CSA (freemium).",
+    "description": "Use student-written study guides, flashcards, and FRQ practice for AP CSA (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP Computer Science"
   },
@@ -324,7 +324,7 @@
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive revision across every core GCSE subject (freemium).",
+    "description": "Revise every core GCSE subject with interactive lessons (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "GCSE"
   },
@@ -408,7 +408,7 @@
   {
     "name": "PapaCambridge",
     "url": "https://pastpapers.papacambridge.com/",
-    "description": "Free Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).",
+    "description": "Download Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"
   },
@@ -478,7 +478,7 @@
   {
     "name": "The Princeton Review PSAT",
     "url": "https://www.princetonreview.com/college/free-digitalpsat-practice-test",
-    "description": "Free full-length Digital PSAT practice test with a score report (freemium).",
+    "description": "Take a full-length Digital PSAT practice test with a score report (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
   },
@@ -520,7 +520,7 @@
   {
     "name": "The Princeton Review SAT",
     "url": "https://www.princetonreview.com/college/free-digitalsat-practice-test",
-    "description": "Free full-length Digital SAT practice test with a score report (freemium).",
+    "description": "Take a full-length Digital SAT practice test with a score report (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "SAT"
   },
@@ -555,7 +555,7 @@
   {
     "name": "Theory of Knowledge",
     "url": "https://theoryofknowledge.net",
-    "description": "Free video explainers and guides for the TOK essay and exhibition (freemium).",
+    "description": "Watch video explainers and read guides for the TOK essay and exhibition (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Theory of Knowledge"
   },
@@ -569,7 +569,7 @@
   {
     "name": "TutorChase",
     "url": "https://www.tutorchase.com/notes/ib/tok",
-    "description": "Free notes covering TOK themes, knowledge questions, and areas of knowledge (free).",
+    "description": "Read notes covering TOK themes, knowledge questions, and areas of knowledge (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Theory of Knowledge"
   },
@@ -583,7 +583,7 @@
   {
     "name": "Art of Problem Solving",
     "url": "https://artofproblemsolving.com/",
-    "description": "Free adaptive practice, wiki, and forums for competition and advanced math (freemium).",
+    "description": "Practice competition and advanced math with adaptive problems, a wiki, and forums (freemium).",
     "section": "By Subject",
     "subsection": "Mathematics"
   },
@@ -602,6 +602,13 @@
     "subsection": "Mathematics"
   },
   {
+    "name": "Derivative Calculator AI",
+    "url": "https://derivativecalculatorai.com/",
+    "description": "Solve derivatives, integrals and limits step by step, with answer checking (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
+  },
+  {
     "name": "Desmos",
     "url": "https://www.desmos.com",
     "description": "Free graphing and geometry calculators for exploring functions (free).",
@@ -611,7 +618,7 @@
   {
     "name": "MathsGenie",
     "url": "https://mathsgenie.co.uk/",
-    "description": "Free GCSE and A-Level Maths videos, worksheets, and past papers by topic (freemium).",
+    "description": "Find GCSE and A-Level Maths videos, worksheets, and past papers by topic (freemium).",
     "section": "By Subject",
     "subsection": "Mathematics"
   },
@@ -681,7 +688,7 @@
   {
     "name": "MathsGenie",
     "url": "https://mathsgenie.co.uk/a-level/further-maths",
-    "description": "Free A-Level Further Maths past papers, mark schemes, and video solutions by exam board (freemium).",
+    "description": "Practice A-Level Further Maths with past papers, mark schemes, and video solutions (freemium).",
     "section": "By Subject",
     "subsection": "Further Mathematics"
   },
@@ -905,7 +912,7 @@
   {
     "name": "Firebase",
     "url": "https://firebase.google.com",
-    "description": "Google backend for building apps quickly (freemium).",
+    "description": "Build app backends with auth, database, and hosting on a free tier (freemium).",
     "section": "By Subject",
     "subsection": "Computer Science"
   },
@@ -947,7 +954,7 @@
   {
     "name": "DTBase",
     "url": "https://designandtechbase.com/",
-    "description": "Free GCSE and A-Level Design and Technology notes and past papers (freemium).",
+    "description": "Read GCSE and A-Level Design and Technology notes and past papers (freemium).",
     "section": "By Subject",
     "subsection": "Design Technology"
   },
@@ -961,7 +968,7 @@
   {
     "name": "Knowt",
     "url": "https://knowt.com/exams/IB/IB-Design-Technology-(HL)",
-    "description": "Free student-written study guides and flashcards for IB Design Technology, by unit (freemium).",
+    "description": "Use student-written study guides and flashcards for IB Design Technology, by unit (freemium).",
     "section": "By Subject",
     "subsection": "Design Technology"
   },
@@ -1073,7 +1080,7 @@
   {
     "name": "AccountingCoach",
     "url": "https://www.accountingcoach.com",
-    "description": "Free explanations, quizzes, and flashcards across core accounting topics (freemium).",
+    "description": "Learn core accounting topics with explanations, quizzes, and flashcards (freemium).",
     "section": "By Subject",
     "subsection": "Accounting"
   },
@@ -1101,7 +1108,7 @@
   {
     "name": "Corporate Finance Institute",
     "url": "https://courses.corporatefinanceinstitute.com/bundles/free-finance-accounting-courses/",
-    "description": "Free accounting and finance fundamentals courses, certificates cost extra (freemium).",
+    "description": "Take accounting and finance fundamentals courses; certificates cost extra (freemium).",
     "section": "By Subject",
     "subsection": "Accounting"
   },
@@ -1122,7 +1129,7 @@
   {
     "name": "My Accounting Course",
     "url": "https://www.myaccountingcourse.com/",
-    "description": "Free accounting dictionary, tutorials, and quizzes covering core concepts (freemium).",
+    "description": "Look up accounting terms and learn core concepts with tutorials and quizzes (freemium).",
     "section": "By Subject",
     "subsection": "Accounting"
   },
@@ -1171,7 +1178,7 @@
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive business revision (freemium).",
+    "description": "Revise business with interactive lessons (freemium).",
     "section": "By Subject",
     "subsection": "Business Studies"
   },
@@ -1199,21 +1206,14 @@
   {
     "name": "CliffsNotes",
     "url": "https://www.cliffsnotes.com/literature",
-    "description": "Free literature notes, summaries, and study guides for classic and contemporary texts (freemium).",
-    "section": "By Subject",
-    "subsection": "English Language and Literature"
-  },
-  {
-    "name": "Language Reactor",
-    "url": "https://www.languagereactor.com",
-    "description": "Learn languages from real video and subtitles (freemium).",
+    "description": "Read literature notes, summaries, and study guides for classic and contemporary texts (freemium).",
     "section": "By Subject",
     "subsection": "English Language and Literature"
   },
   {
     "name": "LanguageTool",
     "url": "https://languagetool.org",
-    "description": "Free, open grammar and style checker in many languages (freemium).",
+    "description": "Check grammar and style in many languages (freemium).",
     "section": "By Subject",
     "subsection": "English Language and Literature"
   },
@@ -1269,7 +1269,7 @@
   {
     "name": "Duolingo",
     "url": "https://www.duolingo.com",
-    "description": "Free, gamified lessons across dozens of languages (freemium).",
+    "description": "Learn dozens of languages through gamified lessons (freemium).",
     "section": "By Subject",
     "subsection": "Foreign Languages"
   },
@@ -1339,7 +1339,7 @@
   {
     "name": "Latinitium",
     "url": "https://latinitium.com",
-    "description": "Free spoken Latin audio, readers, and grammar guides for learning Latin actively (freemium).",
+    "description": "Learn Latin actively with spoken audio, readers, and grammar guides (freemium).",
     "section": "By Subject",
     "subsection": "Latin"
   },
@@ -1507,7 +1507,7 @@
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive GCSE and A-Level History revision (freemium).",
+    "description": "Revise GCSE and A-Level History with interactive lessons (freemium).",
     "section": "By Subject",
     "subsection": "History"
   },
@@ -1535,7 +1535,7 @@
   {
     "name": "IGCSE Global Perspectives .net",
     "url": "https://igcseglobalperspectives.net/",
-    "description": "Free student resources, IR templates, and team project guidance (freemium).",
+    "description": "Get student resources, IR templates, and team project guidance (freemium).",
     "section": "By Subject",
     "subsection": "Global Perspectives"
   },
@@ -1549,21 +1549,21 @@
   {
     "name": "ZNotes",
     "url": "https://znotes.org/caie/igcse/global-perspectives-0457/",
-    "description": "Summarizes syllabus topics and exam skills for Global Perspectives (freemium).",
+    "description": "Summarizes syllabus topics and exam skills for Global Perspectives (free).",
     "section": "By Subject",
     "subsection": "Global Perspectives"
   },
   {
     "name": "12 Axes",
     "url": "https://12axes.site/",
-    "description": "Place your political views on twelve separate axes (free).",
+    "description": "Compare political ideologies by plotting your views on twelve axes (free).",
     "section": "By Subject",
     "subsection": "Global Politics"
   },
   {
     "name": "Chatham House",
     "url": "https://www.chathamhouse.org/",
-    "description": "Free analysis and research on international relations and global politics (freemium).",
+    "description": "Read analysis and research on international relations and global politics (freemium).",
     "section": "By Subject",
     "subsection": "Global Politics"
   },
@@ -1577,7 +1577,7 @@
   {
     "name": "Knowt",
     "url": "https://knowt.com/exams/IB/IB-Global-Politics-(SL)",
-    "description": "Free student-written IB Global Politics notes and flashcards by unit (freemium).",
+    "description": "Use student-written IB Global Politics notes and flashcards by unit (freemium).",
     "section": "By Subject",
     "subsection": "Global Politics"
   },
@@ -1598,7 +1598,7 @@
   {
     "name": "TutorChase",
     "url": "https://www.tutorchase.com/notes/ib/global-politics",
-    "description": "Free IB Global Politics HL notes across core and extension topics (freemium).",
+    "description": "Read IB Global Politics HL notes across core and extension topics (freemium).",
     "section": "By Subject",
     "subsection": "Global Politics"
   },
@@ -1668,14 +1668,14 @@
   {
     "name": "Internet Geography",
     "url": "https://www.internetgeography.net",
-    "description": "Free notes and case studies for GCSE geography (freemium).",
+    "description": "Read notes and case studies for GCSE geography (freemium).",
     "section": "By Subject",
     "subsection": "Geography"
   },
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive geography revision (freemium).",
+    "description": "Revise geography with interactive lessons (freemium).",
     "section": "By Subject",
     "subsection": "Geography"
   },
@@ -1731,7 +1731,7 @@
   {
     "name": "tutor2u",
     "url": "https://www.tutor2u.net/free/law",
-    "description": "Free revision notes and teaching resources for A-Level Law (freemium).",
+    "description": "Use revision notes and teaching resources for A-Level Law (freemium).",
     "section": "By Subject",
     "subsection": "Law"
   },
@@ -1745,7 +1745,7 @@
   {
     "name": "Knowt",
     "url": "https://knowt.com",
-    "description": "Free student-written study guides and flashcards for IB ESS (freemium).",
+    "description": "Use student-written study guides and flashcards for IB ESS (freemium).",
     "section": "By Subject",
     "subsection": "Environmental Systems & Societies"
   },
@@ -1787,7 +1787,7 @@
   {
     "name": "ACE Fitness",
     "url": "https://www.acefitness.org/",
-    "description": "Free exercise science articles, an exercise library, and fitness calculators (freemium).",
+    "description": "Browse exercise science articles, an exercise library, and fitness calculators (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
   },
@@ -1815,7 +1815,7 @@
   {
     "name": "TutorChase",
     "url": "https://www.tutorchase.com/notes/ib/sehs",
-    "description": "Free IB Sports, Exercise and Health Science HL notes written by IB teachers (free).",
+    "description": "Read IB Sports, Exercise and Health Science HL notes written by IB teachers (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
   },
@@ -1913,7 +1913,7 @@
   {
     "name": "tutor2u",
     "url": "https://www.tutor2u.net/free/hsc",
-    "description": "Free revision notes and teaching resources for Health and Social Care (freemium).",
+    "description": "Use revision notes and teaching resources for Health and Social Care (freemium).",
     "section": "By Subject",
     "subsection": "Health and Social Care"
   },
@@ -1934,7 +1934,7 @@
   {
     "name": "Knowt",
     "url": "https://knowt.com/exams/IB/IB-Social-and-cultural-anthropology-(SL)",
-    "description": "Offers student-written notes and flashcards by unit (free).",
+    "description": "Offers student-written notes and flashcards by unit (freemium).",
     "section": "By Subject",
     "subsection": "Social and Cultural Anthropology"
   },
@@ -1969,7 +1969,7 @@
   {
     "name": "Fiveable",
     "url": "https://fiveable.me",
-    "description": "Free AP Psychology study guides, practice questions, and exam-day reviews (freemium).",
+    "description": "Study AP Psychology with guides, practice questions, and exam-day reviews (freemium).",
     "section": "By Subject",
     "subsection": "Psychology"
   },
@@ -1990,7 +1990,7 @@
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive psychology revision (freemium).",
+    "description": "Revise psychology with interactive lessons (freemium).",
     "section": "By Subject",
     "subsection": "Psychology"
   },
@@ -2032,7 +2032,7 @@
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive A-Level Sociology revision (freemium).",
+    "description": "Revise A-Level Sociology with interactive lessons (freemium).",
     "section": "By Subject",
     "subsection": "Sociology"
   },
@@ -2046,7 +2046,7 @@
   {
     "name": "tutor2u",
     "url": "https://www.tutor2u.net/free/sociology",
-    "description": "Free revision notes and teaching resources for A-Level Sociology (freemium).",
+    "description": "Use revision notes and teaching resources for A-Level Sociology (freemium).",
     "section": "By Subject",
     "subsection": "Sociology"
   },
@@ -2081,14 +2081,14 @@
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive GCSE and A-Level PE revision (freemium).",
+    "description": "Revise GCSE and A-Level PE with interactive lessons (freemium).",
     "section": "By Subject",
     "subsection": "Physical Education"
   },
   {
     "name": "TeachPE.com",
     "url": "https://www.teachpe.com",
-    "description": "Free revision quizzes and notes on anatomy, training, and skill acquisition for GCSE and A-Level PE (free).",
+    "description": "Revision quizzes and notes for GCSE and A-Level Physical Education (free).",
     "section": "By Subject",
     "subsection": "Physical Education"
   },
@@ -2130,7 +2130,7 @@
   {
     "name": "Proko",
     "url": "https://www.proko.com",
-    "description": "Free figure drawing and anatomy fundamentals for artists (freemium).",
+    "description": "Learn figure drawing and anatomy fundamentals for artists (freemium).",
     "section": "By Subject",
     "subsection": "Art"
   },
@@ -2171,7 +2171,7 @@
   },
   {
     "name": "Into Film",
-    "url": "https://www.intofilm.org",
+    "url": "https://intofilm.my.site.com/portal/",
     "description": "Free UK film education charity with lesson plans and student filmmaking resources (free).",
     "section": "By Subject",
     "subsection": "Film"
@@ -2256,7 +2256,7 @@
   {
     "name": "The School of Photography",
     "url": "https://www.theschoolofphotography.com",
-    "description": "Free tutorials on camera settings, composition, and editing for GCSE and A-Level Photography (freemium).",
+    "description": "Learn camera settings, composition, and editing for GCSE and A-Level Photography (freemium).",
     "section": "By Subject",
     "subsection": "Photography"
   },
@@ -2298,7 +2298,7 @@
   {
     "name": "Seneca Learning",
     "url": "https://senecalearning.com",
-    "description": "Free interactive GCSE and A-Level Media Studies revision (freemium).",
+    "description": "Revise GCSE and A-Level Media Studies with interactive lessons (freemium).",
     "section": "By Subject",
     "subsection": "Media Studies"
   },
@@ -2312,7 +2312,7 @@
   {
     "name": "8notes",
     "url": "https://www.8notes.com",
-    "description": "Free sheet music across 25+ instruments (freemium).",
+    "description": "Download sheet music for 25+ instruments (freemium).",
     "section": "By Subject",
     "subsection": "Music"
   },
@@ -2340,7 +2340,7 @@
   {
     "name": "MyMusicTheory",
     "url": "https://mymusictheory.com/",
-    "description": "Free music theory lessons and grade quizzes for ABRSM and Trinity exams (freemium).",
+    "description": "Learn music theory with lessons and grade quizzes for ABRSM and Trinity exams (freemium).",
     "section": "By Subject",
     "subsection": "Music"
   },
@@ -2403,7 +2403,7 @@
   {
     "name": "Theatrefolk",
     "url": "https://www.theatrefolk.com/free-resources",
-    "description": "Free monologues, scenes, playwriting exercises, and study guides for drama students (freemium).",
+    "description": "Use monologues, scenes, playwriting exercises, and study guides for drama students (freemium).",
     "section": "By Subject",
     "subsection": "Theatre"
   },
@@ -2606,7 +2606,7 @@
   {
     "name": "Dopastep",
     "url": "https://dopastep.com/",
-    "description": "Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).",
+    "description": "Splits a task into small steps with synced focus and break cycles (freemium).",
     "section": "Task, Time & Planning",
     "subsection": null
   },
@@ -2669,7 +2669,7 @@
   {
     "name": "Hemingway Editor",
     "url": "https://hemingwayapp.com",
-    "description": "Free readability checker that flags dense sentences and passive voice (freemium).",
+    "description": "Check readability and flag dense sentences and passive voice (freemium).",
     "section": "Writing, Citations & Reference",
     "subsection": null
   },
@@ -2683,7 +2683,7 @@
   {
     "name": "LanguageTool",
     "url": "https://languagetool.org",
-    "description": "Free, open-source grammar and style checker (freemium).",
+    "description": "Check grammar and style with an open-source tool (freemium).",
     "section": "Writing, Citations & Reference",
     "subsection": null
   },
@@ -3116,7 +3116,7 @@
   },
   {
     "name": "CtrlAltRevise Pseudocode Practice",
-    "url": "https://www.ctrlaltrevise.com/pseudocode-practice?utm_source=directory&utm_medium=referral&utm_campaign=s260906_gcse_directory",
+    "url": "https://www.ctrlaltrevise.com/pseudocode-practice",
     "description": "Practise 0478/0984 pseudocode with original exercises and answers (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"
@@ -3152,7 +3152,7 @@
   {
     "name": "Religion and Public Life",
     "url": "https://rpl.hds.harvard.edu",
-    "description": "Free HarvardX courses and research on world religious traditions (freemium).",
+    "description": "Take HarvardX courses and read research on world religious traditions (freemium).",
     "section": "By Subject",
     "subsection": "World Religions"
   },
@@ -3201,7 +3201,7 @@
   {
     "name": "Royal Geographical Society",
     "url": "https://www.rgs.org/schools/resources-for-schools",
-    "description": "Free case studies, fieldwork guidance, and careers resources for geography students (freemium).",
+    "description": "Find case studies, fieldwork guidance, and careers resources for geography students (freemium).",
     "section": "By Subject",
     "subsection": "Geography"
   },
@@ -3284,7 +3284,7 @@
   },
   {
     "name": "Into Film",
-    "url": "https://www.intofilm.org",
+    "url": "https://intofilm.my.site.com/portal/",
     "description": "UK charity providing free film education resources and streaming for schools (free).",
     "section": "By Subject",
     "subsection": "Media Studies"
@@ -3292,7 +3292,7 @@
   {
     "name": "ReviseSociology",
     "url": "https://revisesociology.com/a-level-sociology/",
-    "description": "Free A-Level Sociology revision notes, mind maps, and model answers (freemium).",
+    "description": "Read A-Level Sociology revision notes, mind maps, and model answers (freemium).",
     "section": "By Subject",
     "subsection": "Sociology"
   },
@@ -3313,14 +3313,14 @@
   {
     "name": "ExRx.net",
     "url": "https://exrx.net",
-    "description": "Free exercise and kinesiology reference library covering training and prescription (freemium).",
+    "description": "Look up exercise and kinesiology references covering training and prescription (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
   },
   {
     "name": "Knowt",
     "url": "https://knowt.com/exams/IB/IB-Sports,-Exercise,-and-Health-Science-(SL)",
-    "description": "Free student-written IB Sports, Exercise and Health Science notes and flashcards by unit (freemium).",
+    "description": "Use student-written IB Sports, Exercise and Health Science notes and flashcards by unit (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
   },
@@ -3362,7 +3362,7 @@
   {
     "name": "Economics Help",
     "url": "https://www.economicshelp.org",
-    "description": "Revision notes and blog posts covering micro and macroeconomics topics (freemium).",
+    "description": "Revision notes and blog posts covering micro and macroeconomics topics (free).",
     "section": "By Subject",
     "subsection": "Economics"
   },
@@ -3376,7 +3376,7 @@
   {
     "name": "The Physics Classroom",
     "url": "https://www.physicsclassroom.com/",
-    "description": "Free tutorials and practice covering forces, motion, waves, and electricity (freemium).",
+    "description": "Learn forces, motion, waves, and electricity with tutorials and practice (freemium).",
     "section": "By Subject",
     "subsection": "Physics"
   },
@@ -3523,7 +3523,7 @@
   {
     "name": "Mometrix PSAT",
     "url": "https://www.mometrix.com/academy/psat-practice-test/",
-    "description": "Free PSAT practice tests, study guides, and flashcards by subject (freemium).",
+    "description": "Practice for the PSAT with tests, study guides, and flashcards by subject (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
   },
@@ -3635,7 +3635,7 @@
   {
     "name": "Cool Geography",
     "url": "https://www.coolgeography.co.uk",
-    "description": "Free geography lessons and case studies from Year 7 through A-Level (freemium).",
+    "description": "Learn geography with lessons and case studies from Year 7 through A-Level (freemium).",
     "section": "By Subject",
     "subsection": "Geography"
   },
@@ -3782,7 +3782,7 @@
   {
     "name": "Fiveable AP Computer Science",
     "url": "https://fiveable.me/ap-comp-sci-a",
-    "description": "Free study guides, practice questions, and FRQ prep for AP CSA (freemium).",
+    "description": "Study AP CSA with guides, practice questions, and FRQ prep (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP Computer Science"
   },
@@ -3852,7 +3852,7 @@
   {
     "name": "PetaPixel",
     "url": "https://petapixel.com/",
-    "description": "Follow photography news, tutorials, and gear reviews; ad-free membership is paid (free).",
+    "description": "Learn photography technique from tutorials and gear guides; ad-free membership is paid (free).",
     "section": "By Subject",
     "subsection": "Photography"
   },
@@ -3876,13 +3876,6 @@
     "description": "Read Shakespeare's complete works and lesson plans (free).",
     "section": "By Subject",
     "subsection": "Theatre"
-  },
-  {
-    "name": "Dance Magazine",
-    "url": "https://www.dancemagazine.com/",
-    "description": "Read dance news, features, and career advice (freemium).",
-    "section": "By Subject",
-    "subsection": "Dance"
   },
   {
     "name": "The Missing Semester of Your CS Education",
@@ -4007,6 +4000,13 @@
     "name": "OpenStax Principles of Accounting",
     "url": "https://openstax.org/details/books/principles-financial-accounting",
     "description": "Read a full financial accounting textbook online (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "PractiBalance",
+    "url": "https://practibalance.com/",
+    "description": "Practice journal entries and get feedback on every debit and credit (free).",
     "section": "By Subject",
     "subsection": "Accounting"
   },
@@ -4569,5 +4569,12 @@
     "description": "Explore physics through interactive browser experiments (free).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "QuizQuip",
+    "url": "https://quizquip.com",
+    "description": "Revise IGCSE and Singapore secondary science with notes, quizzes, and practice papers (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
   }
 ]
