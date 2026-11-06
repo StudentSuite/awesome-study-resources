@@ -100,6 +100,23 @@ export function validateResources(records, sections = SECTIONS) {
     }
 
     if (typeof record.section === 'string') {
+      const sectionDef = sections.find((s) => typeof s === 'object' && s.heading === record.section);
+      const subsection = typeof record.subsection === 'string' ? record.subsection : null;
+      // A misspelled subsection would otherwise pass and silently create a new
+      // ### heading (#505). Sections without a list take null only.
+      if (sectionDef && subsection !== null) {
+        if (Array.isArray(sectionDef.subsections)) {
+          if (!sectionDef.subsections.includes(subsection)) {
+            errors.push(
+              `${where}: unknown subsection "${subsection}" in "${record.section}". Valid subsections are: ${sectionDef.subsections.join(', ')}.`
+            );
+          }
+        } else {
+          errors.push(
+            `${where}: "${record.section}" has no subsections, so "subsection" must be null, got "${subsection}".`
+          );
+        }
+      }
       if (!validSections.has(record.section)) {
         errors.push(
           `${where}: unknown section "${record.section}". Valid sections are: ${Array.from(validSections).join(', ')}.`

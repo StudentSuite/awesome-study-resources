@@ -224,11 +224,13 @@ export function checkListFormat(readmeText, contributingText) {
   } else {
     const whereEnd = contributing.findIndex((l, i) => i > whereStart && l.startsWith('## '));
     const whereLines = contributing.slice(whereStart + 1, whereEnd === -1 ? undefined : whereEnd);
-    // Bullet section names, with any trailing " (...)" note stripped off.
+    // Bullet section names, with any trailing " (...)" note stripped off. The
+    // note runs from the first "(" to the end, so a subsection name that has
+    // its own parentheses, like "IB (IBDP)", does not stop it.
     const contributingSections = whereLines
       .map((l) => l.match(/^- (.+)$/))
       .filter(Boolean)
-      .map((m) => m[1].replace(/\s*\([^)]*\)\s*$/, '').trim());
+      .map((m) => m[1].replace(/\s*\(.*\)\s*$/, '').trim());
 
     const readmeSet = new Set(readmeSections);
     const contributingSet = new Set(contributingSections);

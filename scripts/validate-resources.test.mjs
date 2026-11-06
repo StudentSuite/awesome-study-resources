@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { validateResources, REQUIRED_STRING_FIELDS } from './validate-resources.mjs';
+import { SECTIONS } from './readme-template.mjs';
 
 const VALID_RECORD = {
   name: 'Apple',
@@ -44,7 +45,7 @@ test('subsection may be null', () => {
 });
 
 test('subsection may be a non-empty string', () => {
-  assert.deepEqual(validateResources([{ ...VALID_RECORD, subsection: 'Sub' }]), []);
+  assert.deepEqual(validateResources([{ ...VALID_RECORD, subsection: 'A-Level' }]), []);
 });
 
 test('empty-string subsection is flagged (should be null, not "")', () => {
@@ -74,7 +75,7 @@ test('duplicate section/subsection/name combo is flagged', () => {
 });
 
 test('same name in a different subsection is allowed', () => {
-  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, subsection: 'Other' }]);
+  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, subsection: 'GCSE' }]);
   assert.deepEqual(errors, []);
 });
 
@@ -140,4 +141,35 @@ test('JSON Schema required list and properties match the validator fields', () =
   assert.equal(item.additionalProperties, false);
   assert.equal(item.properties.url.pattern, '^https://');
   assert.deepEqual(item.properties.subsection.type.sort(), ['null', 'string']);
+});
+
+test('a listed subsection is accepted', () => {
+  const record = { ...VALID_RECORD, subsection: 'IB (IBDP)' };
+  assert.deepEqual(validateResources([record]), []);
+});
+
+test('a misspelled subsection is rejected and the valid ones are listed (#505)', () => {
+  const record = { ...VALID_RECORD, subsection: 'IB Diploma' };
+  const errors = validateResources([record]);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /unknown subsection "IB Diploma" in "Exam & Curriculum Prep"/);
+  assert.match(errors[0], /IB \(IBDP\)/);
+});
+
+test('a subsection on a flat section is rejected', () => {
+  const record = { ...VALID_RECORD, section: 'Notes & Knowledge Management', subsection: 'Apps' };
+  const errors = validateResources([record]);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /has no subsections, so "subsection" must be null/);
+});
+
+test('SECTIONS subsection lists match data/resources.json in README order', () => {
+  const records = JSON.parse(readFileSync(new URL('../data/resources.json', import.meta.url), 'utf8'));
+  for (const section of SECTIONS) {
+    const seen = [];
+    for (const r of records) {
+      if (r.section === section.heading && r.subsection && !seen.includes(r.subsection)) seen.push(r.subsection);
+    }
+    assert.deepEqual(section.subsections ?? [], seen, `subsections for "${section.heading}"`);
+  }
 });
