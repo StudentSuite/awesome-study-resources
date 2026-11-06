@@ -898,7 +898,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Cinephilia & Beyond](https://cinephiliabeyond.org/)** - Reads in-depth essays on filmmaking and film history (free).
 - **[Film Riot](https://www.youtube.com/@filmriot)** - Weekly tutorials on shooting, editing, and VFX for indie filmmakers (free).
 - **[Filmsite](https://www.filmsite.org/)** - Read scholarly film reviews, history milestones, and greatest-films lists (free).
-- **[Into Film](https://www.intofilm.org)** - Free UK film education charity with lesson plans and student filmmaking resources (free).
+- **[Into Film](https://intofilm.my.site.com/portal/)** - Free UK film education charity with lesson plans and student filmmaking resources (free).
 - **[Lessons from the Screenplay](https://www.youtube.com/@LessonsfromtheScreenplay)** - Video essays breaking down screenwriting and film craft choices (free).
 - **[No Film School](https://nofilmschool.com)** - News, tutorials, and gear guides covering the craft of filmmaking (free).
 - **[Save My Exams](https://www.savemyexams.com/a-level/media-studies/wjec-eduqas/film-studies/)** - Revision notes, exam questions, and past papers for A-Level Film Studies (freemium).
@@ -932,7 +932,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zwpfb9q)** - Free curriculum-aligned GCSE Media Studies revision guides and quizzes (free).
 - **[BFI Education](https://www.bfi.org.uk/resources-events-teachers/resources-teachers)** - Film and media studies teaching resources from the British Film Institute (freemium).
-- **[Into Film](https://www.intofilm.org)** - UK charity providing free film education resources and streaming for schools (free).
+- **[Into Film](https://intofilm.my.site.com/portal/)** - UK charity providing free film education resources and streaming for schools (free).
 - **[media-studies.com](https://media-studies.com/aqa-a-level/)** - Free AQA A-Level Media Studies guides and exam revision content (free).
 - **[MediaSmarts](https://mediasmarts.ca/)** - Free media literacy lessons on representation, bias, and digital media (free).
 - **[News Literacy Project](https://newslit.org/)** - Learn to evaluate misinformation and media bias through Checkology lessons (free).
