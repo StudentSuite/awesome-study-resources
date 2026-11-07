@@ -92,7 +92,7 @@
   },
   {
     "name": "PrepScholar ACT",
-    "url": "https://www.prepscholar.com",
+    "url": "https://www.prepscholar.com/act-test-prep/",
     "description": "Free study guides, score strategies, and section-by-section practice for the ACT (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "ACT"
@@ -463,7 +463,7 @@
   },
   {
     "name": "Khan Academy PSAT Practice",
-    "url": "https://www.khanacademy.org/digital-sat",
+    "url": "https://www.khanacademy.org/test-prep/psat-nmsqt",
     "description": "Free official practice built with College Board, aligned to the PSAT (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
@@ -512,7 +512,7 @@
   },
   {
     "name": "PrepScholar",
-    "url": "https://www.prepscholar.com",
+    "url": "https://www.prepscholar.com/sat-test-prep/",
     "description": "Free study guides, score strategies, and section-by-section practice for the SAT (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "SAT"
