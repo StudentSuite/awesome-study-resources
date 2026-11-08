@@ -4583,5 +4583,12 @@
     "description": "Searchable ballet terminology with video demonstrations for each step.",
     "section": "By Subject",
     "subsection": "Dance"
+  },
+  {
+    "name": "Transcribe Video: To The Text",
+    "url": "https://video2text.ttt.so",
+    "description": "Transcribe lecture videos, YouTube links and live voice into searchable notes (freemium).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
   }
 ]
