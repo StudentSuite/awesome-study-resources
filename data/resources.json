@@ -4583,5 +4583,19 @@
     "description": "Searchable ballet terminology with video demonstrations for each step.",
     "section": "By Subject",
     "subsection": "Dance"
+  },
+  {
+    "name": "PastPaperPrep",
+    "url": "https://pastpaperprep.com/cambridge-igcse",
+    "description": "Practise Cambridge IGCSE past papers and real exam questions sorted by topic (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
+  },
+  {
+    "name": "PastPaperPrep",
+    "url": "https://pastpaperprep.com/ib",
+    "description": "Practise IB past papers and real exam questions sorted by topic (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
   }
 ]

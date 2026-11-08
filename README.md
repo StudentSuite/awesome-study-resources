@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-655-blue)
+![Resources](https://img.shields.io/badge/resources-657-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 127 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 409 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
@@ -186,13 +186,14 @@ Official and community prep for the big exams and curricula.
 ### IB (IBDP)
 
 <details open>
-<summary>IB (IBDP) (11 resources)</summary>
+<summary>IB (IBDP) (12 resources)</summary>
 
 - **[IB Doctor Command Terms](https://ibdoctor.co.uk/resources/command-terms)** - Explains what each IB command term asks for (free).
 - **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources (free).
 - **[iBacalao](https://www.ibacalao.com)** - Reviews IA, EE, and TOK drafts criterion by criterion (freemium).
 - **[MyRevisionAgent](https://myrevisionagent.com)** - Grades TOK essays, Extended Essays, and IAs against official IB rubrics (freemium).
 - **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
+- **[PastPaperPrep](https://pastpaperprep.com/ib)** - Practise IB past papers and real exam questions sorted by topic (freemium).
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus (freemium).
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus (freemium).
 - **[Sirius Revision](https://www.siriusrevision.com)** - Intensive online and in-person revision courses for the IB Diploma (paid).
@@ -205,7 +206,7 @@ Official and community prep for the big exams and curricula.
 ### IGCSE
 
 <details open>
-<summary>IGCSE (11 resources)</summary>
+<summary>IGCSE (12 resources)</summary>
 
 - **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
 - **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
@@ -213,6 +214,7 @@ Official and community prep for the big exams and curricula.
 - **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes (free).
 - **[PapaCambridge](https://pastpapers.papacambridge.com/)** - Download Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).
 - **[Past Papers Academy](https://pastpapersacademy.com/)** - Free Cambridge IGCSE past papers, topical questions, and revision notes (free).
+- **[PastPaperPrep](https://pastpaperprep.com/cambridge-igcse)** - Practise Cambridge IGCSE past papers and real exam questions sorted by topic (freemium).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects (free).
 - **[QuizQuip](https://quizquip.com)** - Revise IGCSE and Singapore secondary science with notes, quizzes, and practice papers (freemium).
 - **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across IGCSE and GCSE subjects (free).
