@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/StudentSuite/awesome-study-resources/blob/main/data/resources.schema.json",
+  "title": "Resources",
+  "description": "Editor aid for data/resources.json. The CI gate is scripts/validate-resources.mjs; keep this file in step with it.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["name", "url", "description", "section"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S",
+        "description": "The link text."
+      },
+      "url": {
+        "type": "string",
+        "pattern": "^https://",
+        "description": "The homepage, starting with https://. Plain HTTP is not accepted."
+      },
+      "description": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S",
+        "description": "The full description exactly as it should render, trailing period and pricing parenthetical included."
+      },
+      "section": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S",
+        "description": "The exact ## heading text this entry belongs under."
+      },
+      "subsection": {
+        "type": ["string", "null"],
+        "minLength": 1,
+        "pattern": "\\S",
+        "description": "The exact ### heading text within the section, or null if the section has no subsections."
+      }
+    }
+  }
+}

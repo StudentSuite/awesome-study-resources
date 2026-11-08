@@ -1,12 +1,14 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { validateResources } from './validate-resources.mjs';
+import { readFileSync } from 'node:fs';
+import { validateResources, REQUIRED_STRING_FIELDS } from './validate-resources.mjs';
+import { SECTIONS } from './readme-template.mjs';
 
 const VALID_RECORD = {
   name: 'Apple',
   url: 'https://apple.example',
   description: 'A fruit tool (free).',
-  section: 'Alpha',
+  section: 'Exam & Curriculum Prep',
   subsection: null,
 };
 
@@ -43,7 +45,7 @@ test('subsection may be null', () => {
 });
 
 test('subsection may be a non-empty string', () => {
-  assert.deepEqual(validateResources([{ ...VALID_RECORD, subsection: 'Sub' }]), []);
+  assert.deepEqual(validateResources([{ ...VALID_RECORD, subsection: 'A-Level' }]), []);
 });
 
 test('empty-string subsection is flagged (should be null, not "")', () => {
@@ -73,12 +75,12 @@ test('duplicate section/subsection/name combo is flagged', () => {
 });
 
 test('same name in a different subsection is allowed', () => {
-  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, subsection: 'Other' }]);
+  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, subsection: 'GCSE' }]);
   assert.deepEqual(errors, []);
 });
 
 test('same name in a different section is allowed', () => {
-  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, section: 'Beta' }]);
+  const errors = validateResources([VALID_RECORD, { ...VALID_RECORD, section: 'By Subject' }]);
   assert.deepEqual(errors, []);
 });
 
@@ -90,4 +92,84 @@ test('a non-object entry in the array is flagged', () => {
 test('multiple problems on one record are all reported', () => {
   const errors = validateResources([{ ...VALID_RECORD, name: '', url: 'notaurl' }]);
   assert.equal(errors.length, 2);
+});
+
+test('unknown section is rejected and valid headings are listed', () => {
+  const errors = validateResources([{ ...VALID_RECORD, section: 'By Subjects' }]);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /unknown section "By Subjects"/);
+  assert.match(errors[0], /Valid sections are:/);
+  assert.match(errors[0], /Exam & Curriculum Prep/);
+});
+
+test('known section is accepted', () => {
+  const errors = validateResources([{ ...VALID_RECORD, section: 'By Subject' }]);
+  assert.deepEqual(errors, []);
+});
+
+test('urls with tracking parameters (utm_, fbclid, gclid, ref, si) are flagged', () => {
+  for (const [key, param] of [
+    ['utm_source', '?utm_source=x'],
+    ['fbclid', '?fbclid=123'],
+    ['gclid', '?gclid=123'],
+    ['ref', '?ref=affiliate'],
+    ['si', '?si=share123'],
+  ]) {
+    const errors = validateResources([{ ...VALID_RECORD, url: `https://apple.example/${param}` }]);
+    assert.equal(errors.length, 1);
+    assert.match(errors[0], new RegExp(`contains tracking query parameter "${key}"`));
+  }
+});
+
+test('urls with legitimate query parameters are allowed', () => {
+  const errors = validateResources([{ ...VALID_RECORD, url: 'https://apple.example/?id=3&page=2' }]);
+  assert.deepEqual(errors, []);
+});
+
+
+const SCHEMA = JSON.parse(
+  readFileSync(new URL('../data/resources.schema.json', import.meta.url), 'utf8')
+);
+
+test('JSON Schema required list and properties match the validator fields', () => {
+  const item = SCHEMA.items;
+  assert.deepEqual([...item.required].sort(), [...REQUIRED_STRING_FIELDS].sort());
+  assert.deepEqual(
+    Object.keys(item.properties).sort(),
+    [...REQUIRED_STRING_FIELDS, 'subsection'].sort()
+  );
+  assert.equal(item.additionalProperties, false);
+  assert.equal(item.properties.url.pattern, '^https://');
+  assert.deepEqual(item.properties.subsection.type.sort(), ['null', 'string']);
+});
+
+test('a listed subsection is accepted', () => {
+  const record = { ...VALID_RECORD, subsection: 'IB (IBDP)' };
+  assert.deepEqual(validateResources([record]), []);
+});
+
+test('a misspelled subsection is rejected and the valid ones are listed (#505)', () => {
+  const record = { ...VALID_RECORD, subsection: 'IB Diploma' };
+  const errors = validateResources([record]);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /unknown subsection "IB Diploma" in "Exam & Curriculum Prep"/);
+  assert.match(errors[0], /IB \(IBDP\)/);
+});
+
+test('a subsection on a flat section is rejected', () => {
+  const record = { ...VALID_RECORD, section: 'Notes & Knowledge Management', subsection: 'Apps' };
+  const errors = validateResources([record]);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /has no subsections, so "subsection" must be null/);
+});
+
+test('SECTIONS subsection lists match data/resources.json in README order', () => {
+  const records = JSON.parse(readFileSync(new URL('../data/resources.json', import.meta.url), 'utf8'));
+  for (const section of SECTIONS) {
+    const seen = [];
+    for (const r of records) {
+      if (r.section === section.heading && r.subsection && !seen.includes(r.subsection)) seen.push(r.subsection);
+    }
+    assert.deepEqual(section.subsections ?? [], seen, `subsections for "${section.heading}"`);
+  }
 });

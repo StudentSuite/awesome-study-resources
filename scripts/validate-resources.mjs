@@ -34,6 +34,10 @@
 // generate-readme.mjs); entries themselves are sorted alphabetically by the
 // generator regardless of file order.
 //
+// data/resources.schema.json describes the same shape as a JSON Schema so
+// editors can flag bad records while typing; this script stays the CI gate, and
+// a test keeps the two in step.
+//
 // Usage:
 //   node scripts/validate-resources.mjs
 //
@@ -43,16 +47,18 @@
 
 import { readFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { SECTIONS } from './readme-template.mjs';
 
-const REQUIRED_STRING_FIELDS = ['name', 'url', 'description', 'section'];
+export const REQUIRED_STRING_FIELDS = ['name', 'url', 'description', 'section'];
 
-export function validateResources(records) {
+export function validateResources(records, sections = SECTIONS) {
   const errors = [];
 
   if (!Array.isArray(records)) {
     return ['data/resources.json must be a JSON array of resource records.'];
   }
 
+  const validSections = new Set(sections.map((s) => (typeof s === 'string' ? s : s.heading)));
   const seenCombos = new Map(); // "section/subsection/name" -> first index
 
   records.forEach((record, i) => {
@@ -76,18 +82,54 @@ export function validateResources(records) {
       }
     }
 
-    if (typeof record.url === 'string' && !/^https:\/\//.test(record.url)) {
-      errors.push(`${where}: "url" must start with "https://": ${record.url}`);
+    if (typeof record.url === 'string') {
+      if (!/^https:\/\//.test(record.url)) {
+        errors.push(`${where}: "url" must start with "https://": ${record.url}`);
+      } else {
+        try {
+          const parsed = new URL(record.url);
+          for (const key of parsed.searchParams.keys()) {
+            if (key.startsWith('utm_') || ['fbclid', 'gclid', 'ref', 'si'].includes(key)) {
+              errors.push(`${where}: "url" contains tracking query parameter "${key}": ${record.url}`);
+            }
+          }
+        } catch {
+          // ignore parsing error
+        }
+      }
     }
 
     if (typeof record.section === 'string') {
-      const key = JSON.stringify([record.section, record.subsection ?? null, record.name]);
-      if (seenCombos.has(key)) {
+      const sectionDef = sections.find((s) => typeof s === 'object' && s.heading === record.section);
+      const subsection = typeof record.subsection === 'string' ? record.subsection : null;
+      // A misspelled subsection would otherwise pass and silently create a new
+      // ### heading (#505). Sections without a list take null only.
+      if (sectionDef && subsection !== null) {
+        if (Array.isArray(sectionDef.subsections)) {
+          if (!sectionDef.subsections.includes(subsection)) {
+            errors.push(
+              `${where}: unknown subsection "${subsection}" in "${record.section}". Valid subsections are: ${sectionDef.subsections.join(', ')}.`
+            );
+          }
+        } else {
+          errors.push(
+            `${where}: "${record.section}" has no subsections, so "subsection" must be null, got "${subsection}".`
+          );
+        }
+      }
+      if (!validSections.has(record.section)) {
         errors.push(
-          `${where}: duplicate entry for section/subsection/name, already seen at record ${seenCombos.get(key)}.`
+          `${where}: unknown section "${record.section}". Valid sections are: ${Array.from(validSections).join(', ')}.`
         );
       } else {
-        seenCombos.set(key, i);
+        const key = JSON.stringify([record.section, record.subsection ?? null, record.name]);
+        if (seenCombos.has(key)) {
+          errors.push(
+            `${where}: duplicate entry for section/subsection/name, already seen at record ${seenCombos.get(key)}.`
+          );
+        } else {
+          seenCombos.set(key, i);
+        }
       }
     }
   });

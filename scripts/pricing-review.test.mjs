@@ -122,3 +122,23 @@ test('buildChecklist defaults to the derived size and states the cycle', () => {
   assert.equal((md.match(/^- \[ \]/gm) || []).length, 10);
   assert.match(md, /about every 12 months/);
 });
+
+test('parseEntries excludes bullets in non-content footer sections', () => {
+  const readme = `## Exam Prep
+
+- **[Alpha](https://alpha.example)** - x (free).
+
+## More from StudentSuite
+
+- **[Sibling Project](https://sibling.example)** - y (free).
+- **[Another Project](https://another.example)** - z (free).
+
+## License
+
+MIT
+`;
+  const entries = parseEntries(readme);
+  assert.equal(entries.length, 1);
+  assert.equal(entries[0].name, 'Alpha');
+});
+
