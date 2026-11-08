@@ -253,7 +253,7 @@
   },
   {
     "name": "Clastify",
-    "url": "https://www.clastify.com/blog/ib-extended-essay-guide",
+    "url": "https://www.clastify.com/knowledge-hub/post/ib-extended-essay-guide",
     "description": "Searchable bank of grade-A Extended Essay exemplars across subjects (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Extended Essay"
@@ -449,7 +449,7 @@
   },
   {
     "name": "College Board PSAT/NMSQT",
-    "url": "https://satsuite.collegeboard.org/psat-nmsqt",
+    "url": "https://satsuite.collegeboard.org/in-school-assessments",
     "description": "The official overview, dates, and score info for the PSAT/NMSQT (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Pew Research Center",
-    "url": "https://www.pewresearch.org/internet/",
+    "url": "https://www.pewresearch.org/topic/internet-technology/",
     "description": "Free, nonpartisan research and data on technology's impact on society (free).",
     "section": "By Subject",
     "subsection": "ITGS"
@@ -1198,7 +1198,7 @@
   },
   {
     "name": "tutor2u",
-    "url": "https://www.tutor2u.net/business",
+    "url": "https://www.tutor2u.net/teaching/business",
     "description": "Notes, revision, and exam support for Business Studies (freemium).",
     "section": "By Subject",
     "subsection": "Business Studies"
@@ -1772,7 +1772,7 @@
   },
   {
     "name": "Revision Village",
-    "url": "https://www.revisionvillage.com/ib-ess/sl-2026/",
+    "url": "https://www.revisionvillage.com/ib-ess/sl/",
     "description": "Questionbank, past papers, and flashcards for IB ESS (freemium).",
     "section": "By Subject",
     "subsection": "Environmental Systems & Societies"
@@ -2003,7 +2003,7 @@
   },
   {
     "name": "tutor2u Psychology",
-    "url": "https://www.tutor2u.net/psychology",
+    "url": "https://www.tutor2u.net/teaching/psychology",
     "description": "Offers A-Level psychology study notes, quizzes, and topic videos (freemium).",
     "section": "By Subject",
     "subsection": "Psychology"
@@ -3193,7 +3193,7 @@
   },
   {
     "name": "National Geographic Education",
-    "url": "https://www.nationalgeographic.org/education/",
+    "url": "https://www.nationalgeographic.org/learn/educators",
     "description": "Free geography lesson plans, maps, and interactive classroom resources (free).",
     "section": "By Subject",
     "subsection": "Geography"
@@ -3487,7 +3487,7 @@
   },
   {
     "name": "Crash Course Religions",
-    "url": "https://thecrashcourse.com/courses/religions/",
+    "url": "https://thecrashcourse.com/courses/religions-and-pop-culture-crash-course-religions-24/",
     "description": "A 24-episode video series exploring world religions and belief systems (free).",
     "section": "By Subject",
     "subsection": "World Religions"
@@ -3501,7 +3501,7 @@
   },
   {
     "name": "Crash Course Statistics",
-    "url": "https://thecrashcourse.com/courses/statistics/",
+    "url": "https://thecrashcourse.com/topic/statistics/",
     "description": "A 44-episode video series covering statistics from basics to modeling (free).",
     "section": "By Subject",
     "subsection": "Statistics"
@@ -3816,7 +3816,7 @@
   },
   {
     "name": "Fieldsights",
-    "url": "https://culanth.org/fieldsights",
+    "url": "https://www.culanth.org/fieldsights",
     "description": "Read open-access essays and podcasts from working cultural anthropologists (free).",
     "section": "By Subject",
     "subsection": "Social and Cultural Anthropology"
@@ -3921,7 +3921,7 @@
   },
   {
     "name": "Varsity Tutors PSAT",
-    "url": "https://www.varsitytutors.com/psat-practice-tests",
+    "url": "https://www.varsitytutors.com/practice/subjects/psat",
     "description": "Practice PSAT questions with a free study plan (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
@@ -4460,7 +4460,7 @@
   },
   {
     "name": "Pew Research Center Religion",
-    "url": "https://www.pewresearch.org/religion/",
+    "url": "https://www.pewresearch.org/topic/religion/",
     "description": "Browse nonpartisan data and reports on religion around the world (free).",
     "section": "By Subject",
     "subsection": "World Religions"
