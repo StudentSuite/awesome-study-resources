@@ -25,7 +25,7 @@ user_agent = "awesome-study-resources-linkcheck (+https://github.com/StudentSuit
 
 # sacred-texts.com (By Subject > Religious Studies / Classics) still fails with the honest UA in
 # Dead Link Check run 42505665114 (2026-11-08): "HTTP/2 protocol error. Server may not support
-# HTTP/2 properly" in lychee's client. The site loads in a browser, so it stays excluded (#394, #463).
+# HTTP/2 properly" in lychee's client, while curl gets 200 over HTTP/2, so it stays excluded (#394).
 exclude = [
   "https://sacred-texts.com/",
 ]
