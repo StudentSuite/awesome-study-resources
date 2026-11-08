@@ -20,42 +20,7 @@ timeout = 20
 retry_wait_time = 2
 max_retries = 2
 
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+# Honest UA: a spoofed Chrome string from a non-browser client tripped bot protection (#463).
+user_agent = "awesome-study-resources-linkcheck (+https://github.com/StudentSuite/awesome-study-resources)"
 
-# cambridgeincolour.com (By Subject > Photography) intermittently times out for lychee (#292
-# and prior runs). Manually verified: the TCP connection to port 443 succeeds instantly (and
-# plain http:// also responds, with a 301 to https://), but the TLS handshake itself hangs
-# and times out for automated clients (curl, Python's ssl module, this workflow's fetcher)
-# regardless of certificate verification, while the site is still indexed and served normally
-# to real browsers/search bots. That's consistent with TLS-fingerprint-based bot blocking, not
-# a dead site, so it's excluded here instead of removed from README.md.
-# sacred-texts.com (By Subject > Religious Studies / Classics), oranoai.com (Notes & Knowledge
-# Management) and siriusrevision.com (Exam & Curriculum Prep > IB) are live sites that respond
-# 200 to curl and browsers with this same user agent, but fail only from the CI runner (#394):
-# sacred-texts.com triggers an HTTP/2 protocol error in lychee's client, oranoai.com returns a
-# bogus 404 to GitHub-hosted runner IPs, and siriusrevision.com times out intermittently. These
-# are bot/IP-blocking and client quirks, not dead sites, so they are excluded instead of removed.
-# double-entry-bookkeeping.com, bizedmadesimple.com, mrallsophistory.com and statology.org (HTTP/2
-# protocol errors in lychee's client) and sciencesauceonline.com, core-econ.org and economicshelp.org
-# (Cloudflare 520 origin errors returned only to the CI runner) all load fine with curl and in a
-# browser (HTTP 200, re-verified 2026-10-17) and passed the same check in an earlier run, so they
-# are intermittent runner/client quirks, not dead sites. Excluded instead of removed.
-# tutorial.math.lamar.edu (By Subject > Mathematics, Paul's Online Math Notes) is a long-running,
-# actively maintained site (copyright 2026), but as of 2026-10-17 Lamar University's DNS publishes
-# its CNAME (tutorial-math.wip.lamar.edu) with no address record behind it, so every resolver fails
-# (curl exit 6). That looks like a university-side DNS/hosting outage, not a retired resource, so it
-# is excluded instead of removed; drop this exclusion once the site resolves again.
-exclude = [
-  "https://www.cambridgeincolour.com/",
-  "https://sacred-texts.com/",
-  "https://oranoai.com/",
-  "https://www.siriusrevision.com/",
-  "https://tutorial.math.lamar.edu/",
-  "https://www.double-entry-bookkeeping.com/",
-  "https://bizedmadesimple.com/",
-  "https://www.mrallsophistory.com/",
-  "https://www.statology.org/",
-  "https://sciencesauceonline.com/ibess/",
-  "https://www.core-econ.org/",
-  "https://www.economicshelp.org/",
-]
+exclude = []
