@@ -4,6 +4,7 @@
 
 - Link: <!-- https://example.com -->
   Why it helps students: <!-- one sentence -->
+  Affiliation: <!-- do you maintain, work on, or get paid by this resource? Say "none" or describe it. Disclosure doesn't disqualify an entry. -->
 
 ## Checklist
 

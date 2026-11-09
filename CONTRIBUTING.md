@@ -96,6 +96,8 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 3. Open a PR titled `Add resource: Name`.
 4. In the PR description, link the resource and say in one sentence why it helps students.
 
+If you maintain, work on, or are paid by the resource you're adding, say so in the PR description. Disclosure does not disqualify an entry; it is judged against the same Quality Standards as every other one.
+
 The generator sorts every list alphabetically (case-insensitive) by entry name, so you don't need to find the right alphabetical position by hand, just run it after editing the data file.
 
 If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), delete its record from `data/resources.json`, regenerate README.md, and add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
