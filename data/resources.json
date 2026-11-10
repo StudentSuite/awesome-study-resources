@@ -4583,5 +4583,12 @@
     "description": "Searchable ballet terminology with video demonstrations for each step.",
     "section": "By Subject",
     "subsection": "Dance"
+  },
+  {
+    "name": "Prompt Generator",
+    "url": "https://trypromptgenerator.com",
+    "description": "Writes prompts for ChatGPT, Claude, Gemini and other AI tools, 10 free daily (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
   }
 ]
