@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 409 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 410 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -346,7 +346,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Physics
 
 <details open>
-<summary>Physics (13 resources)</summary>
+<summary>Physics (14 resources)</summary>
 
 - **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics (free).
 - **[HyperPhysics](https://hyperphysics.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
@@ -359,6 +359,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Physics LibreTexts](https://phys.libretexts.org)** - Read open-access physics textbooks from mechanics to quantum (free).
 - **[Sandbox Physics](https://sandboxphysics.com/)** - Explore physics through interactive browser experiments (free).
 - **[Scivra](https://www.scivra.com/)** - Run interactive 3D science labs for high school in the browser (freemium).
+- **[Space Simulator Online](https://spacesimulator.online/)** - Explore the Solar System, star sizes and galaxies in 3D (free).
 - **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - The classic lectures, free to read online (free).
 - **[The Physics Classroom](https://www.physicsclassroom.com/)** - Learn forces, motion, waves, and electricity with tutorials and practice (freemium).
 
