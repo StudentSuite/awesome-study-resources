@@ -38,7 +38,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
-| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 12 |
+| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 13 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 12 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 20 |
@@ -1081,7 +1081,7 @@ Plan the week, protect the deadlines.
 Draft, cite, and polish papers.
 
 <details open>
-<summary>Writing, Citations & Reference (12 resources)</summary>
+<summary>Writing, Citations & Reference (13 resources)</summary>
 
 - **[EasyBib](https://www.easybib.com)** - Citation and bibliography generator, free for MLA (freemium).
 - **[Grammarly](https://www.grammarly.com)** - Grammar and clarity suggestions as you write (freemium).
@@ -1090,6 +1090,7 @@ Draft, cite, and polish papers.
 - **[IELTS Writing Practice](https://ieltswritingpractice.app/)** - Practise timed IELTS writing; AI feedback costs extra (freemium).
 - **[LanguageTool](https://languagetool.org)** - Check grammar and style with an open-source tool (freemium).
 - **[Overleaf](https://www.overleaf.com)** - Collaborative online LaTeX editor for formatted papers (freemium).
+- **[Prompt Generator](https://trypromptgenerator.com)** - Writes prompts for ChatGPT, Claude, Gemini and other AI tools, 10 free daily (freemium).
 - **[Purdue OWL](https://owl.purdue.edu)** - Free reference for writing, grammar, and citation styles (free).
 - **[Quetext](https://www.quetext.com)** - Plagiarism checker with a citation generator, limited free checks (freemium).
 - **[Scite](https://scite.ai/)** - Searches citations to show whether later studies support or contrast a paper (freemium).

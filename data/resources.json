@@ -4585,10 +4585,17 @@
     "subsection": "Dance"
   },
   {
+    "name": "Prompt Generator",
+    "url": "https://trypromptgenerator.com",
+    "description": "Writes prompts for ChatGPT, Claude, Gemini and other AI tools, 10 free daily (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
+ },
+ {
     "name": "Space Simulator Online",
     "url": "https://spacesimulator.online/",
     "description": "Explore the Solar System, star sizes and galaxies in 3D (free).",
     "section": "By Subject",
     "subsection": "Physics"
-  }
+ }
 ]
