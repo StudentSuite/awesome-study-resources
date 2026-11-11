@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-655-blue)
+![Resources](https://img.shields.io/badge/resources-656-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 126 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 409 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
@@ -95,7 +95,7 @@ Official and community prep for the big exams and curricula.
 ### AP
 
 <details open>
-<summary>AP (10 resources)</summary>
+<summary>AP (11 resources)</summary>
 
 - **[Albert.io](https://www.albert.io)** - Standards-aligned practice questions across every AP subject (freemium).
 - **[AP Central](https://apcentral.collegeboard.org)** - Browse official AP course descriptions, exam formats, and past free-response questions (free).
@@ -103,6 +103,7 @@ Official and community prep for the big exams and curricula.
 - **[AP Practice Exams](https://www.appracticeexams.com/)** - Directory of free AP practice exams, notes, and study guides by subject (free).
 - **[AP Review Hub](https://www.apreviewhub.com/)** - Free flashcards, cheat sheets, and FRQ practice for every AP subject (free).
 - **[AP Students](https://apstudents.collegeboard.org)** - The official College Board hub for AP course info and exam details (free).
+- **[Ashore AP](https://tryashore.com/ap)** - Check units, exam dates, and 2026 score distributions for 15 AP courses (freemium).
 - **[Brainscape AP](https://www.brainscape.com/subjects/entrance-exams/ap-exams)** - Adaptive flashcards for every AP subject (freemium).
 - **[Fiveable](https://fiveable.me)** - Study with guides, practice questions, and exam-day reviews for all 38 AP subjects (freemium).
 - **[Free AP Practice](https://freeappractice.org/)** - Free, unlimited AP practice questions with instant feedback across 20+ subjects (free).

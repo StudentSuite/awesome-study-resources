@@ -4583,5 +4583,12 @@
     "description": "Searchable ballet terminology with video demonstrations for each step.",
     "section": "By Subject",
     "subsection": "Dance"
+  },
+  {
+    "name": "Ashore AP",
+    "url": "https://tryashore.com/ap",
+    "description": "Check units, exam dates, and 2026 score distributions for 15 AP courses (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
   }
 ]
