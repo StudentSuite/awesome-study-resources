@@ -4597,5 +4597,12 @@
     "description": "Explore the Solar System, star sizes and galaxies in 3D (free).",
     "section": "By Subject",
     "subsection": "Physics"
- }
+ },
+  {
+    "name": "SolidCraft tutorial",
+    "url": "https://solidcraftcad.com/solidcraft-tutorial",
+    "description": "Model a first part in 3D CAD: sketch, extrude, fillet, export STL (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  }
 ]

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-657-blue)
+![Resources](https://img.shields.io/badge/resources-658-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 410 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 411 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 12 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -427,7 +427,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Design Technology
 
 <details open>
-<summary>Design Technology (10 resources)</summary>
+<summary>Design Technology (11 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zykw2hv)** - Free curriculum-aligned revision guides for GCSE Design and Technology (free).
 - **[Clastify](https://www.clastify.com/notes/design-technology)** - Searchable IB Design Technology notes filtered by grade and level (freemium).
@@ -439,6 +439,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Lanterna Education](https://lanterna.com/resources/ib-design-tech-ia)** - Free guide to the IB Design Technology internal assessment's design cycle (free).
 - **[Nail IB](https://nailib.com/blog/ib-design-technology-ia)** - Free guide to the IB Design Technology internal assessment (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-design-technology)** - Notes, flashcards, and a question bank for IB Design Technology (freemium).
+- **[SolidCraft tutorial](https://solidcraftcad.com/solidcraft-tutorial)** - Model a first part in 3D CAD: sketch, extrude, fillet, export STL (free).
 
 </details>
 
