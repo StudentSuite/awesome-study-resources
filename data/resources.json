@@ -2534,6 +2534,13 @@
     "subsection": null
   },
   {
+    "name": "Glasp",
+    "url": "https://glasp.co",
+    "description": "Highlight web pages, PDFs, and YouTube videos, then export to Markdown or Notion (freemium).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
     "name": "Koru",
     "url": "https://www.koru.do",
     "description": "Keeps notes, docs, and files offline on your own devices (free, open source).",
