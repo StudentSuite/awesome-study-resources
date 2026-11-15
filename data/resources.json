@@ -4604,5 +4604,12 @@
     "description": "Explore the Solar System, star sizes and galaxies in 3D (free).",
     "section": "By Subject",
     "subsection": "Physics"
+ },
+ {
+    "name": "Kiri",
+    "url": "https://project-kiri.com/",
+    "description": "Times focus blocks on your laptop with a task list and background sounds (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
  }
 ]
