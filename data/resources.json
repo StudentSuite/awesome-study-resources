@@ -4604,5 +4604,12 @@
     "description": "Explore the Solar System, star sizes and galaxies in 3D (free).",
     "section": "By Subject",
     "subsection": "Physics"
- }
+ },
+  {
+    "name": "Spaced Repetition Calculator",
+    "url": "https://productive.fish/spaced-repetition-calculator/",
+    "description": "Plan topic reviews before an exam and add them to your calendar (free).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  }
 ]
