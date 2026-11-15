@@ -4604,5 +4604,12 @@
     "description": "Explore the Solar System, star sizes and galaxies in 3D (free).",
     "section": "By Subject",
     "subsection": "Physics"
+ },
+ {
+    "name": "EveryApp Flashcards",
+    "url": "https://everyapp.pro/flashcard-maker",
+    "description": "Make flashcards or import Quizlet and Anki decks, then review with spaced repetition (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
  }
 ]
