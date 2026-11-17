@@ -4605,7 +4605,14 @@
     "section": "By Subject",
     "subsection": "Physics"
  },
-  {
+ {
+    "name": "Kiri",
+    "url": "https://project-kiri.com/",
+    "description": "Times focus blocks on your laptop with a task list and background sounds (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
+ },
+ {
     "name": "Spaced Repetition Calculator",
     "url": "https://productive.fish/spaced-repetition-calculator/",
     "description": "Plan topic reviews before an exam and add them to your calendar (free).",
