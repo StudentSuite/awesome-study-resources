@@ -4618,5 +4618,12 @@
     "description": "Plan topic reviews before an exam and add them to your calendar (free).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "Lectern",
+    "url": "https://mthsluna.github.io/lectern/",
+    "description": "Times study sessions, blocks distracting sites, and writes a weekly report (free, open source).",
+    "section": "Task, Time & Planning",
+    "subsection": null
   }
 ]
