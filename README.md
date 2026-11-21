@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-660-blue)
+![Resources](https://img.shields.io/badge/resources-661-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 410 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 411 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 18 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 12 |
@@ -947,7 +947,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Music
 
 <details open>
-<summary>Music (10 resources)</summary>
+<summary>Music (11 resources)</summary>
 
 - **[8notes](https://www.8notes.com)** - Download sheet music for 25+ instruments (freemium).
 - **[Ableton Learning Music](https://learningmusic.ableton.com/)** - Learn beats, scales, and chords through interactive in-browser lessons (free).
@@ -957,6 +957,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[musictheory.net](https://www.musictheory.net)** - Free, interactive lessons and ear-training exercises for music theory basics (free).
 - **[MyMusicTheory](https://mymusictheory.com/)** - Learn music theory with lessons and grade quizzes for ABRSM and Trinity exams (freemium).
 - **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** - Teaches theory and analysis in an open online textbook (free).
+- **[Plastic Circle of Fifths](https://plastic.audio/circle-of-fifths/)** - Explore every key's signature, chords and relative minor on an interactive circle (free).
 - **[Rick Beato](https://www.youtube.com/@RickBeato)** - In-depth music theory, ear training, and song analysis (free).
 - **[teoria](https://teoria.com)** - Free ear-training drills and music theory reference (free).
 
