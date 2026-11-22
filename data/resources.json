@@ -4632,5 +4632,12 @@
     "description": "Times study sessions, blocks distracting sites, and writes a weekly report (free, open source).",
     "section": "Task, Time & Planning",
     "subsection": null
+  },
+  {
+    "name": "oosync",
+    "url": "https://oosync.com",
+    "description": "Translates textbooks into Hindi and other languages, reads them aloud, makes flashcards (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
   }
 ]
