@@ -78,6 +78,7 @@ export const SECTIONS = [
       'PSAT',
       'SAT',
       'Theory of Knowledge',
+      'TOEFL',
     ],
   },
   {
