@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-663-blue)
+![Resources](https://img.shields.io/badge/resources-664-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 126 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 411 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 19 |
@@ -53,7 +53,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 Official and community prep for the big exams and curricula.
 
-**Jump to:** [A-Level](#a-level) &middot; [ACT](#act) &middot; [AP](#ap) &middot; [AP Computer Science](#ap-computer-science) &middot; [CAS](#cas) &middot; [Extended Essay](#extended-essay) &middot; [GCSE](#gcse) &middot; [IB (IBDP)](#ib-ibdp) &middot; [IGCSE](#igcse) &middot; [PSAT](#psat) &middot; [SAT](#sat) &middot; [Theory of Knowledge](#theory-of-knowledge)
+**Jump to:** [A-Level](#a-level) &middot; [ACT](#act) &middot; [AP](#ap) &middot; [AP Computer Science](#ap-computer-science) &middot; [CAS](#cas) &middot; [Extended Essay](#extended-essay) &middot; [GCSE](#gcse) &middot; [IB (IBDP)](#ib-ibdp) &middot; [IGCSE](#igcse) &middot; [PSAT](#psat) &middot; [SAT](#sat) &middot; [Theory of Knowledge](#theory-of-knowledge) &middot; [TOEFL](#toefl)
 
 ### A-Level
 
@@ -273,6 +273,15 @@ Official and community prep for the big exams and curricula.
 - **[TOK Resource](https://www.tokresource.org)** - Free, non-commercial TOK concepts, prompts, and lesson ideas (free).
 - **[ToK Today](https://www.toktoday.com/)** - Offers TOK essay and exhibition guidance, videos, and coaching (freemium).
 - **[TutorChase](https://www.tutorchase.com/notes/ib/tok)** - Read notes covering TOK themes, knowledge questions, and areas of knowledge (freemium).
+
+</details>
+
+### TOEFL
+
+<details open>
+<summary>TOEFL (1 resource)</summary>
+
+- **[ToeflHub](https://toeflhub.com/tools/mock-exam)** - Practice the 2026 TOEFL iBT with full mock tests and AI scoring (freemium).
 
 </details>
 

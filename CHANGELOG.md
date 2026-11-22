@@ -65,6 +65,7 @@ v1.0.0 tag itself.
   [MolView](https://molview.org/) (Diagramming & STEM Tools), and [Automate
   the Boring Stuff with Python](https://automatetheboringstuff.com/) (Building
   Software / Learn to Code).
+- A `### TOEFL` subsection under Exam & Curriculum Prep, with [ToeflHub](https://toeflhub.com/tools/mock-exam) for 2026 TOEFL iBT mock tests and AI scoring.
 
 ### Fixed
 
