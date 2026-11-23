@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-663-blue)
+![Resources](https://img.shields.io/badge/resources-664-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 19 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 13 |
-| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 13 |
+| <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 14 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 12 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 20 |
@@ -1087,9 +1087,10 @@ Plan the week, protect the deadlines.
 Draft, cite, and polish papers.
 
 <details open>
-<summary>Writing, Citations & Reference (13 resources)</summary>
+<summary>Writing, Citations & Reference (14 resources)</summary>
 
 - **[EasyBib](https://www.easybib.com)** - Citation and bibliography generator, free for MLA (freemium).
+- **[Free Citation Generator](https://free-citation-generator.web-free.site)** - Generate APA, MLA and Chicago citations from a DOI or URL, no signup (free).
 - **[Grammarly](https://www.grammarly.com)** - Grammar and clarity suggestions as you write (freemium).
 - **[Hemingway Editor](https://hemingwayapp.com)** - Check readability and flag dense sentences and passive voice (freemium).
 - **[IELTS Writing Checker](https://ieltswritingchecker.org/)** - Get IELTS Task 1 and Task 2 criterion feedback (freemium).

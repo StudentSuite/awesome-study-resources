@@ -4639,5 +4639,12 @@
     "description": "Translates textbooks into Hindi and other languages, reads them aloud, makes flashcards (freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "Free Citation Generator",
+    "url": "https://free-citation-generator.web-free.site",
+    "description": "Generate APA, MLA and Chicago citations from a DOI or URL, no signup (free).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
   }
 ]
