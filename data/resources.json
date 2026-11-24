@@ -4639,5 +4639,12 @@
     "description": "Translates textbooks into Hindi and other languages, reads them aloud, makes flashcards (freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "Migo Students",
+    "url": "https://students.migohq.com",
+    "description": "Study with an AI companion and read free how-to guides, such as Gibbs' reflective cycle (freemium).",
+    "section": "Writing, Citations & Reference",
+    "subsection": null
   }
 ]
