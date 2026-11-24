@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 125 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 126 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 411 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 19 |
