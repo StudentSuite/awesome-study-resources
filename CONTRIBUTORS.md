@@ -33,7 +33,7 @@ against the [Quality Standards](README.md#quality-standards), and open a PR.
 - [@moelnahhas](https://github.com/moelnahhas) - added CtrlAltRevise Pseudocode Practice
 - [@NicBamberger](https://github.com/NicBamberger) - added IB Doctor Command Terms and MyRevisionAgent
 - [@nmajor](https://github.com/nmajor) - added Calculator Campus
-- [@NotCqqkie](https://github.com/NotCqqkie) - added 1600.now
+- [@lukefinigan](https://github.com/lukefinigan) - added 1600.now
 - [@NoteGoblinApp](https://github.com/NoteGoblinApp) - added NoteGoblin
 - [@pansuriyaForam](https://github.com/pansuriyaForam) - added Internet Encyclopedia of Philosophy
 - [@pieralukasz](https://github.com/pieralukasz) - added True Recall

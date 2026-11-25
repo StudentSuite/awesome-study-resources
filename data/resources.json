@@ -3570,13 +3570,6 @@
     "subsection": "ACT"
   },
   {
-    "name": "iBacalao",
-    "url": "https://www.ibacalao.com",
-    "description": "Reviews IA, EE, and TOK drafts criterion by criterion (freemium).",
-    "section": "Exam & Curriculum Prep",
-    "subsection": "IB (IBDP)"
-  },
-  {
     "name": "ACT Score Calculator",
     "url": "https://actscorecalculators.com/",
     "description": "Convert ACT practice-test answers into scores and percentiles (free).",
@@ -4638,6 +4631,20 @@
     "url": "https://oosync.com",
     "description": "Translates textbooks into Hindi and other languages, reads them aloud, makes flashcards (freemium).",
     "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
+    "name": "carboncarbon.bond",
+    "url": "https://carboncarbon.bond",
+    "description": "Learn organic chemistry from scratch with 3D molecules and quick checks (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
+  },
+  {
+    "name": "SimplestCalc",
+    "url": "https://simplestcalc.com/grades-calculator",
+    "description": "Calculate current, final and weighted grades as you type (free).",
+    "section": "Task, Time & Planning",
     "subsection": null
   }
 ]
