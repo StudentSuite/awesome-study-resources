@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-664-blue)
+![Resources](https://img.shields.io/badge/resources-665-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 412 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 413 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 19 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 14 |
@@ -286,7 +286,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Mathematics
 
 <details open>
-<summary>Mathematics (13 resources)</summary>
+<summary>Mathematics (14 resources)</summary>
 
 - **[3Blue1Brown](https://www.3blue1brown.com)** - Visual, intuition-first explanations of hard math ideas (free).
 - **[Art of Problem Solving](https://artofproblemsolving.com/)** - Practice competition and advanced math with adaptive problems, a wiki, and forums (freemium).
@@ -300,6 +300,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Libre Calculator](https://librecalculator.com/)** - Explore free, open-source calculators with worked steps, diagrams, and lessons.
 - **[Mathigon](https://mathigon.org)** - Explore maths through interactive courses and the Polypad tool (free).
 - **[MathsGenie](https://mathsgenie.co.uk/)** - Find GCSE and A-Level Maths videos, worksheets, and past papers by topic (freemium).
+- **[ModuMath](https://math.hjinlabs.com/?lang=en)** - Use free trial credits to explore a math step and practise a related problem.
 - **[Paul's Online Math Notes](https://tutorial.math.lamar.edu)** - Free, thorough notes and examples from algebra to differential equations (free).
 
 </details>

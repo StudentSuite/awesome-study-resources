@@ -4646,5 +4646,12 @@
     "description": "Calculate current, final and weighted grades as you type (free).",
     "section": "Task, Time & Planning",
     "subsection": null
+  },
+  {
+    "name": "ModuMath",
+    "url": "https://math.hjinlabs.com/?lang=en",
+    "description": "Use free trial credits to explore a math step and practise a related problem.",
+    "section": "By Subject",
+    "subsection": "Mathematics"
   }
 ]
