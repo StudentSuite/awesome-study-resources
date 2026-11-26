@@ -4646,5 +4646,12 @@
     "description": "Calculate current, final and weighted grades as you type (free).",
     "section": "Task, Time & Planning",
     "subsection": null
+  },
+  {
+    "name": "BioCentral IB",
+    "url": "https://biocentral-ib.com/",
+    "description": "Revise IB Biology with syllabus-ordered notes, slides, and exam-style questions (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
   }
 ]
