@@ -4653,5 +4653,12 @@
     "description": "Revise IB Biology with syllabus-ordered notes, slides, and exam-style questions (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "Easy IGCSE",
+    "url": "https://easyigcse.com",
+    "description": "Revise Edexcel and Cambridge IGCSE with spec-mapped notes, quizzes, and 3D diagrams (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
   }
 ]
