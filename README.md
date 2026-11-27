@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-666-blue)
+![Resources](https://img.shields.io/badge/resources-667-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 126 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 127 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 412 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 19 |
@@ -244,7 +244,7 @@ Official and community prep for the big exams and curricula.
 ### SAT
 
 <details open>
-<summary>SAT (10 resources)</summary>
+<summary>SAT (11 resources)</summary>
 
 - **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores (paid).
 - **[1600.now](https://1600.now/)** - Practice SAT questions and timed tests with answer explanations (free).
@@ -253,6 +253,7 @@ Official and community prep for the big exams and curricula.
 - **[College Board SAT Suite](https://satsuite.collegeboard.org/sat)** - The official overview, dates, registration, and score info for the SAT (free).
 - **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board (free).
 - **[Magoosh SAT](https://sat.magoosh.com)** - Video lessons and practice questions for the Digital SAT (freemium).
+- **[PassProfessor SAT](https://passprofessor.com/courses/sat-practice-exams/lessons/sat-free-sample/quizzes/sat-sample-quiz/)** - Just 20 free Digital SAT sample questions (freemium).
 - **[PrepScholar](https://www.prepscholar.com/sat-test-prep/)** - Free study guides, score strategies, and section-by-section practice for the SAT (free).
 - **[The Princeton Review SAT](https://www.princetonreview.com/college/free-digitalsat-practice-test)** - Take a full-length Digital SAT practice test with a score report (freemium).
 - **[UWorld SAT](https://collegeprep.uworld.com/sat/)** - Large question bank with detailed explanations (paid).
