@@ -1034,6 +1034,7 @@ Remember more with less rereading.
 <details open>
 <summary>Flashcards & Spaced Repetition (19 resources)</summary>
 
+- **[AshuTeacher](https://ashuteacher.vercel.app)** - AI Voice Blackboard, 195-country syllabus academy, exam paper solver, 3D spaced-repetition flashcards & live AI Viva Defense studio ![freemium](https://img.shields.io/badge/freemium-2489CA?style=flat-square).
 - **[Anki](https://apps.ankiweb.net)** - Free, open-source spaced-repetition flashcards with huge shared decks (free).
 - **[Brainscape](https://www.brainscape.com)** - Confidence-based repetition flashcards (freemium).
 - **[BrioVocab](https://briovocab.com/)** - Practice French vocabulary with spaced repetition, spelling, and pronunciation (freemium).
