@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-664-blue)
+![Resources](https://img.shields.io/badge/resources-667-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,11 +33,11 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 126 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 411 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 127 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 412 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 19 |
-| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 13 |
+| <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 14 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 13 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 12 |
@@ -188,9 +188,9 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>IB (IBDP) (11 resources)</summary>
 
+- **[BioCentral IB](https://biocentral-ib.com/)** - Revise IB Biology with syllabus-ordered notes, slides, and exam-style questions (freemium).
 - **[IB Doctor Command Terms](https://ibdoctor.co.uk/resources/command-terms)** - Explains what each IB command term asks for (free).
 - **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources (free).
-- **[iBacalao](https://www.ibacalao.com)** - Reviews IA, EE, and TOK drafts criterion by criterion (freemium).
 - **[MyRevisionAgent](https://myrevisionagent.com)** - Grades TOK essays, Extended Essays, and IAs against official IB rubrics (freemium).
 - **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus (freemium).
@@ -205,11 +205,12 @@ Official and community prep for the big exams and curricula.
 ### IGCSE
 
 <details open>
-<summary>IGCSE (11 resources)</summary>
+<summary>IGCSE (12 resources)</summary>
 
 - **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
 - **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
 - **[CtrlAltRevise Pseudocode Practice](https://www.ctrlaltrevise.com/pseudocode-practice)** - Practise 0478/0984 pseudocode with original exercises and answers (free).
+- **[Easy IGCSE](https://easyigcse.com)** - Revise Edexcel and Cambridge IGCSE with spec-mapped notes, quizzes, and 3D diagrams (free).
 - **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes (free).
 - **[PapaCambridge](https://pastpapers.papacambridge.com/)** - Download Cambridge IGCSE past papers, topical questions, and mark schemes (freemium).
 - **[Past Papers Academy](https://pastpapersacademy.com/)** - Free Cambridge IGCSE past papers, topical questions, and revision notes (free).
@@ -369,9 +370,10 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Chemistry
 
 <details open>
-<summary>Chemistry (12 resources)</summary>
+<summary>Chemistry (13 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmf3cdm)** - Covers GCSE chemistry topics with revision guides and quizzes (free).
+- **[carboncarbon.bond](https://carboncarbon.bond)** - Learn organic chemistry from scratch with 3D molecules and quick checks (free).
 - **[Chemguide](https://www.chemguide.co.uk)** - Focused explanations for UK A-Level and IGCSE chemistry (free).
 - **[Chemistry LibreTexts](https://chem.libretexts.org)** - Free, open chemistry textbooks and reference material (free).
 - **[Chempirical](https://chempirical.com/)** - Balance equations, solve stoichiometry and calculate pH step by step (free).
@@ -1063,7 +1065,7 @@ Remember more with less rereading.
 Plan the week, protect the deadlines.
 
 <details open>
-<summary>Task, Time & Planning (13 resources)</summary>
+<summary>Task, Time & Planning (14 resources)</summary>
 
 - **[CalcAttendance](https://calcattendance.com/)** - See how many classes you can safely miss (free).
 - **[Dopastep](https://dopastep.com/)** - Splits a task into small steps with synced focus and break cycles (freemium).
@@ -1075,6 +1077,7 @@ Plan the week, protect the deadlines.
 - **[Motion](https://www.usemotion.com)** - Uses AI to auto-schedule tasks and timeblock them on your calendar (paid).
 - **[MyStudyLife](https://mystudylife.com/)** - Student planner for timetables, assignments, and deadlines, premium tier costs extra (freemium).
 - **[Notion Calendar](https://www.notion.com/product/calendar)** - Free calendar that connects to your Notion workspace (free).
+- **[SimplestCalc](https://simplestcalc.com/grades-calculator)** - Calculate current, final and weighted grades as you type (free).
 - **[TickTick](https://ticktick.com)** - Tasks, calendar, and a built-in Pomodoro timer (freemium).
 - **[Todoist](https://todoist.com)** - Cross-platform task manager with natural-language dates (freemium).
 - **[Toggl Track](https://toggl.com/track/)** - Track study time across devices with simple reports (freemium).

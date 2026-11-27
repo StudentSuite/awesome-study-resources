@@ -114,6 +114,9 @@ v1.0.0 tag itself.
 - StudyIB subject pages for Design Technology (`/designtechnology`), ITGS
   (`/itgs`) and Sports, Exercise & Health Science (`/sehs`): each now answers
   `303` and redirects to the StudyIB homepage (#464).
+- iBacalao from Exam & Curriculum Prep / IB (IBDP): its hosting deployment is
+  disabled and every address returns 402 Payment Required (#527). It can be
+  restored if the site comes back.
 
 ## [1.0.0] - 2026-08-11
 
