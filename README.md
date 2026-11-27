@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-667-blue)
+![Resources](https://img.shields.io/badge/resources-668-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 127 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 412 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 413 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 13 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 19 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 14 |
@@ -538,7 +538,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Foreign Languages
 
 <details open>
-<summary>Foreign Languages (11 resources)</summary>
+<summary>Foreign Languages (12 resources)</summary>
 
 - **[Busuu](https://www.busuu.com/en)** - Structured lessons with feedback from native speakers across 20+ languages (freemium).
 - **[Clozemaster](https://www.clozemaster.com)** - Builds vocabulary through fill-in-the-blank sentences across 50+ languages (freemium).
@@ -550,6 +550,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Language Transfer](https://www.languagetransfer.org/)** - Learn a language from audio courses built on understanding, not memorizing (free).
 - **[LingQ](https://www.lingq.com)** - Teaches vocabulary in context by reading and listening to real texts (freemium).
 - **[Memrise](https://www.memrise.com)** - Vocabulary and listening practice with native-speaker videos (freemium).
+- **[OpenExam Hub](https://openexamhub.org/exams)** - Builds a day-by-day plan from official language-exam materials (free, open source).
 - **[Tatoeba](https://tatoeba.org/)** - Searches example sentences with translations in hundreds of languages (free).
 
 </details>

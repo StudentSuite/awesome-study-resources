@@ -4667,5 +4667,12 @@
     "description": "Revise Edexcel and Cambridge IGCSE with spec-mapped notes, quizzes, and 3D diagrams (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"
+  },
+  {
+    "name": "OpenExam Hub",
+    "url": "https://openexamhub.org/exams",
+    "description": "Builds a day-by-day plan from official language-exam materials (free, open source).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
   }
 ]
